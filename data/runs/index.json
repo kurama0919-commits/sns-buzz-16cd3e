@@ -1,0 +1,146 @@
+{
+ "runs": [
+  {
+   "run_id": "20260705-213921",
+   "started_at": "2026-07-05T21:39:21+09:00",
+   "finished_at": "2026-07-05T21:39:25+09:00",
+   "genres": [
+    "illust"
+   ],
+   "platforms": [
+    "instagram"
+   ],
+   "requested": 50,
+   "saved": 7,
+   "new_count": 7,
+   "est_cost_usd": 0.0,
+   "est_cost_jpy": 0,
+   "status": "success",
+   "mode": "fixture",
+   "errors": []
+  },
+  {
+   "run_id": "20260705-205701",
+   "started_at": "2026-07-05T20:57:01+09:00",
+   "finished_at": "2026-07-05T21:08:18+09:00",
+   "genres": [
+    "illust",
+    "salon",
+    "business"
+   ],
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "requested": 300,
+   "saved": 199,
+   "new_count": 122,
+   "est_cost_usd": 0.674,
+   "est_cost_jpy": 101,
+   "status": "success",
+   "mode": "apify",
+   "errors": []
+  },
+  {
+   "run_id": "20260705-203142",
+   "started_at": "2026-07-05T20:31:42+09:00",
+   "finished_at": "2026-07-05T20:37:46+09:00",
+   "genres": [
+    "salon",
+    "business"
+   ],
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "requested": 200,
+   "saved": 82,
+   "new_count": 82,
+   "est_cost_usd": 0.423,
+   "est_cost_jpy": 63,
+   "status": "success",
+   "mode": "apify",
+   "errors": []
+  },
+  {
+   "run_id": "20260705-202319",
+   "started_at": "2026-07-05T20:23:19+09:00",
+   "finished_at": "2026-07-05T20:24:46+09:00",
+   "genres": [
+    "illust"
+   ],
+   "platforms": [
+    "instagram"
+   ],
+   "requested": 10,
+   "saved": 6,
+   "new_count": 6,
+   "est_cost_usd": 0.034,
+   "est_cost_jpy": 5,
+   "status": "success",
+   "mode": "apify",
+   "errors": []
+  },
+  {
+   "run_id": "20260705-202058",
+   "started_at": "2026-07-05T20:20:58+09:00",
+   "finished_at": "2026-07-05T20:22:12+09:00",
+   "genres": [
+    "illust"
+   ],
+   "platforms": [
+    "instagram"
+   ],
+   "requested": 10,
+   "saved": 0,
+   "new_count": 0,
+   "est_cost_usd": 0.0,
+   "est_cost_jpy": 0,
+   "status": "failed",
+   "mode": "apify",
+   "errors": [
+    "illust×instagram: Actor apify~instagram-search-scraper が FAILED で終了しました"
+   ]
+  },
+  {
+   "run_id": "20260705-202042",
+   "started_at": "2026-07-05T20:20:42+09:00",
+   "finished_at": "2026-07-05T20:20:44+09:00",
+   "genres": [
+    "illust"
+   ],
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "requested": 20,
+   "saved": 3,
+   "new_count": 3,
+   "est_cost_usd": 0.0,
+   "est_cost_jpy": 0,
+   "status": "success",
+   "mode": "fixture",
+   "errors": []
+  },
+  {
+   "run_id": "20260705-200912",
+   "started_at": "2026-07-05T20:09:12+09:00",
+   "finished_at": "2026-07-05T20:11:11+09:00",
+   "genres": [
+    "illust"
+   ],
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "requested": 20,
+   "saved": 29,
+   "new_count": 29,
+   "est_cost_usd": 0.254,
+   "est_cost_jpy": 38,
+   "status": "success",
+   "mode": "apify",
+   "errors": []
+  }
+ ]
+}

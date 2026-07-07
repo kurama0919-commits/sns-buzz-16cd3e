@@ -1,0 +1,53 @@
+{
+ "genres": [
+  {
+   "id": "illust",
+   "label": "イラスト系",
+   "tags": [
+    "イラスト",
+    "illustration",
+    "イラストレーター",
+    "お絵描き",
+    "デジタルイラスト"
+   ],
+   "keywords": [],
+   "min_likes": 100,
+   "min_views": 1000
+  },
+  {
+   "id": "salon",
+   "label": "美容サロン系",
+   "tags": [
+    "美容室",
+    "アイブロウ",
+    "ネイルサロン",
+    "美容サロン",
+    "サロンモデル"
+   ],
+   "keywords": [],
+   "min_likes": 100,
+   "min_views": 1000
+  },
+  {
+   "id": "business",
+   "label": "ビジネス副業系",
+   "tags": [
+    "副業",
+    "起業",
+    "ビジネス",
+    "フリーランス",
+    "副業初心者"
+   ],
+   "keywords": [],
+   "min_likes": 100,
+   "min_views": 1000
+  }
+ ],
+ "pricing": {
+  "ig_posts_per_1k": 2.7,
+  "ig_profiles_per_1k": 1.6,
+  "tiktok_per_1k": 1.7,
+  "usd_jpy": 150
+ },
+ "japanese_only": true
+}
