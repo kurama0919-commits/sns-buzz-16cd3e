@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updated_at": "2026-07-05T21:39:25+09:00",
+ "updated_at": "2026-07-14T18:47:44+09:00",
  "posts": {
   "tiktok_7643026634299198740": {
    "id": "7643026634299198740",
@@ -12,11 +12,11 @@
     "followers": 38300
    },
    "metrics": {
-    "likes": 7301,
-    "views": 213400,
-    "comments": 83
+    "likes": 7570,
+    "views": 221900,
+    "comments": 87
    },
-   "buzz_score": 5.57,
+   "buzz_score": 5.79,
    "caption": "トモコレチャレンジするイラストレーターVTuber\n\n#トモコレ #トモコレ新生活 #VTuber #イラスト",
    "hashtags": [
     "トモコレ",
@@ -26,7 +26,7 @@
    ],
    "thumb": "data/thumbs/tiktok_7643026634299198740.jpg",
    "posted_at": "2026-05-23T10:06:56.000Z",
-   "collected_at": "2026-07-05T20:10:18+09:00",
+   "collected_at": "2026-07-14T18:34:18+09:00",
    "source": "apify"
   },
   "tiktok_7596520083736874295": {
@@ -124,14 +124,14 @@
    "url": "https://www.tiktok.com/@aruminsuko/video/7658609618377084180",
    "author": {
     "handle": "aruminsuko",
-    "followers": 32500
+    "followers": 33500
    },
    "metrics": {
-    "likes": 6187,
-    "views": 96600,
-    "comments": 80
+    "likes": 14700,
+    "views": 245000,
+    "comments": 177
    },
-   "buzz_score": 2.97,
+   "buzz_score": 7.31,
    "caption": "白黒ポテチに本気でお絵描き🎨‼️#描いてみた #アニメ #イラスト",
    "hashtags": [
     "描いてみた",
@@ -140,7 +140,7 @@
    ],
    "thumb": "data/thumbs/tiktok_7658609618377084180.jpg",
    "posted_at": "2026-07-04T09:56:57.000Z",
-   "collected_at": "2026-07-05T21:00:11+09:00",
+   "collected_at": "2026-07-14T18:34:18+09:00",
    "source": "apify"
   },
   "tiktok_7657809026994064660": {
@@ -475,14 +475,14 @@
    "url": "https://www.instagram.com/p/DZg4wN6Jt4s/",
    "author": {
     "handle": "itsuc_24",
-    "followers": 130089
+    "followers": 130842
    },
    "metrics": {
-    "likes": 26919,
-    "views": 700529,
+    "likes": 28927,
+    "views": 761603,
     "comments": 13
    },
-   "buzz_score": 0.21,
+   "buzz_score": 0.22,
    "caption": "姉にクッキーを食べられた弟👦🏻🍪#cookiemakeup #メイク#イラスト#姉メイク",
    "hashtags": [
     "cookiemakeup",
@@ -492,7 +492,7 @@
    ],
    "thumb": "data/thumbs/instagram_DZg4wN6Jt4s.jpg",
    "posted_at": "2026-06-13T05:12:08.000Z",
-   "collected_at": "2026-07-05T20:57:01+09:00",
+   "collected_at": "2026-07-14T18:31:16+09:00",
    "source": "apify"
   },
   "instagram_DVxr855k0dQ": {
@@ -502,11 +502,11 @@
    "url": "https://www.instagram.com/p/DVxr855k0dQ/",
    "author": {
     "handle": "hamhsui",
-    "followers": 36991
+    "followers": 36958
    },
    "metrics": {
-    "likes": 5150,
-    "views": 70448,
+    "likes": 5145,
+    "views": 70541,
     "comments": 15
    },
    "buzz_score": 0.14,
@@ -520,7 +520,7 @@
    ],
    "thumb": "data/thumbs/instagram_DVxr855k0dQ.jpg",
    "posted_at": "2026-03-12T07:42:12.000Z",
-   "collected_at": "2026-07-05T20:57:01+09:00",
+   "collected_at": "2026-07-14T18:31:16+09:00",
    "source": "apify"
   },
   "instagram_DWgIpRRgKwI": {
@@ -584,14 +584,14 @@
    "url": "https://www.instagram.com/p/DZhWZJ1SqNG/",
    "author": {
     "handle": "hairsalonbest_official",
-    "followers": 898
+    "followers": 925
    },
    "metrics": {
-    "likes": 4190,
-    "views": 1309405,
-    "comments": 188
+    "likes": 4936,
+    "views": 1444785,
+    "comments": 198
    },
-   "buzz_score": 4.67,
+   "buzz_score": 5.34,
    "caption": "納得いくまで相談してください！\n\n理想を追い求めて相談し続けた結果…まさかのセルフ仕上げ！？😂 \n美容師との楽しいやり取りと、納得の完成形を💇‍♀️\n\n【HAIR SALON BEST✂️美容師の新しい働き方を応援】\n\n💇‍♀️「HAIR SALON BEST」は美容師さんが“自分らしく働ける”サロンを全国展開✨\n週1日〜・短時間勤務・WワークOKなど、柔軟な働き方ができる美容師求人を多数掲載しています。\n\n「働きたいけど、今の生活に合う職場がない…」\nそんな方にぴったりの美容室です🌸\n\n✔ 美容師免許を活かして扶養内勤務OK\n✔ 子育て世代・主婦（主夫）・30代以上も活躍中\n✔ 女性正社員・女性管理職も多数活躍✨\n\n【こんな方におすすめ】\n・家庭や育児と両立しながら働きたい\n・カットのみ／カラーのみで現場復帰したい\n・頑張りをしっかり評価してくれる職場で働きたい\n・髪色やネイルなどおしゃれも楽しみたい\n・年齢に関係なく美容師としてキャリアを築きたい\n\n【HAIR SALON BESTの特徴】\n✨️週1日〜・短時間勤務OK\n✨️土日祝は時給100円UP\n✨️年齢不問！実力次第で昇給・昇進可能\n✨️子育て世代にも理解のある職場環境\n✨️制服あり／髪型・ネイル自由\n✨️給与・残業代は1分単位で支給\n✨️全国展開で勤務地の選択肢が豊富\n\n📢全国の美容師求人を掲載中！\nあなたに合った働き方を見つけませんか？👇\n 👉 https://hairsalon-best.jp/\n\n#美容室 \n#求人 \n#美容師\n#ヘアサロン\n#全国",
    "hashtags": [
     "美容室",
@@ -602,7 +602,7 @@
    ],
    "thumb": "data/thumbs/instagram_DZhWZJ1SqNG.jpg",
    "posted_at": "2026-06-13T09:30:57.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
+   "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
   "instagram_DaNb8WoyH1k": {
@@ -612,19 +612,19 @@
    "url": "https://www.instagram.com/p/DaNb8WoyH1k/",
    "author": {
     "handle": "kota__hair",
-    "followers": 4925
+    "followers": 5152
    },
    "metrics": {
-    "likes": 3635,
-    "views": 417826,
-    "comments": 19
+    "likes": 4905,
+    "views": 556389,
+    "comments": 20
    },
-   "buzz_score": 0.74,
+   "buzz_score": 0.95,
    "caption": "ミルクティーにしたいけど、黄ばみたくない人へ。」\n\n透明感は欲しい。\nでもベージュすぎて黄色く見えるのは嫌。\n\nそんな方におすすめなのが\n柔らかさと透明感を両立したミルクティーグレージュ。\n\n✔︎ 赤みを抑えた柔らかい質感\n\n✔︎ 光に透ける透明感\n\n✔︎ 色落ちまで綺麗\n\n✔︎ 派手すぎない大人っぽさ\n\nミルクティーの柔らかさに、\nグレージュの透け感をプラスすることで\n\n“ブリーチしてるのに上品”\n\nそんなカラーに仕上げています。\n\n「透明感が欲しい」\n「柔らかい雰囲気になりたい」\n「黄ばみたくない」\n\nそんな方はぜひ一度お任せください◎\n\n保存してカウンセリングでご利用ください✨",
    "hashtags": [],
    "thumb": "data/thumbs/instagram_DaNb8WoyH1k.jpg",
    "posted_at": "2026-06-30T12:25:53.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
+   "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
   "instagram_DW0wdq9Ey4_": {
@@ -678,14 +678,14 @@
    "url": "https://www.instagram.com/p/DZr6v4ZJlRY/",
    "author": {
     "handle": "oreha_iketeru",
-    "followers": 1454
+    "followers": 1741
    },
    "metrics": {
-    "likes": 2226,
-    "views": 165350,
-    "comments": 289
+    "likes": 2476,
+    "views": 182097,
+    "comments": 308
    },
-   "buzz_score": 1.53,
+   "buzz_score": 1.42,
    "caption": "美容師がお客様に物申す⑧\n\nいいね👍リツイートお願いします🙇‍♀️！！\n\n#美容師あるある　#美容師の日常　#サロンワーク　#美容師　#美容室",
    "hashtags": [
     "美容師あるある",
@@ -696,7 +696,7 @@
    ],
    "thumb": "data/thumbs/instagram_DZr6v4ZJlRY.jpg",
    "posted_at": "2026-06-17T12:00:10.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
+   "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
   "instagram_DYtfADKR9B4": {
@@ -734,11 +734,11 @@
    "url": "https://www.instagram.com/p/DXMRtoGAUF4/",
    "author": {
     "handle": "o.jun_superman",
-    "followers": 82098
+    "followers": 82335
    },
    "metrics": {
-    "likes": 1560,
-    "views": 250146,
+    "likes": 1573,
+    "views": 253277,
     "comments": 19
    },
    "buzz_score": 0.02,
@@ -752,7 +752,7 @@
    ],
    "thumb": "data/thumbs/instagram_DXMRtoGAUF4.jpg",
    "posted_at": "2026-04-16T12:11:25.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
+   "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
   "instagram_DZR88klx3Xe": {
@@ -762,14 +762,14 @@
    "url": "https://www.instagram.com/p/DZR88klx3Xe/",
    "author": {
     "handle": "ruufus_haircare",
-    "followers": 3379
+    "followers": 3852
    },
    "metrics": {
-    "likes": 6691,
-    "views": 843027,
-    "comments": 74
+    "likes": 7371,
+    "views": 914166,
+    "comments": 78
    },
-   "buzz_score": 1.98,
+   "buzz_score": 1.91,
    "caption": "#ヘアスタイル #美容室 #50代 #40代 #ヘアケア",
    "hashtags": [
     "ヘアスタイル",
@@ -780,7 +780,7 @@
    ],
    "thumb": "data/thumbs/instagram_DZR88klx3Xe.jpg",
    "posted_at": "2026-06-07T10:02:26.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
+   "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
   "instagram_DZZpgHQIvhK": {
@@ -826,11 +826,11 @@
    "url": "https://www.instagram.com/p/DYHfwSihP3J/",
    "author": {
     "handle": "melt__make",
-    "followers": 31660
+    "followers": 31901
    },
    "metrics": {
-    "likes": 435,
-    "views": 83825,
+    "likes": 448,
+    "views": 86432,
     "comments": 0
    },
    "buzz_score": 0.01,
@@ -844,7 +844,7 @@
    ],
    "thumb": "data/thumbs/instagram_DYHfwSihP3J.jpg",
    "posted_at": "2026-05-09T12:00:00.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
+   "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
   "instagram_DO8JZhUkvBt": {
@@ -854,11 +854,11 @@
    "url": "https://www.instagram.com/p/DO8JZhUkvBt/",
    "author": {
     "handle": "maiko_tamamura",
-    "followers": 216148
+    "followers": 216087
    },
    "metrics": {
-    "likes": 9268,
-    "views": 3386758,
+    "likes": 9279,
+    "views": 3389593,
     "comments": 38
    },
    "buzz_score": 0.04,
@@ -876,7 +876,7 @@
    ],
    "thumb": "data/thumbs/instagram_DO8JZhUkvBt.jpg",
    "posted_at": "2025-09-23T09:30:00.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
+   "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
   "instagram_DYmWlywT1T1": {
@@ -974,11 +974,11 @@
    "url": "https://www.instagram.com/p/DZMs50CRiLl/",
    "author": {
     "handle": "ayana_0313_",
-    "followers": 24191
+    "followers": 24124
    },
    "metrics": {
-    "likes": 826,
-    "views": 96454,
+    "likes": 843,
+    "views": 98945,
     "comments": 9
    },
    "buzz_score": 0.03,
@@ -992,7 +992,7 @@
    ],
    "thumb": "data/thumbs/instagram_DZMs50CRiLl.jpg",
    "posted_at": "2026-06-05T09:04:51.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
+   "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
   "instagram_DU8D8VbEsuy": {
@@ -1002,11 +1002,11 @@
    "url": "https://www.instagram.com/p/DU8D8VbEsuy/",
    "author": {
     "handle": "hiro.odagiri",
-    "followers": 1296582
+    "followers": 1315572
    },
    "metrics": {
-    "likes": 11438,
-    "views": 1061103,
+    "likes": 11449,
+    "views": 1063743,
     "comments": 41
    },
    "buzz_score": 0.01,
@@ -1014,7 +1014,7 @@
    "hashtags": [],
    "thumb": "data/thumbs/instagram_DU8D8VbEsuy.jpg",
    "posted_at": "2026-02-19T11:52:09.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
+   "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
   "instagram_DZziQpQT7nb": {
@@ -1052,14 +1052,14 @@
    "url": "https://www.instagram.com/p/DXoaN5bJYB0/",
    "author": {
     "handle": "mary.nail_a",
-    "followers": 5139
+    "followers": 5474
    },
    "metrics": {
-    "likes": 78242,
-    "views": 16815132,
+    "likes": 81861,
+    "views": 17386826,
     "comments": 0
    },
-   "buzz_score": 15.23,
+   "buzz_score": 14.95,
    "caption": "mary nail /品川駅5分\n　　\n\nsugar powder🍬\n　　\n@emena_nail.official \nSP01\n\n　　\n　　\n　　　\n \n#シュガーネイル #powdernails #sugarnails #大人可愛いネイル #品川ネイル \n　　\nーーーーーーーーーーーーーーーーーー\n個室ネイルサロン\nmary nail /品川駅高輪口5分\n平日　　10:00〜21:00 (最終受付19:00)\n土日祝　10:00〜17:00(最終受付15:00)\n不定休 \nーーーーーーーーーーーーーーーーーー",
    "hashtags": [
     "シュガーネイル",
@@ -1070,7 +1070,7 @@
    ],
    "thumb": "data/thumbs/instagram_DXoaN5bJYB0.jpg",
    "posted_at": "2026-04-27T10:15:00.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
+   "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
   "instagram_DYj9smTpGwi": {
@@ -1108,14 +1108,14 @@
    "url": "https://www.instagram.com/p/DZhhxm6PzLy/",
    "author": {
     "handle": "m.and.y__nailsalon",
-    "followers": 1348
+    "followers": 1380
    },
    "metrics": {
-    "likes": 2298,
-    "views": 480630,
+    "likes": 2333,
+    "views": 485998,
     "comments": 36
    },
-   "buzz_score": 1.7,
+   "buzz_score": 1.69,
    "caption": "【salon vlog 第2弾💅】\n\n鳥取で1番ほっこりするネイルサロンの日常🌷\n\n今回は、おばちゃんネイリストの施術風景を少しだけ📷✨\n\n初めて来られるお客様から\n\n「ネイルサロンって緊張すると思ってた」\n「こんなに話しやすいと思わなかった😂」\n\nと言っていただくことがよくあります☺️\n\nネイルはもちろん！\nおしゃべりしに来る感覚のお客様もたくさん🤭\n\n話していたらあっという間に時間が過ぎて、\n気づいたら可愛いネイルが完成しています💅✨\n\nネイルが初めての方も、\n人見知りの方も大歓迎です🌼\n\nM&Yの日常が少しでも伝わったら嬉しいです💕\n\n📩ご予約・お問い合わせはDMまたはホットペッパーからお気軽に♪\n\n#米子 #米子ネイル #鳥取ネイル #鳥取 #米子ネイルサロン #ジェルネイル #接客 #雰囲気 #米子ネイル予約#nail #ネイル #夏ネイル #ニュアンスネイル #韓国ネイル #バブルネイル #ネイル安い #大人ネイル #松江ネイル #ネイルデサイン #話しやすいサロン #水滴ネイル #山陰 #ネイルサロン予約 #米子美容室 #山陰美容室 #ホットペッパービューティー",
    "hashtags": [
     "米子",
@@ -1147,7 +1147,7 @@
    ],
    "thumb": "data/thumbs/instagram_DZhhxm6PzLy.jpg",
    "posted_at": "2026-06-13T11:11:27.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
+   "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
   "instagram_DZSPyjkCzVM": {
@@ -1185,19 +1185,19 @@
    "url": "https://www.instagram.com/p/DYcAoD_PDVr/",
    "author": {
     "handle": "maki_salon.coach",
-    "followers": 3915
+    "followers": 3937
    },
    "metrics": {
-    "likes": 586,
-    "views": 56719,
-    "comments": 12
+    "likes": 604,
+    "views": 58521,
+    "comments": 13
    },
    "buzz_score": 0.15,
    "caption": "6/15(月)公式LINEから新しい🎁配布予定！\nプロフィールURLリンク🔗から\n友達登録してください\n👇🏼👇🏼👇🏼\n@maki_salon.coach\n⁡\n_________________________________\n⁡\n未経験、検定なしを否定しているわけではないよ！\n⁡\nただ、国家資格じゃないからって\nネイリスト・ネイルサロン開業って\n簡単じゃないってこと\n⁡\n未経験でも開業できる！\nママでもできる！\n⁡\nこれはハードル下げるための見せ方です\n(嫌われそう笑)\n⁡\nできます、できますよ！開業自体は…\n誰だってね\n⁡\nただ、集客は思ってる以上に難しいってこと\n⁡\nだって、検定取得、正社員勤務してたっくさん学んできたわたしも軌道に乗るまで苦戦したからね\n⁡\nでも、やりたい！って気持ちがあるなら\n覚悟もってやって欲しい🫶🏼\n_________________________________\n⁡\n理想のお客様を集めて\n\"あなただから\"と選ばれるネイリストになる！\n⁡\nリピート率99%\n次回予約率98%現役ネイリストが教える\n高単価×満席サロンの作り方📖をお伝えしてます\n⁡\n⁡\n✔︎3〜40万くらいは売.上られたけど伸びない\n✔︎技術も歴もあるのに集客上手くいかない\n✔︎周りから開業して「凄い」って言われるけど\n　繁盛してないから恥ずかしい\n✔︎正社員時代と給料が大して変わらない\n✔︎毎月カードの支払いを気にしている\n✔︎次回予約率が低くてずっと新規集客してる\n⁡\n💁🏼‍♀️他の投稿はこちら💁‍♂️\n@maki_salon.coach \nいま新しいプレゼント作成中です。\nプロフィールリンクから公式LINEでお待ち下さい\n⁡",
    "hashtags": [],
    "thumb": "data/thumbs/instagram_DYcAoD_PDVr.jpg",
    "posted_at": "2026-05-17T11:19:21.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
+   "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
   "instagram_DX39tGXTVzS": {
@@ -1207,14 +1207,14 @@
    "url": "https://www.instagram.com/p/DX39tGXTVzS/",
    "author": {
     "handle": "yyyyu_nail",
-    "followers": 2502
+    "followers": 2538
    },
    "metrics": {
-    "likes": 762,
-    "views": 317010,
+    "likes": 776,
+    "views": 318805,
     "comments": 4
    },
-   "buzz_score": 0.3,
+   "buzz_score": 0.31,
    "caption": "なんならお客様が携帯持ってるだけでも意識しちゃうかも⁉️\n\n原宿ネイルサロン　🌐PINS16🌐\nロングネイル、グランジネイル\n強めデザイン、gel-xお任せください〜✊\n一緒に可愛くしましょ〜❗️\n\nーーーーーーーーーーー\n\n【gel-xとは】\nアメリカ初のジェル素材で出来たチップの長さ出しになります！\nフルカバーなので装着してすぐフォルムの美しさを実感して頂けます✨\nジェルで装着するのでアクリルスカルプよりも持ちも良いとご好評いただいております🥱\n通常のジェルコースに+30分で長さ出しが出来るので短時間で透明感のある美しい長さ出しが可能です💅\n\nーーーーーーーーーーー\n\nご予約、ご質問はお気軽にDM下さい❗️\n\n【営業時間】\n11:00〜19:30\n⚠️時間外+1000円(要相談)\n\n【アクセス】\n東京都渋谷区神宮前4-26-28 ヴレクール\n青い建物 ２Ｆ\n\n明治神宮前駅(５番出口)徒歩3分/原宿駅徒歩8分/表参道駅徒歩7分\n\n#ロングネイル #gelx #原宿ネイルサロン #クリアネイル #強めネイル",
    "hashtags": [
     "ロングネイル",
@@ -1225,7 +1225,7 @@
    ],
    "thumb": "data/thumbs/instagram_DX39tGXTVzS.jpg",
    "posted_at": "2026-05-03T11:15:35.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
+   "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
   "instagram_DZSaJnMvNH_": {
@@ -1307,12 +1307,12 @@
    "url": "https://www.instagram.com/p/DX4LgGDzXJS/",
    "author": {
     "handle": "momomaru.0112",
-    "followers": 36643
+    "followers": 38838
    },
    "metrics": {
-    "likes": 5376,
-    "views": 507407,
-    "comments": 67
+    "likes": 5973,
+    "views": 560936,
+    "comments": 69
    },
    "buzz_score": 0.15,
    "caption": "ガッツリ心掴まれた👠💌\n\n本当にこういうのが欲しかった🛒\n\n🏷️リネン混紡ボタン付きトップス\n\nヘンリーネックが可愛くて\n首元空いてるデザインで\n夏コーデに使えるノースリーブ\n\nここ最近、\n他のブランドでも探したんだけど\nやっと見つけた🩵\n\n特に骨格ストレートの私には\n大歓喜のアイテム🥹💡 ✨️\n\n1枚3000円以下でゲット出来ちゃうし\nレイヤードコーデも楽しめるし...\n\n私はさらっとデニムと合わせて\nいいオンナな顔して街を歩きたいと思います( ᷇࿀ ᷆ )笑🩰\n\nヘビロテしちゃいそうなzara購入品でした🫰🏻 ͗ ͗‬ ͗\n\n最後のコーデに\nレイヤードさせてるのは\nuniqloのミニTだよ◎\n\n夏コーデ お買い物に役立ちますように 🎀\n\n＿＿＿＿\n\n海外トレンド × 盛れるコーデ発信中✧*｡\nフォローして待っててね✍🏻📋⸝‍\n\n.\n #カジュアルコーデ #ユニクロコーデ #サロンモデル #アパレルモデル #フリーランスモデル",
@@ -1325,7 +1325,7 @@
    ],
    "thumb": "data/thumbs/instagram_DX4LgGDzXJS.jpg",
    "posted_at": "2026-05-03T13:24:16.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
+   "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
   "tiktok_7651857824682708241": {
@@ -1502,11 +1502,11 @@
     "followers": 21000
    },
    "metrics": {
-    "likes": 2908,
-    "views": 76100,
-    "comments": 11
+    "likes": 3925,
+    "views": 99700,
+    "comments": 17
    },
-   "buzz_score": 3.62,
+   "buzz_score": 4.75,
    "caption": "お久しぶりの！ネイリストが見てる世界🌎友達ネイル〜！！！\n.\n.\n#奈良ネイル #奈良ネイルサロン #ネイリスト #夏ネイル #ジェルネイル ",
    "hashtags": [
     "奈良ネイル",
@@ -1517,7 +1517,7 @@
    ],
    "thumb": "data/thumbs/tiktok_7657130420261244168.jpg",
    "posted_at": "2026-06-30T10:16:50.000Z",
-   "collected_at": "2026-07-05T21:03:58+09:00",
+   "collected_at": "2026-07-14T18:38:53+09:00",
    "source": "apify"
   },
   "tiktok_7657496901092183316": {
@@ -1585,18 +1585,18 @@
     "followers": 14800
    },
    "metrics": {
-    "likes": 538,
-    "views": 5382,
+    "likes": 816,
+    "views": 9542,
     "comments": 8
    },
-   "buzz_score": 0.36,
+   "buzz_score": 0.64,
    "caption": "ケルケズ選手ではございません😊サロンモデルたのしい #05 ",
    "hashtags": [
     "05"
    ],
    "thumb": "data/thumbs/tiktok_7658633716952026384.jpg",
    "posted_at": "2026-07-04T11:30:48.000Z",
-   "collected_at": "2026-07-05T21:03:58+09:00",
+   "collected_at": "2026-07-14T18:38:53+09:00",
    "source": "apify"
   },
   "tiktok_7044105636887448834": {
@@ -1609,11 +1609,11 @@
     "followers": 11900
    },
    "metrics": {
-    "likes": 2851,
-    "views": 90400,
+    "likes": 2852,
+    "views": 90500,
     "comments": 32
    },
-   "buzz_score": 7.6,
+   "buzz_score": 7.61,
    "caption": "Basic Japanese required* #salonmodel #modeling #modelingagency #サロンモデル希望 #サロンモデル #外国人モデル",
    "hashtags": [
     "salonmodel",
@@ -1625,7 +1625,7 @@
    ],
    "thumb": "data/thumbs/tiktok_7044105636887448834.jpg",
    "posted_at": "2021-12-21T10:47:30.000Z",
-   "collected_at": "2026-07-05T21:03:58+09:00",
+   "collected_at": "2026-07-14T18:38:53+09:00",
    "source": "apify"
   },
   "tiktok_7221384360748977426": {
@@ -1667,14 +1667,14 @@
    "url": "https://www.tiktok.com/@rin_diary_2_0/video/7642573879415753992",
    "author": {
     "handle": "rin_diary_2_0",
-    "followers": 3973
+    "followers": 4064
    },
    "metrics": {
-    "likes": 266,
-    "views": 39200,
+    "likes": 269,
+    "views": 39900,
     "comments": 13
    },
-   "buzz_score": 9.87,
+   "buzz_score": 9.82,
    "caption": "巻いてもらってテンション⤴︎︎⤴︎\n\n#サロンモデル\n#ヘアモデル\n#クリニックモデル\n#ポートレートモデル\n#関西モデル",
    "hashtags": [
     "サロンモデル",
@@ -1685,7 +1685,7 @@
    ],
    "thumb": "data/thumbs/tiktok_7642573879415753992.jpg",
    "posted_at": "2026-05-22T04:50:01.000Z",
-   "collected_at": "2026-07-05T21:03:58+09:00",
+   "collected_at": "2026-07-14T18:38:53+09:00",
    "source": "apify"
   },
   "tiktok_7550285621512850696": {
@@ -1720,11 +1720,11 @@
    "url": "https://www.instagram.com/p/DGXfAB2T94O/",
    "author": {
     "handle": "ryuji_gogo",
-    "followers": 15937
+    "followers": 15930
    },
    "metrics": {
     "likes": 325,
-    "views": 19380,
+    "views": 19381,
     "comments": 0
    },
    "buzz_score": 0.02,
@@ -1737,7 +1737,7 @@
    ],
    "thumb": "data/thumbs/instagram_DGXfAB2T94O.jpg",
    "posted_at": "2025-02-22T07:38:30.000Z",
-   "collected_at": "2026-07-05T21:05:08+09:00",
+   "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
   "instagram_DT2mUJeE2G0": {
@@ -1747,11 +1747,11 @@
    "url": "https://www.instagram.com/p/DT2mUJeE2G0/",
    "author": {
     "handle": "yuuyajameskato",
-    "followers": 63580
+    "followers": 64287
    },
    "metrics": {
     "likes": 686,
-    "views": 41417,
+    "views": 41631,
     "comments": 1
    },
    "buzz_score": 0.01,
@@ -1759,7 +1759,7 @@
    "hashtags": [],
    "thumb": "data/thumbs/instagram_DT2mUJeE2G0.jpg",
    "posted_at": "2026-01-23T12:27:56.000Z",
-   "collected_at": "2026-07-05T21:05:08+09:00",
+   "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
   "instagram_DOqOee7E4Xf": {
@@ -1769,10 +1769,10 @@
    "url": "https://www.instagram.com/p/DOqOee7E4Xf/",
    "author": {
     "handle": "hiroki__kawamura",
-    "followers": 24108
+    "followers": 24061
    },
    "metrics": {
-    "likes": 525,
+    "likes": 524,
     "views": 28398,
     "comments": 9
    },
@@ -1793,7 +1793,7 @@
    ],
    "thumb": "data/thumbs/instagram_DOqOee7E4Xf.jpg",
    "posted_at": "2025-09-16T10:29:58.000Z",
-   "collected_at": "2026-07-05T21:05:08+09:00",
+   "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
   "instagram_DQOr7GIksKr": {
@@ -1803,11 +1803,11 @@
    "url": "https://www.instagram.com/p/DQOr7GIksKr/",
    "author": {
     "handle": "tsubasabiz",
-    "followers": 27821
+    "followers": 27727
    },
    "metrics": {
     "likes": 2500,
-    "views": 187254,
+    "views": 187318,
     "comments": 30
    },
    "buzz_score": 0.09,
@@ -1815,7 +1815,7 @@
    "hashtags": [],
    "thumb": "data/thumbs/instagram_DQOr7GIksKr.jpg",
    "posted_at": "2025-10-25T10:53:04.000Z",
-   "collected_at": "2026-07-05T21:05:08+09:00",
+   "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
   "instagram_DYRonGGJ2MJ": {
@@ -1825,11 +1825,11 @@
    "url": "https://www.instagram.com/p/DYRonGGJ2MJ/",
    "author": {
     "handle": "yashironao",
-    "followers": 36999
+    "followers": 36869
    },
    "metrics": {
-    "likes": 983,
-    "views": 238757,
+    "likes": 993,
+    "views": 241633,
     "comments": 0
    },
    "buzz_score": 0.03,
@@ -1837,7 +1837,7 @@
    "hashtags": [],
    "thumb": "data/thumbs/instagram_DYRonGGJ2MJ.jpg",
    "posted_at": "2026-05-13T10:45:14.000Z",
-   "collected_at": "2026-07-05T21:05:08+09:00",
+   "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
   "instagram_DVOEtqVk-6r": {
@@ -1847,11 +1847,11 @@
    "url": "https://www.instagram.com/p/DVOEtqVk-6r/",
    "author": {
     "handle": "tamaryo_086",
-    "followers": 42366
+    "followers": 42405
    },
    "metrics": {
-    "likes": 1849,
-    "views": 880364,
+    "likes": 1848,
+    "views": 880384,
     "comments": 43
    },
    "buzz_score": 0.04,
@@ -1859,7 +1859,7 @@
    "hashtags": [],
    "thumb": "data/thumbs/instagram_DVOEtqVk-6r.jpg",
    "posted_at": "2026-02-26T12:37:17.000Z",
-   "collected_at": "2026-07-05T21:05:08+09:00",
+   "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
   "instagram_DU2xCW9k_Fy": {
@@ -1869,11 +1869,11 @@
    "url": "https://www.instagram.com/p/DU2xCW9k_Fy/",
    "author": {
     "handle": "m.ndgn_y",
-    "followers": 15923
+    "followers": 15908
    },
    "metrics": {
-    "likes": 537,
-    "views": 151827,
+    "likes": 538,
+    "views": 151924,
     "comments": 10
    },
    "buzz_score": 0.03,
@@ -1887,7 +1887,7 @@
    ],
    "thumb": "data/thumbs/instagram_DU2xCW9k_Fy.jpg",
    "posted_at": "2026-02-17T10:30:00.000Z",
-   "collected_at": "2026-07-05T21:05:08+09:00",
+   "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
   "instagram_DWv9AwjiX1Z": {
@@ -1897,11 +1897,11 @@
    "url": "https://www.instagram.com/p/DWv9AwjiX1Z/",
    "author": {
     "handle": "alicia__gram",
-    "followers": 113191
+    "followers": 113195
    },
    "metrics": {
-    "likes": 1884,
-    "views": 287361,
+    "likes": 1888,
+    "views": 288031,
     "comments": 83
    },
    "buzz_score": 0.02,
@@ -1913,7 +1913,7 @@
    ],
    "thumb": "data/thumbs/instagram_DWv9AwjiX1Z.jpg",
    "posted_at": "2026-04-05T12:05:29.000Z",
-   "collected_at": "2026-07-05T21:05:08+09:00",
+   "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
   "instagram_DVgDfSAAeX1": {
@@ -1923,12 +1923,12 @@
    "url": "https://www.instagram.com/p/DVgDfSAAeX1/",
    "author": {
     "handle": "su_beauty_life",
-    "followers": 22048
+    "followers": 22144
    },
    "metrics": {
-    "likes": 1366,
-    "views": 144226,
-    "comments": 1861
+    "likes": 1370,
+    "views": 144816,
+    "comments": 1863
    },
    "buzz_score": 0.06,
    "caption": "🎁目標🎁ってコメントで月5万までのリアルプレゼント！\n\n#フリーランス\n#フリーランス女子",
@@ -1938,7 +1938,7 @@
    ],
    "thumb": "data/thumbs/instagram_DVgDfSAAeX1.jpg",
    "posted_at": "2026-03-05T11:21:43.000Z",
-   "collected_at": "2026-07-05T21:05:08+09:00",
+   "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
   "instagram_DWQ05GZj4r-": {
@@ -1948,11 +1948,11 @@
    "url": "https://www.instagram.com/p/DWQ05GZj4r-/",
    "author": {
     "handle": "ryukenmind",
-    "followers": 33146
+    "followers": 33206
    },
    "metrics": {
-    "likes": 3795,
-    "views": 355586,
+    "likes": 3794,
+    "views": 355726,
     "comments": 185
    },
    "buzz_score": 0.11,
@@ -1964,7 +1964,7 @@
    ],
    "thumb": "data/thumbs/instagram_DWQ05GZj4r-.jpg",
    "posted_at": "2026-03-24T09:57:25.000Z",
-   "collected_at": "2026-07-05T21:05:08+09:00",
+   "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
   "instagram_DXRYa11EdNk": {
@@ -1974,11 +1974,11 @@
    "url": "https://www.instagram.com/p/DXRYa11EdNk/",
    "author": {
     "handle": "nemu.room",
-    "followers": 26843
+    "followers": 26807
    },
    "metrics": {
-    "likes": 476,
-    "views": 65612,
+    "likes": 484,
+    "views": 66497,
     "comments": 1
    },
    "buzz_score": 0.02,
@@ -1986,7 +1986,7 @@
    "hashtags": [],
    "thumb": "data/thumbs/instagram_DXRYa11EdNk.jpg",
    "posted_at": "2026-04-18T11:39:01.000Z",
-   "collected_at": "2026-07-05T21:05:08+09:00",
+   "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
   "tiktok_7658626244031876372": {
@@ -1996,25 +1996,25 @@
    "url": "https://www.tiktok.com/@_keito_tv/video/7658626244031876372",
    "author": {
     "handle": "_keito_tv",
-    "followers": 193400
+    "followers": 196400
    },
    "metrics": {
-    "likes": 1603,
-    "views": 47700,
-    "comments": 15
+    "likes": 2819,
+    "views": 84100,
+    "comments": 22
    },
-   "buzz_score": 0.25,
-   "caption": "報酬未払51万を回収する術　　　　　#フリーランス #法律 #弁護士 #keito_tv #TikTokSRP ",
+   "buzz_score": 0.43,
+   "caption": "報酬未払51万を回収する術　　　　　#フリーランス #法律 #弁護士 #個人事業主 #keito_tv ",
    "hashtags": [
     "フリーランス",
     "法律",
     "弁護士",
-    "keito_tv",
-    "tiktoksrp"
+    "個人事業主",
+    "keito_tv"
    ],
    "thumb": "data/thumbs/tiktok_7658626244031876372.jpg",
    "posted_at": "2026-07-04T11:01:26.000Z",
-   "collected_at": "2026-07-05T21:07:10+09:00",
+   "collected_at": "2026-07-14T18:41:49+09:00",
    "source": "apify"
   },
   "tiktok_7658595395680996626": {
@@ -2133,14 +2133,14 @@
    "url": "https://www.tiktok.com/@mizukara.kentaro/video/7656682677558316306",
    "author": {
     "handle": "mizukara.kentaro",
-    "followers": 14500
+    "followers": 14700
    },
    "metrics": {
-    "likes": 191,
-    "views": 18100,
+    "likes": 229,
+    "views": 21800,
     "comments": 1
    },
-   "buzz_score": 1.25,
+   "buzz_score": 1.48,
    "caption": "ビジネスの現場にある課題　#ビジネス #マネジメント #マインド #コーチング #自己啓発 ",
    "hashtags": [
     "ビジネス",
@@ -2151,7 +2151,7 @@
    ],
    "thumb": "data/thumbs/tiktok_7656682677558316306.jpg",
    "posted_at": "2026-06-29T05:19:26.000Z",
-   "collected_at": "2026-07-05T21:07:10+09:00",
+   "collected_at": "2026-07-14T18:41:49+09:00",
    "source": "apify"
   },
   "tiktok_7249198856808811784": {
@@ -2354,12 +2354,12 @@
    "url": "https://www.instagram.com/p/DZxCaW4TzxS/",
    "author": {
     "handle": "yasai31_",
-    "followers": 27865
+    "followers": 28751
    },
    "metrics": {
-    "likes": 37070,
-    "views": 503148,
-    "comments": 288
+    "likes": 38337,
+    "views": 527196,
+    "comments": 297
    },
    "buzz_score": 1.33,
    "caption": "ヤラララ(YARARARA)を合成音声たちに歌ってもらった #ヤラララ \n\n■Original \nAnythingBecomeMoe様\nhttps://youtu.be/T24rF_x0TmQ?si=9mDXY2-usasvcJz9\n\n■Credit\n調声：yasai31\nテト/ミク/可不/デフォ子の立ち絵：yasai31 \nミニキャライラスト：yasai31\nyixiのデザイン/立ち絵：Vimalion Project(rice様)\nhttps://vimalion.pro/\nIAの立ち絵：桧野拓海様\nhttps://seiga.nicovideo.jp/seiga/im11240312\n\n・その他の立ち絵は公式立ち絵を使用しています\n・動画内で本家映像をお借りしています \n\n#kasaneteto #hatsunemiku #重音テト #初音ミク #vocaloid #ボカロ",
@@ -2374,7 +2374,7 @@
    ],
    "thumb": "data/thumbs/instagram_DZxCaW4TzxS.jpg",
    "posted_at": "2026-06-19T11:43:58.000Z",
-   "collected_at": "2026-07-05T20:57:01+09:00",
+   "collected_at": "2026-07-14T18:31:16+09:00",
    "source": "apify"
   },
   "instagram_DZzUvC3Ruwl": {
@@ -2412,14 +2412,14 @@
    "url": "https://www.instagram.com/p/DXWd8OGj67x/",
    "author": {
     "handle": "12vtproject.ac",
-    "followers": 47972
+    "followers": 49705
    },
    "metrics": {
-    "likes": 60928,
-    "views": 987134,
+    "likes": 61327,
+    "views": 993602,
     "comments": 167
    },
-   "buzz_score": 1.27,
+   "buzz_score": 1.23,
    "caption": "【魂募集】12星座VTuber企画でプロトディスコmeme！ proto disco meme\n\n#shorts #イラスト #vtuber #animationmeme #ボカロ",
    "hashtags": [
     "shorts",
@@ -2430,7 +2430,7 @@
    ],
    "thumb": "data/thumbs/instagram_DXWd8OGj67x.jpg",
    "posted_at": "2026-04-20T11:02:18.000Z",
-   "collected_at": "2026-07-05T20:57:01+09:00",
+   "collected_at": "2026-07-14T18:31:16+09:00",
    "source": "apify"
   },
   "instagram_DaAhZ6iiFU7": {
@@ -2440,19 +2440,19 @@
    "url": "https://www.instagram.com/p/DaAhZ6iiFU7/",
    "author": {
     "handle": "pukkuri_lab",
-    "followers": 19658
+    "followers": 23234
    },
    "metrics": {
-    "likes": 21830,
-    "views": 3274921,
+    "likes": 26698,
+    "views": 3754625,
     "comments": 44
    },
-   "buzz_score": 1.11,
+   "buzz_score": 1.15,
    "caption": "✎*┈┈┈┈┈┈┈┈┈┈┈\n\n音読カードにぴったり♪\n\nリクエストいただいた\nベイマックスOKの描き方🫶\n\n✎*┈┈┈┈┈┈┈┈┈┈┈\n\n@pukkuri_lab \nこのアカウントでは、\nサッと描ける\nかんたんイラストを発信中🖍️\n\n⋈手帳やノートに\n⋈音読カードのサインに\n⋈はなまるに\n\n一緒にお絵描き楽しもう✏️\n\n日常にちょこっとのワクワクを…✨\nコメントでリクエストも待ってます😊",
    "hashtags": [],
    "thumb": "data/thumbs/instagram_DaAhZ6iiFU7.jpg",
    "posted_at": "2026-06-25T12:03:49.000Z",
-   "collected_at": "2026-07-05T20:57:01+09:00",
+   "collected_at": "2026-07-14T18:31:16+09:00",
    "source": "apify"
   },
   "instagram_DY4HAztSwNZ": {
@@ -2462,14 +2462,14 @@
    "url": "https://www.instagram.com/p/DY4HAztSwNZ/",
    "author": {
     "handle": "kawaii_shinkou",
-    "followers": 22581
+    "followers": 22633
    },
    "metrics": {
-    "likes": 52756,
-    "views": 828258,
-    "comments": 49
+    "likes": 55761,
+    "views": 870900,
+    "comments": 48
    },
-   "buzz_score": 2.34,
+   "buzz_score": 2.46,
    "caption": "じっくりトモコレ目イキング\n⁡\n#トモコレ #イラスト",
    "hashtags": [
     "トモコレ",
@@ -2477,7 +2477,7 @@
    ],
    "thumb": "data/thumbs/instagram_DY4HAztSwNZ.jpg",
    "posted_at": "2026-05-28T09:07:52.000Z",
-   "collected_at": "2026-07-05T20:57:01+09:00",
+   "collected_at": "2026-07-14T18:31:16+09:00",
    "source": "apify"
   },
   "instagram_DZ15Ww-Su8G": {
@@ -2515,14 +2515,14 @@
    "url": "https://www.instagram.com/p/DXZKD8njMZe/",
    "author": {
     "handle": "nomkakaii",
-    "followers": 496132
+    "followers": 502306
    },
    "metrics": {
-    "likes": 949694,
-    "views": 15381630,
-    "comments": 989
+    "likes": 951198,
+    "views": 15425087,
+    "comments": 992
    },
-   "buzz_score": 1.91,
+   "buzz_score": 1.89,
    "caption": "drawing at @pavyllon_london 🇬🇧\n— caught in the middle… Déjà vu moment?\n\npart 2 coming out tomorrow :) \nfood illustration is up!🆙✍🏻✨\n\n#foodillustration #povreels #illustration #london #michelin",
    "hashtags": [
     "foodillustration",
@@ -2533,7 +2533,7 @@
    ],
    "thumb": "data/thumbs/instagram_DXZKD8njMZe.jpg",
    "posted_at": "2026-04-21T12:07:40.000Z",
-   "collected_at": "2026-07-05T20:57:01+09:00",
+   "collected_at": "2026-07-14T18:31:16+09:00",
    "source": "apify"
   },
   "instagram_DV8S4KcD_9-": {
@@ -2543,14 +2543,14 @@
    "url": "https://www.instagram.com/p/DV8S4KcD_9-/",
    "author": {
     "handle": "ler_illustgirl",
-    "followers": 1074
+    "followers": 1070
    },
    "metrics": {
     "likes": 2210,
-    "views": 97337,
+    "views": 97357,
     "comments": 26
    },
-   "buzz_score": 2.06,
+   "buzz_score": 2.07,
    "caption": "フリーレンを描いた日のvlog⁡.\n \nありがたいことに\n前回の動画と質問箱にフリーレン描いて欲しい！と\nコメントをいただいたので描きます☺️\n⁡ \n⁡完成まで楽しみにして貰えたら嬉しいです！\n\n︎︎𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃\n \nイラストレーター目指してる社会人\n→@ler_illustgirl \n \nいいね、コメント励みになります✨\n\n#葬送のフリーレン #フリーレン #vlog \n#イラスト #イラストメイキング",
    "hashtags": [
     "葬送のフリーレン",
@@ -2561,7 +2561,7 @@
    ],
    "thumb": "data/thumbs/instagram_DV8S4KcD_9-.jpg",
    "posted_at": "2026-03-16T10:41:44.000Z",
-   "collected_at": "2026-07-05T20:57:01+09:00",
+   "collected_at": "2026-07-14T18:31:16+09:00",
    "source": "apify"
   },
   "instagram_DUbs3GnkxYV": {
@@ -2571,11 +2571,11 @@
    "url": "https://www.instagram.com/p/DUbs3GnkxYV/",
    "author": {
     "handle": "mame_animal.illustrator",
-    "followers": 1813
+    "followers": 1824
    },
    "metrics": {
-    "likes": 436,
-    "views": 34553,
+    "likes": 439,
+    "views": 34666,
     "comments": 6
    },
    "buzz_score": 0.24,
@@ -2589,7 +2589,7 @@
    ],
    "thumb": "data/thumbs/instagram_DUbs3GnkxYV.jpg",
    "posted_at": "2026-02-06T22:14:17.000Z",
-   "collected_at": "2026-07-05T20:57:01+09:00",
+   "collected_at": "2026-07-14T18:31:16+09:00",
    "source": "apify"
   },
   "instagram_DXgx-CFCU7U": {
@@ -2599,11 +2599,11 @@
    "url": "https://www.instagram.com/p/DXgx-CFCU7U/",
    "author": {
     "handle": "sleeping_neru",
-    "followers": 106162
+    "followers": 107061
    },
    "metrics": {
-    "likes": 4669,
-    "views": 167883,
+    "likes": 4698,
+    "views": 168745,
     "comments": 31
    },
    "buzz_score": 0.04,
@@ -2615,7 +2615,7 @@
    ],
    "thumb": "data/thumbs/instagram_DXgx-CFCU7U.jpg",
    "posted_at": "2026-04-24T11:10:09.000Z",
-   "collected_at": "2026-07-05T20:57:01+09:00",
+   "collected_at": "2026-07-14T18:31:16+09:00",
    "source": "apify"
   },
   "instagram_DVxH98gk5pl": {
@@ -2625,14 +2625,14 @@
    "url": "https://www.instagram.com/p/DVxH98gk5pl/",
    "author": {
     "handle": "oibc_official_",
-    "followers": 1087
+    "followers": 1094
    },
    "metrics": {
-    "likes": 3090,
-    "views": 145922,
+    "likes": 3087,
+    "views": 146108,
     "comments": 20
    },
-   "buzz_score": 2.84,
+   "buzz_score": 2.82,
    "caption": "春休み🌸でも、来年度の振替授業が始まってます！\nその中で、イラストレーターコースの学生の絵をご紹介🖼️\nみんな真剣に描いて描いて描きまくってました❣️\n#太田情報商科専門学校 \n#イラストレーターの輪を広げよう \n#春休み授業 \n#デザイン学科",
    "hashtags": [
     "太田情報商科専門学校",
@@ -2642,7 +2642,7 @@
    ],
    "thumb": "data/thumbs/instagram_DVxH98gk5pl.jpg",
    "posted_at": "2026-03-12T02:28:42.000Z",
-   "collected_at": "2026-07-05T20:57:01+09:00",
+   "collected_at": "2026-07-14T18:31:16+09:00",
    "source": "apify"
   },
   "instagram_DU2jCIAET_A": {
@@ -2714,14 +2714,14 @@
    "url": "https://www.instagram.com/p/DXOi1vQEbVG/",
    "author": {
     "handle": "kitpasjapan",
-    "followers": 52706
+    "followers": 52624
    },
    "metrics": {
-    "likes": 4952,
-    "views": 447037,
+    "likes": 5097,
+    "views": 452139,
     "comments": 6
    },
-   "buzz_score": 0.09,
+   "buzz_score": 0.1,
    "caption": "こんばんは！🤓🎶\n今日の動画は「キットパスでゼリーを描こう」😚\n透けるものはコントラストを強調するために濃い色から入れるのがポイント✨\n\nGood evening! 🤓🎶\nToday’s video is “Let’s draw jelly with Kitpas!” 😚\nWhen drawing transparent objects, the key is to start with darker colors to enhance the contrast ✨\n\n——————————————————\nこちらのアカウントでは、\nキットパスの新しい使い方や魅力を発信しています！\n@kitpasjapan\n↑こちらをフォローしてください✨\n——————————————————\n\n最後まで、読んでいただきありがとうございました。\n少しでも、いいなとおもったら、いいね、コメント、お願いします😊\n\n皆さんのいいね、コメントがモチベーションに繋がります🥰\n\n#kitpas #キットパス #日本理化学工業 #楽がき #お絵描き\n\n参考になったかな？",
    "hashtags": [
     "kitpas",
@@ -2732,7 +2732,7 @@
    ],
    "thumb": "data/thumbs/instagram_DXOi1vQEbVG.jpg",
    "posted_at": "2026-04-17T09:16:19.000Z",
-   "collected_at": "2026-07-05T20:57:01+09:00",
+   "collected_at": "2026-07-14T18:31:16+09:00",
    "source": "apify"
   },
   "instagram_DVs1v2yEu19": {
@@ -2853,14 +2853,14 @@
    "url": "https://www.tiktok.com/@tourbox_japan/video/7658242050005077269",
    "author": {
     "handle": "tourbox_japan",
-    "followers": 21000
+    "followers": 22000
    },
    "metrics": {
-    "likes": 198,
-    "views": 4776,
+    "likes": 588,
+    "views": 10900,
     "comments": 3
    },
-   "buzz_score": 0.23,
+   "buzz_score": 0.5,
    "caption": "完成度の高いイラストを、プロのテクニックでもうワンランク上へ！？✨\nイラストレーター・タカ氏(@c_hkt)が、TourBox「ダイナミックカラーピッカー」を使って色塗りのテクを実演！\nタカ氏も「バリューを揃えたまま色を選べるので、色鮮やかな表現がしやすい！」と絶賛✨\n\n#TourBox #左手デバイス #デジタルイラスト #digitalart #お絵描き動画 #オリキャラ #OC #clipstudiopaint #イラストメイキング",
    "hashtags": [
     "tourbox",
@@ -2875,7 +2875,7 @@
    ],
    "thumb": "data/thumbs/tiktok_7658242050005077269.jpg",
    "posted_at": "2026-07-03T10:10:31.000Z",
-   "collected_at": "2026-07-05T21:00:11+09:00",
+   "collected_at": "2026-07-14T18:34:18+09:00",
    "source": "apify"
   },
   "tiktok_7658907380155026710": {
@@ -2885,14 +2885,14 @@
    "url": "https://www.tiktok.com/@xiaohongshu_art_tutorial/video/7658907380155026710",
    "author": {
     "handle": "xiaohongshu_art_tutorial",
-    "followers": 324100
+    "followers": 336800
    },
    "metrics": {
-    "likes": 8070,
-    "views": 39700,
-    "comments": 11
+    "likes": 40800,
+    "views": 244700,
+    "comments": 52
    },
-   "buzz_score": 0.12,
+   "buzz_score": 0.73,
    "caption": "ฅ≽(•⩊ •マ≼ how to draw shiny hair / chinese art style\n  drawing tips for digital artists from xiaohongshu ~\nsave and practice .\nfollow for more art lessons and art ideas 💡 \n.\n.\n.\ncredit: id 274543255\n.\n#arttutorials #xiaohongshuart #绘画 #animeart #animearttutorial ",
    "hashtags": [
     "arttutorials",
@@ -2903,7 +2903,7 @@
    ],
    "thumb": "data/thumbs/tiktok_7658907380155026710.jpg",
    "posted_at": "2026-07-05T05:13:03.000Z",
-   "collected_at": "2026-07-05T21:00:11+09:00",
+   "collected_at": "2026-07-14T18:34:18+09:00",
    "source": "apify"
   },
   "tiktok_7621135122770808072": {
@@ -3498,11 +3498,11 @@
    "url": "https://www.instagram.com/p/DYwYjyYSnjC/",
    "author": {
     "handle": "yuko_makeup0819",
-    "followers": 12784
+    "followers": 12764
    },
    "metrics": {
-    "likes": 248,
-    "views": 70747,
+    "likes": 251,
+    "views": 72333,
     "comments": 2
    },
    "buzz_score": 0.02,
@@ -3515,7 +3515,7 @@
    ],
    "thumb": "data/thumbs/instagram_DYwYjyYSnjC.jpg",
    "posted_at": "2026-05-25T09:07:15.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
+   "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
   "instagram_DXwJ3kGhiCd": {
@@ -3525,11 +3525,11 @@
    "url": "https://www.instagram.com/p/DXwJ3kGhiCd/",
    "author": {
     "handle": "tsumugu_nail",
-    "followers": 904
+    "followers": 912
    },
    "metrics": {
-    "likes": 258,
-    "views": 156731,
+    "likes": 261,
+    "views": 159168,
     "comments": 1
    },
    "buzz_score": 0.29,
@@ -3541,7 +3541,7 @@
    ],
    "thumb": "data/thumbs/instagram_DXwJ3kGhiCd.jpg",
    "posted_at": "2026-04-30T10:26:53.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
+   "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
   "tiktok_7658890964362218772": {
@@ -3824,14 +3824,14 @@
    "url": "https://www.tiktok.com/@naa._.aru/video/7653399389159017736",
    "author": {
     "handle": "naa._.aru",
-    "followers": 244700
+    "followers": 247200
    },
    "metrics": {
-    "likes": 18400,
-    "views": 369900,
-    "comments": 46
+    "likes": 21500,
+    "views": 439600,
+    "comments": 48
    },
-   "buzz_score": 1.51,
+   "buzz_score": 1.78,
    "caption": "垢入りから抜け出した垢抜け眉毛の作り方‼️ほんとーに眉毛って大事すぎる、、、#眉毛 #垢抜け #メイク #おすすめ ",
    "hashtags": [
     "眉毛",
@@ -3841,7 +3841,7 @@
    ],
    "thumb": "data/thumbs/tiktok_7653399389159017736.jpg",
    "posted_at": "2026-06-20T08:58:35.000Z",
-   "collected_at": "2026-07-05T21:03:58+09:00",
+   "collected_at": "2026-07-14T18:38:53+09:00",
    "source": "apify"
   },
   "tiktok_7654464319924489480": {
@@ -4072,11 +4072,11 @@
    "url": "https://www.instagram.com/p/CqAkBlOgt0j/",
    "author": {
     "handle": "kanki_okada",
-    "followers": 16461
+    "followers": 16415
    },
    "metrics": {
     "likes": 145,
-    "views": 8430,
+    "views": 8436,
     "comments": 0
    },
    "buzz_score": 0.01,
@@ -4090,7 +4090,7 @@
    ],
    "thumb": "data/thumbs/instagram_CqAkBlOgt0j.jpg",
    "posted_at": "2023-03-20T11:22:01.000Z",
-   "collected_at": "2026-07-05T21:05:08+09:00",
+   "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
   "instagram_DVpcgtskQzF": {
@@ -4100,11 +4100,11 @@
    "url": "https://www.instagram.com/p/DVpcgtskQzF/",
    "author": {
     "handle": "network_business77",
-    "followers": 4084
+    "followers": 4082
    },
    "metrics": {
     "likes": 151,
-    "views": 54940,
+    "views": 54963,
     "comments": 0
    },
    "buzz_score": 0.04,
@@ -4116,7 +4116,7 @@
    ],
    "thumb": "data/thumbs/instagram_DVpcgtskQzF.jpg",
    "posted_at": "2026-03-09T02:52:59.000Z",
-   "collected_at": "2026-07-05T21:05:08+09:00",
+   "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
   "instagram_DPqhVvDiaEn": {
@@ -4126,7 +4126,7 @@
    "url": "https://www.instagram.com/p/DPqhVvDiaEn/",
    "author": {
     "handle": "omyo1986",
-    "followers": 115818
+    "followers": 116441
    },
    "metrics": {
     "likes": 187,
@@ -4142,7 +4142,7 @@
    ],
    "thumb": "data/thumbs/instagram_DPqhVvDiaEn.jpg",
    "posted_at": "2025-10-11T09:46:03.000Z",
-   "collected_at": "2026-07-05T21:05:08+09:00",
+   "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
   "instagram_DWvkoXXESea": {
@@ -4152,11 +4152,11 @@
    "url": "https://www.instagram.com/p/DWvkoXXESea/",
    "author": {
     "handle": "mu_zu_buppan",
-    "followers": 7470
+    "followers": 7456
    },
    "metrics": {
-    "likes": 119,
-    "views": 78494,
+    "likes": 121,
+    "views": 79441,
     "comments": 2
    },
    "buzz_score": 0.02,
@@ -4169,7 +4169,7 @@
    ],
    "thumb": "data/thumbs/instagram_DWvkoXXESea.jpg",
    "posted_at": "2026-04-05T08:30:16.000Z",
-   "collected_at": "2026-07-05T21:05:08+09:00",
+   "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
   "instagram_DYE7OAXhGBb": {
@@ -4179,11 +4179,11 @@
    "url": "https://www.instagram.com/p/DYE7OAXhGBb/",
    "author": {
     "handle": "_leilybaby_",
-    "followers": 1426
+    "followers": 1553
    },
    "metrics": {
-    "likes": 229,
-    "views": 187897,
+    "likes": 248,
+    "views": 193814,
     "comments": 3
    },
    "buzz_score": 0.16,
@@ -4197,7 +4197,7 @@
    ],
    "thumb": "data/thumbs/instagram_DYE7OAXhGBb.jpg",
    "posted_at": "2026-05-08T12:03:59.000Z",
-   "collected_at": "2026-07-05T21:05:08+09:00",
+   "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
   "instagram_DX_qY0ZTjQC": {
@@ -4210,8 +4210,8 @@
     "followers": 9405
    },
    "metrics": {
-    "likes": 123,
-    "views": 56104,
+    "likes": 121,
+    "views": 56151,
     "comments": 1
    },
    "buzz_score": 0.01,
@@ -4221,7 +4221,7 @@
    ],
    "thumb": "data/thumbs/instagram_DX_qY0ZTjQC.jpg",
    "posted_at": "2026-05-06T11:01:00.000Z",
-   "collected_at": "2026-07-05T21:05:08+09:00",
+   "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
   "tiktok_7649004013207260437": {
@@ -4564,11 +4564,11 @@
     "followers": 13600
    },
    "metrics": {
-    "likes": 89,
-    "views": 3529,
-    "comments": 1
+    "likes": 328,
+    "views": 24000,
+    "comments": 2
    },
-   "buzz_score": 0.26,
+   "buzz_score": 1.76,
    "caption": "ゆる社会人 フリーランスの日常Vlog -  ̫- \n#フリーランス #在宅ワーク #社会人vlog #社会人の日常 ",
    "hashtags": [
     "フリーランス",
@@ -4578,7 +4578,7 @@
    ],
    "thumb": "data/thumbs/tiktok_7658637746738629895.jpg",
    "posted_at": "2026-07-04T11:46:01.000Z",
-   "collected_at": "2026-07-05T21:07:10+09:00",
+   "collected_at": "2026-07-14T18:41:49+09:00",
    "source": "apify"
   },
   "tiktok_7653043100901969159": {
@@ -4679,6 +4679,5024 @@
    "thumb": "data/thumbs/tiktok_7654465050027101460.jpg",
    "posted_at": "2026-06-23T09:00:00.000Z",
    "collected_at": "2026-07-05T21:07:10+09:00",
+   "source": "apify"
+  },
+  "instagram_DapaBLtRxCQ": {
+   "id": "DapaBLtRxCQ",
+   "platform": "instagram",
+   "genre": "illust",
+   "url": "https://www.instagram.com/p/DapaBLtRxCQ/",
+   "author": {
+    "handle": "kinakojijii1",
+    "followers": 143618
+   },
+   "metrics": {
+    "likes": 94441,
+    "views": 2123614,
+    "comments": 255
+   },
+   "buzz_score": 0.66,
+   "caption": "煽りLv100のウッディ\n⁡\n少しなにかおかしいトイストーリー\n⁡\n#イラスト#ウッディ#TOYstory#Disney#トイストーリー",
+   "hashtags": [
+    "イラスト",
+    "ウッディ",
+    "TOYstory",
+    "Disney",
+    "トイストーリー"
+   ],
+   "thumb": "data/thumbs/instagram_DapaBLtRxCQ.jpg",
+   "posted_at": "2026-07-11T09:08:38.000Z",
+   "collected_at": "2026-07-14T18:31:16+09:00",
+   "source": "apify"
+  },
+  "instagram_DYBavHkPzb0": {
+   "id": "DYBavHkPzb0",
+   "platform": "instagram",
+   "genre": "illust",
+   "url": "https://www.instagram.com/p/DYBavHkPzb0/",
+   "author": {
+    "handle": "kao_designer",
+    "followers": 87765
+   },
+   "metrics": {
+    "likes": 72029,
+    "views": 3383951,
+    "comments": 242
+   },
+   "buzz_score": 0.82,
+   "caption": "イラストも、ときどき自分で描きます\nSometimes, we draw the illustrations ourselves.\n\n#花王デザイン #KaoDesign",
+   "hashtags": [
+    "花王デザイン",
+    "KaoDesign"
+   ],
+   "thumb": "data/thumbs/instagram_DYBavHkPzb0.jpg",
+   "posted_at": "2026-05-07T03:22:02.000Z",
+   "collected_at": "2026-07-14T18:31:16+09:00",
+   "source": "apify"
+  },
+  "instagram_DZhXx3IJ2aX": {
+   "id": "DZhXx3IJ2aX",
+   "platform": "instagram",
+   "genre": "illust",
+   "url": "https://www.instagram.com/p/DZhXx3IJ2aX/",
+   "author": {
+    "handle": "8kr_um1",
+    "followers": 9531
+   },
+   "metrics": {
+    "likes": 59214,
+    "views": 801820,
+    "comments": 100
+   },
+   "buzz_score": 6.21,
+   "caption": "どんどん気持ちの変化が…💌\n#創作bl #イラスト #illustration #創作 #drawing",
+   "hashtags": [
+    "創作bl",
+    "イラスト",
+    "illustration",
+    "創作",
+    "drawing"
+   ],
+   "thumb": "data/thumbs/instagram_DZhXx3IJ2aX.jpg",
+   "posted_at": "2026-06-13T09:44:33.000Z",
+   "collected_at": "2026-07-14T18:31:16+09:00",
+   "source": "apify"
+  },
+  "instagram_DZzp_EkT6NK": {
+   "id": "DZzp_EkT6NK",
+   "platform": "instagram",
+   "genre": "illust",
+   "url": "https://www.instagram.com/p/DZzp_EkT6NK/",
+   "author": {
+    "handle": "hen8996",
+    "followers": 63558
+   },
+   "metrics": {
+    "likes": 34016,
+    "views": 1417963,
+    "comments": 49
+   },
+   "buzz_score": 0.54,
+   "caption": "地雷系女子、楽器屋でブチギレ！？と思いきや…\n\n#ショートアニメ #アニメ #イラスト #地雷系 #オリジナル\n\n【脚本・イラスト・動画】\nすがたひかる\n\n【声】\n全キャラ：すがたひかる\n※一部キャラにボイス素材「松風」使用",
+   "hashtags": [
+    "ショートアニメ",
+    "アニメ",
+    "イラスト",
+    "地雷系",
+    "オリジナル"
+   ],
+   "thumb": "data/thumbs/instagram_DZzp_EkT6NK.jpg",
+   "posted_at": "2026-06-20T12:09:23.000Z",
+   "collected_at": "2026-07-14T18:31:16+09:00",
+   "source": "apify"
+  },
+  "instagram_DXojj0igcAP": {
+   "id": "DXojj0igcAP",
+   "platform": "instagram",
+   "genre": "illust",
+   "url": "https://www.instagram.com/p/DXojj0igcAP/",
+   "author": {
+    "handle": "harunonioikaze",
+    "followers": 217907
+   },
+   "metrics": {
+    "likes": 30741,
+    "views": 867131,
+    "comments": 73
+   },
+   "buzz_score": 0.14,
+   "caption": "最終的な線画と完成した絵。\nFinal line art and finished illustration\n\n音楽 - 星茶会/灰澈\n\n#イラストメイキング #イラスト #drawing #art #artist",
+   "hashtags": [
+    "イラストメイキング",
+    "イラスト",
+    "drawing",
+    "art",
+    "artist"
+   ],
+   "thumb": "data/thumbs/instagram_DXojj0igcAP.jpg",
+   "posted_at": "2026-04-27T11:39:21.000Z",
+   "collected_at": "2026-07-14T18:31:16+09:00",
+   "source": "apify"
+  },
+  "instagram_DZTT6WFT7T0": {
+   "id": "DZTT6WFT7T0",
+   "platform": "instagram",
+   "genre": "illust",
+   "url": "https://www.instagram.com/p/DZTT6WFT7T0/",
+   "author": {
+    "handle": "shions_ss",
+    "followers": 3982
+   },
+   "metrics": {
+    "likes": 7635,
+    "views": 403177,
+    "comments": 3
+   },
+   "buzz_score": 1.92,
+   "caption": "300円だったしめっちゃ楽しすぎてナイス休日💕🖼️🖌️\n語りながらできるからまじでおすすめ〜夜通しやりたい\n\n#お絵描き #おすすめ #shein購入品",
+   "hashtags": [
+    "お絵描き",
+    "おすすめ",
+    "shein購入品"
+   ],
+   "thumb": "data/thumbs/instagram_DZTT6WFT7T0.jpg",
+   "posted_at": "2026-06-07T22:39:57.000Z",
+   "collected_at": "2026-07-14T18:31:16+09:00",
+   "source": "apify"
+  },
+  "instagram_DaSOEQWSsaQ": {
+   "id": "DaSOEQWSsaQ",
+   "platform": "instagram",
+   "genre": "illust",
+   "url": "https://www.instagram.com/p/DaSOEQWSsaQ/",
+   "author": {
+    "handle": "ami.illust",
+    "followers": 23243
+   },
+   "metrics": {
+    "likes": 2117,
+    "views": 125365,
+    "comments": 13
+   },
+   "buzz_score": 0.09,
+   "caption": "色んな動物を描けるようになるコツ🦁✨️\n.\n#イラスト #お絵描き #スケッチ #sketch",
+   "hashtags": [
+    "イラスト",
+    "お絵描き",
+    "スケッチ",
+    "sketch"
+   ],
+   "thumb": "data/thumbs/instagram_DaSOEQWSsaQ.jpg",
+   "posted_at": "2026-07-02T09:03:54.000Z",
+   "collected_at": "2026-07-14T18:31:16+09:00",
+   "source": "apify"
+  },
+  "instagram_DZCfWTgARZg": {
+   "id": "DZCfWTgARZg",
+   "platform": "instagram",
+   "genre": "illust",
+   "url": "https://www.instagram.com/p/DZCfWTgARZg/",
+   "author": {
+    "handle": "tourboxjapan",
+    "followers": 16672
+   },
+   "metrics": {
+    "likes": 383,
+    "views": 5943,
+    "comments": 1
+   },
+   "buzz_score": 0.02,
+   "caption": "TourBox体験会で、めちゃくちゃ使いこなしてる絵師さんに遭遇！ 👀\n聞いてみたら、まだ使い始めてそんなに経ってないとのこと…？！すごすぎる\n\n#tourbox #左手デバイス #デジタルイラスト #clipstudiopaint #クリスタ #お絵描き動画 #お絵描き #digitalart",
+   "hashtags": [
+    "tourbox",
+    "左手デバイス",
+    "デジタルイラスト",
+    "clipstudiopaint",
+    "クリスタ",
+    "お絵描き動画",
+    "お絵描き",
+    "digitalart"
+   ],
+   "thumb": "data/thumbs/instagram_DZCfWTgARZg.jpg",
+   "posted_at": "2026-06-01T09:53:22.000Z",
+   "collected_at": "2026-07-14T18:31:16+09:00",
+   "source": "apify"
+  },
+  "instagram_DYHToTNDNhj": {
+   "id": "DYHToTNDNhj",
+   "platform": "instagram",
+   "genre": "illust",
+   "url": "https://www.instagram.com/p/DYHToTNDNhj/",
+   "author": {
+    "handle": "tourboxjapan",
+    "followers": 16672
+   },
+   "metrics": {
+    "likes": 456,
+    "views": 8469,
+    "comments": 0
+   },
+   "buzz_score": 0.03,
+   "caption": "「反射光の色が決まらない」 「色がまとまらない」 そんな悩みは、TourBox 同明度パレット で解決！✨ \n明度をキープしたまま、流れるように色を選ぶ。 テクニックいらずで、自然な統一感のある配色を\n\n#TourBox  #左手デバイス #デジタルイラスト  #clipstudiopaint  #クリスタ  #オリキャラ  #お絵描き  #お絵描き動画",
+   "hashtags": [
+    "TourBox",
+    "左手デバイス",
+    "デジタルイラスト",
+    "clipstudiopaint",
+    "クリスタ",
+    "オリキャラ",
+    "お絵描き",
+    "お絵描き動画"
+   ],
+   "thumb": "data/thumbs/instagram_DYHToTNDNhj.jpg",
+   "posted_at": "2026-05-09T10:14:46.000Z",
+   "collected_at": "2026-07-14T18:31:16+09:00",
+   "source": "apify"
+  },
+  "instagram_DXJYOsDkiC6": {
+   "id": "DXJYOsDkiC6",
+   "platform": "instagram",
+   "genre": "illust",
+   "url": "https://www.instagram.com/p/DXJYOsDkiC6/",
+   "author": {
+    "handle": "ami.illust",
+    "followers": 23243
+   },
+   "metrics": {
+    "likes": 20589,
+    "views": 474633,
+    "comments": 132
+   },
+   "buzz_score": 0.89,
+   "caption": "動物を安定して描けるようになった描き方✏️\n.\n#イラスト #イラスト練習 #お絵描き #スケッチ #fyp",
+   "hashtags": [
+    "イラスト",
+    "イラスト練習",
+    "お絵描き",
+    "スケッチ",
+    "fyp"
+   ],
+   "thumb": "data/thumbs/instagram_DXJYOsDkiC6.jpg",
+   "posted_at": "2026-04-15T09:02:22.000Z",
+   "collected_at": "2026-07-14T18:31:16+09:00",
+   "source": "apify"
+  },
+  "instagram_CbT7LwsjJeo": {
+   "id": "CbT7LwsjJeo",
+   "platform": "instagram",
+   "genre": "illust",
+   "url": "https://www.instagram.com/p/CbT7LwsjJeo/",
+   "author": {
+    "handle": "mery.jp",
+    "followers": 603410
+   },
+   "metrics": {
+    "likes": 1004,
+    "views": 82665,
+    "comments": 0
+   },
+   "buzz_score": 0.0,
+   "caption": "今、韓国でも人気の #오일파스텔아트 （ #オイルパステルアート ）にチャレンジ🎨\n.\n【用意するもの】\n・画用紙\n・マスキングテープ\n・お好みの #オイルパステル\n.\n【幻想的な空の #描き方 🖼☁️】\n①画用紙の四方にマスキングテープを貼る\n②ピンク、紫、青のパステルを順番に塗っていく\n③青のパステルで雲の輪郭を描く\n④雲の影を紫のパステルでつけていく\n⑤黄色のパステルで光の当たっている部分、月を描く\n⑥白いボールペンで星を描く\n⑦マスキングテープを剥がして完成！\n.\n色を塗っていくときに、綿棒を使ってぼかすと綺麗になじむよ🪄\n.\n今回は #Amazon （ @amazonjapan ）で購入した『 Paul Rubens （ #パウルルーベンス ） @rubens_paul 』のオイルパステル を使用してみたよ！\nそのままはもちろん、ぼかすだけで雰囲気が出るから初心者でもトライしやすく、春から新しい #趣味 が欲しい方にもおすすめです♡🖍\n.\n#お絵描き #風景画 #お絵描き好きな人と繋がりたい #오일파스텔 #일러스트 #풍경화 #illust #illustagram #oilpastel #oilpastelart #oilpastels #croquis #landscapepainting #趣味探し #趣味の時間",
+   "hashtags": [
+    "오일파스텔아트",
+    "オイルパステルアート",
+    "オイルパステル",
+    "描き方",
+    "Amazon",
+    "パウルルーベンス",
+    "趣味",
+    "お絵描き",
+    "風景画",
+    "お絵描き好きな人と繋がりたい",
+    "오일파스텔",
+    "일러스트",
+    "풍경화",
+    "illust",
+    "illustagram",
+    "oilpastel",
+    "oilpastelart",
+    "oilpastels",
+    "croquis",
+    "landscapepainting",
+    "趣味探し",
+    "趣味の時間"
+   ],
+   "thumb": "data/thumbs/instagram_CbT7LwsjJeo.jpg",
+   "posted_at": "2022-03-20T03:56:34.000Z",
+   "collected_at": "2026-07-14T18:31:16+09:00",
+   "source": "apify"
+  },
+  "instagram_DZpIi0IRnhE": {
+   "id": "DZpIi0IRnhE",
+   "platform": "instagram",
+   "genre": "illust",
+   "url": "https://www.instagram.com/p/DZpIi0IRnhE/",
+   "author": {
+    "handle": "chun.illust",
+    "followers": 23820
+   },
+   "metrics": {
+    "likes": 3647,
+    "views": 393991,
+    "comments": 30
+   },
+   "buzz_score": 0.15,
+   "caption": "5人ママちゅんの\n毎日お絵描きチャレンジ\n42枚目🌈\n\nゲームキャラシリーズ🎮✨\n\n＼ヨッシーの描き方💚／\n\nマリオシリーズで人気の\nヨッシー🥚\n実は敵を食べてタマゴにできるって知ってた？😳✨\n\n子どもの頃、妹弟たちとめっちゃはまってたな〜♫\n(特にドクターマリオだけは兄弟には負けたことなかったw😜)\n\n今回はサクラクレパス\n5色だけで挑戦してみました🎨❤️‍🔥\n\n使った色が少ない分、\n色を重ねたり混ぜたりしながら\n工夫して完成⭐️\n\nみんなはヨッシー使う派？💚\n\n今日使った色🌈\n💛黄色\n🩵水色\n💙青\n❤️赤\n🤍白\n\n難易度\n⭐⭐⭐\n\n#ちゅんイラスト\n#毎日投稿\n#ヨッシー\n#スーパーマリオ\n#お絵描き",
+   "hashtags": [
+    "ちゅんイラスト",
+    "毎日投稿",
+    "ヨッシー",
+    "スーパーマリオ",
+    "お絵描き"
+   ],
+   "thumb": "data/thumbs/instagram_DZpIi0IRnhE.jpg",
+   "posted_at": "2026-06-16T10:05:48.000Z",
+   "collected_at": "2026-07-14T18:31:16+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661809473090030870": {
+   "id": "7661809473090030870",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@xiaohongshu_art_tutorial/video/7661809473090030870",
+   "author": {
+    "handle": "xiaohongshu_art_tutorial",
+    "followers": 336800
+   },
+   "metrics": {
+    "likes": 10300,
+    "views": 94200,
+    "comments": 35
+   },
+   "buzz_score": 0.28,
+   "caption": "ฅ≽(•⩊ •マ≼  illustration editing  tutorial with comments for artists from RedNote ~\nsave and practice .\nfollow for more art lessons and art ideas 💡 \n.\n.\n.\ncredit: id264391462\n.\n.\n#arttutorials #xiaohongshuart #artlesson #animeart #animearttutorial ",
+   "hashtags": [
+    "arttutorials",
+    "xiaohongshuart",
+    "artlesson",
+    "animeart",
+    "animearttutorial"
+   ],
+   "thumb": "data/thumbs/tiktok_7661809473090030870.jpg",
+   "posted_at": "2026-07-13T00:54:12.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661545900547788054": {
+   "id": "7661545900547788054",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@xiaohongshu_art_tutorial/video/7661545900547788054",
+   "author": {
+    "handle": "xiaohongshu_art_tutorial",
+    "followers": 336800
+   },
+   "metrics": {
+    "likes": 17200,
+    "views": 119000,
+    "comments": 56
+   },
+   "buzz_score": 0.35,
+   "caption": "ฅ≽(•⩊ •マ≼  illustration editing  tutorial with comments for artists from RedNote ~\nsave and practice .\nfollow for more art lessons and art ideas 💡 \n.\n.\n.\ncredit: id2674760302 i调调i\n.\n.\n#arttutorials #xiaohongshuart #artlesson #animeart #animearttutorial ",
+   "hashtags": [
+    "arttutorials",
+    "xiaohongshuart",
+    "artlesson",
+    "animeart",
+    "animearttutorial"
+   ],
+   "thumb": "data/thumbs/tiktok_7661545900547788054.jpg",
+   "posted_at": "2026-07-12T07:51:19.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661922302895869192": {
+   "id": "7661922302895869192",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@nerimono.com/video/7661922302895869192",
+   "author": {
+    "handle": "nerimono.com",
+    "followers": 16700
+   },
+   "metrics": {
+    "likes": 6123,
+    "views": 43600,
+    "comments": 15
+   },
+   "buzz_score": 2.61,
+   "caption": "電車のを見てから見てね！ #創作 #創作漫画 #メガネ男子 #片想い #イラスト",
+   "hashtags": [
+    "創作",
+    "創作漫画",
+    "メガネ男子",
+    "片想い",
+    "イラスト"
+   ],
+   "thumb": "data/thumbs/tiktok_7661922302895869192.jpg",
+   "posted_at": "2026-07-13T08:11:50.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661916902985387282": {
+   "id": "7661916902985387282",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@natsume_sanchi/video/7661916902985387282",
+   "author": {
+    "handle": "natsume_sanchi",
+    "followers": 528400
+   },
+   "metrics": {
+    "likes": 2185,
+    "views": 29700,
+    "comments": 5
+   },
+   "buzz_score": 0.06,
+   "caption": "クロリンデとシグウィンをお絵描き！ #なつめさんち#お絵描き#drawing#art#アート#イラスト#絵師#夫婦#カラーマッチングチャレンジ",
+   "hashtags": [],
+   "thumb": "data/thumbs/tiktok_7661916902985387282.jpg",
+   "posted_at": "2026-07-13T07:50:51.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7637655608358882567": {
+   "id": "7637655608358882567",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@nanimonai_160/video/7637655608358882567",
+   "author": {
+    "handle": "nanimonai_160",
+    "followers": 192500
+   },
+   "metrics": {
+    "likes": 56800,
+    "views": 317900,
+    "comments": 127
+   },
+   "buzz_score": 1.65,
+   "caption": "再掲#イラスト #創作 #イラストメイキング #illusion #アナログメイキング ",
+   "hashtags": [
+    "イラスト",
+    "創作",
+    "イラストメイキング",
+    "illusion",
+    "アナログメイキング"
+   ],
+   "thumb": "data/thumbs/tiktok_7637655608358882567.jpg",
+   "posted_at": "2026-05-08T22:44:38.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661982352784231701": {
+   "id": "7661982352784231701",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@hanabi08088/video/7661982352784231701",
+   "author": {
+    "handle": "hanabi08088",
+    "followers": 51300
+   },
+   "metrics": {
+    "likes": 1432,
+    "views": 8559,
+    "comments": 30
+   },
+   "buzz_score": 0.17,
+   "caption": "不器用な二人#イラスト#創作#ロマンチシズム#mrsgreenapple#fyp ",
+   "hashtags": [
+    "イラスト",
+    "創作",
+    "ロマンチシズム",
+    "mrsgreenapple",
+    "fyp"
+   ],
+   "thumb": "data/thumbs/tiktok_7661982352784231701.jpg",
+   "posted_at": "2026-07-13T12:04:50.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7630840562995727636": {
+   "id": "7630840562995727636",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@sakura552000/video/7630840562995727636",
+   "author": {
+    "handle": "sakura552000",
+    "followers": 2155
+   },
+   "metrics": {
+    "likes": 11500,
+    "views": 371000,
+    "comments": 14
+   },
+   "buzz_score": 172.16,
+   "caption": "独占欲強めの王子様⑤#イラスト #創作漫画 #恋tz #illustration#anime ",
+   "hashtags": [
+    "イラスト",
+    "創作漫画",
+    "恋tz",
+    "illustration",
+    "anime"
+   ],
+   "thumb": "data/thumbs/tiktok_7630840562995727636.jpg",
+   "posted_at": "2026-04-20T13:58:46.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661913889080233223": {
+   "id": "7661913889080233223",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@natsume_sanchi/video/7661913889080233223",
+   "author": {
+    "handle": "natsume_sanchi",
+    "followers": 528400
+   },
+   "metrics": {
+    "likes": 2092,
+    "views": 40600,
+    "comments": 4
+   },
+   "buzz_score": 0.08,
+   "caption": "この色を決めたのはあなたよ？ #なつめさんち#お絵描き#drawing#art#アート#イラスト#絵師#夫婦#カラーマッチングチャレンジ",
+   "hashtags": [],
+   "thumb": "data/thumbs/tiktok_7661913889080233223.jpg",
+   "posted_at": "2026-07-13T07:39:08.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7576957741038652692": {
+   "id": "7576957741038652692",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@t4_yokai/video/7576957741038652692",
+   "author": {
+    "handle": "t4_yokai",
+    "followers": 777
+   },
+   "metrics": {
+    "likes": 6544,
+    "views": 103900,
+    "comments": 34
+   },
+   "buzz_score": 133.72,
+   "caption": "【絵師必見】激メロい顔の描き方！【イラスト】#イラスト #イラストメイキング #セルフ受肉vtuber #Vtuber #たくわ",
+   "hashtags": [
+    "イラスト",
+    "イラストメイキング",
+    "セルフ受肉vtuber",
+    "vtuber",
+    "たくわ"
+   ],
+   "thumb": "data/thumbs/tiktok_7576957741038652692.jpg",
+   "posted_at": "2025-11-26T09:05:54.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7659554772441173281": {
+   "id": "7659554772441173281",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@kivsomnia/video/7659554772441173281",
+   "author": {
+    "handle": "kivsomnia",
+    "followers": 50900
+   },
+   "metrics": {
+    "likes": 145200,
+    "views": 538400,
+    "comments": 517
+   },
+   "buzz_score": 10.58,
+   "caption": "(*・x・)/ i draw in Clip Studio Paint on a Huion Kamvas 20 Pro display tablet. all the brushes are available in my carrd/tg! #digitalart #illustration #arttutorial #commission ",
+   "hashtags": [
+    "digitalart",
+    "illustration",
+    "arttutorial",
+    "commission"
+   ],
+   "thumb": "data/thumbs/tiktok_7659554772441173281.jpg",
+   "posted_at": "2026-07-06T23:04:36.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7652318475712564501": {
+   "id": "7652318475712564501",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@sleepingneru/video/7652318475712564501",
+   "author": {
+    "handle": "sleepingneru",
+    "followers": 72100
+   },
+   "metrics": {
+    "likes": 28800,
+    "views": 500300,
+    "comments": 147
+   },
+   "buzz_score": 6.94,
+   "caption": "流行りのスウェット落書きミサミサちゃんでやってみた〜！まじで可愛くできたからおうち時間ある人ぜひ挑戦してみて🥹✝️\n.\n.\n#イラストレーター #deathnote #misamisa #ミサミサ #スウェット落書き ",
+   "hashtags": [
+    "イラストレーター",
+    "deathnote",
+    "misamisa",
+    "ミサミサ",
+    "スウェット落書き"
+   ],
+   "thumb": "data/thumbs/tiktok_7652318475712564501.jpg",
+   "posted_at": "2026-06-17T11:04:03.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7647869359137819911": {
+   "id": "7647869359137819911",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@tansaiboooo/video/7647869359137819911",
+   "author": {
+    "handle": "tansaiboooo",
+    "followers": 2864
+   },
+   "metrics": {
+    "likes": 392,
+    "views": 8859,
+    "comments": 1
+   },
+   "buzz_score": 3.09,
+   "caption": "漫画家イラストレーターの1日✨\n\n本編はこちら⬇️\n\n【要注意彼女夢見ちゃん】\ncycomi.com/title/240\n\nサイコミにて連載中『要注意彼女夢見ちゃん』第1.2.3巻が\n本日全国書店＆通販＆電子書籍にて発売致しました❤️‍🩹\n\nお買い求めは下記URLから⬇️\n\n【Amazon Kindle】https://amzn.asia/d/03DFKaGx\n【Amazon】https://amzn.asia/d/0eTMI7tg\n\n#illustration #manga #viog #イラスト #漫画 ",
+   "hashtags": [
+    "illustration",
+    "manga",
+    "viog",
+    "イラスト",
+    "漫画"
+   ],
+   "thumb": "data/thumbs/tiktok_7647869359137819911.jpg",
+   "posted_at": "2026-06-05T11:19:14.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7660854887512575252": {
+   "id": "7660854887512575252",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@fuwafuwayunimaru/video/7660854887512575252",
+   "author": {
+    "handle": "fuwafuwayunimaru",
+    "followers": 1586
+   },
+   "metrics": {
+    "likes": 1713,
+    "views": 91600,
+    "comments": 109
+   },
+   "buzz_score": 57.76,
+   "caption": "【お部屋初公開!!】8歳イラストレーターゆにまる\n#イラストレーター\n#お部屋紹介",
+   "hashtags": [
+    "イラストレーター",
+    "お部屋紹介"
+   ],
+   "thumb": "data/thumbs/tiktok_7660854887512575252.jpg",
+   "posted_at": "2026-07-10T11:09:43.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661206223798144273": {
+   "id": "7661206223798144273",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@misapo_illust/video/7661206223798144273",
+   "author": {
+    "handle": "misapo_illust",
+    "followers": 4738
+   },
+   "metrics": {
+    "likes": 35,
+    "views": 1255,
+    "comments": 21
+   },
+   "buzz_score": 0.26,
+   "caption": "クリップにお絵かき!?😳✨\n\n#イラスト\n#イラストレーター\n#ネギ\n#ぽわぽわ ",
+   "hashtags": [
+    "イラスト",
+    "イラストレーター",
+    "ネギ",
+    "ぽわぽわ"
+   ],
+   "thumb": "data/thumbs/tiktok_7661206223798144273.jpg",
+   "posted_at": "2026-07-11T09:53:26.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7658627076982918420": {
+   "id": "7658627076982918420",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@fuwafuwayunimaru/video/7658627076982918420",
+   "author": {
+    "handle": "fuwafuwayunimaru",
+    "followers": 1586
+   },
+   "metrics": {
+    "likes": 111,
+    "views": 4937,
+    "comments": 27
+   },
+   "buzz_score": 3.11,
+   "caption": "【イニシャルデコシリーズS描いてみた】8歳イラストレーターゆにまる\n#イラスト\n#イラストメイキング\n#アイビスペイント",
+   "hashtags": [
+    "イラスト",
+    "イラストメイキング",
+    "アイビスペイント"
+   ],
+   "thumb": "data/thumbs/tiktok_7658627076982918420.jpg",
+   "posted_at": "2026-07-04T11:04:37.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661088412752940308": {
+   "id": "7661088412752940308",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@chun.illust/video/7661088412752940308",
+   "author": {
+    "handle": "chun.illust",
+    "followers": 3974
+   },
+   "metrics": {
+    "likes": 89,
+    "views": 3035,
+    "comments": 7
+   },
+   "buzz_score": 0.76,
+   "caption": "5人ママちゅんのお絵描き50枚目🌈\n\n👽💚 トイ・ストーリーのエイリアン「リトル・グリーン・メイの描き方」✨\n\nまたエイリアン風の声真似してみた〜😂w\n\nまんまるな瞳と\nとがらせた口がたまらない💕\n\nふんわりグラデーションで、丸いフォルムにしたよ🎨\n\nもし「か〜わ〜い〜い〜🥹💚」\nと思ったら、ぜひいいね・保存してもらえると嬉しいです✨\n\n難易度\n🌟🌟\n\n使った色🎨\nレモンイエロー(黄色)\n黄緑\n水色\n紺色\n紫\n黒\n\nまわり🌈\nレモンイエロー\n黄緑\nピンク\nラベンダー\n\n#トイストーリー",
+   "hashtags": [
+    "トイストーリー"
+   ],
+   "thumb": "data/thumbs/tiktok_7661088412752940308.jpg",
+   "posted_at": "2026-07-11T02:15:52.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661877216694979847": {
+   "id": "7661877216694979847",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@illust_producer/video/7661877216694979847",
+   "author": {
+    "handle": "illust_producer",
+    "followers": 34600
+   },
+   "metrics": {
+    "likes": 293,
+    "views": 6187,
+    "comments": 5
+   },
+   "buzz_score": 0.18,
+   "caption": "正面顔で光源迷子になる人絶対見て#絵描きさんと繋がりたい #イラスト動画 #お絵描き動画 #お絵描き ",
+   "hashtags": [
+    "絵描きさんと繋がりたい",
+    "イラスト動画",
+    "お絵描き動画",
+    "お絵描き"
+   ],
+   "thumb": "data/thumbs/tiktok_7661877216694979847.jpg",
+   "posted_at": "2026-07-13T05:16:51.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7634104342194228498": {
+   "id": "7634104342194228498",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@ami.illust/video/7634104342194228498",
+   "author": {
+    "handle": "ami.illust",
+    "followers": 6589
+   },
+   "metrics": {
+    "likes": 7951,
+    "views": 120400,
+    "comments": 31
+   },
+   "buzz_score": 18.27,
+   "caption": "狼を描けるようになった描き方🐺✨️\n#イラスト #イラスト練習 #お絵描き #おすすめ #fyp ",
+   "hashtags": [
+    "イラスト",
+    "イラスト練習",
+    "お絵描き",
+    "おすすめ",
+    "fyp"
+   ],
+   "thumb": "data/thumbs/tiktok_7634104342194228498.jpg",
+   "posted_at": "2026-04-29T09:03:53.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7648601530274172180": {
+   "id": "7648601530274172180",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@chun.illust/video/7648601530274172180",
+   "author": {
+    "handle": "chun.illust",
+    "followers": 3974
+   },
+   "metrics": {
+    "likes": 185,
+    "views": 8169,
+    "comments": 18
+   },
+   "buzz_score": 2.06,
+   "caption": "5人ママちゅんの 毎日お絵描きチャレンジ 33枚目🌈\n\nみんな知ってる\n＼ドラえもんの描き方✨／\n\n元々は黄色い体で\n「耳」もあったけど\n\nネズミに耳をかじられてショックで泣き続けた結果、塗装が剥げて現在の青い色になったそう‼️😳\n\n22世紀からやってきたネコ型ロボットで、お腹の「四次元ポケット」から未来の「ひみつ道具」を出してのび太を助けることが使命⭐️\n\n身長、体重、パワーなど、多くの基本スペックに「129.3」という数字が使われていて\nこれは実は小学4年生の平均身長から設定されたんやって❗️\n\n使った色🌈\n水色\n青\n赤\n黄色\n\n周り🌈\nドラえもんの色➕\nピンク\n茶色\nラベンダー\n\n難易度\n⭐️⭐️⭐️\n\n#ドラえもん\n#描き方 #かわいイラスト #ちゅんイラスト",
+   "hashtags": [
+    "ドラえもん",
+    "描き方",
+    "かわいイラスト",
+    "ちゅんイラスト"
+   ],
+   "thumb": "data/thumbs/tiktok_7648601530274172180.jpg",
+   "posted_at": "2026-06-07T10:40:27.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661914807456501010": {
+   "id": "7661914807456501010",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@natsume_sanchi/video/7661914807456501010",
+   "author": {
+    "handle": "natsume_sanchi",
+    "followers": 528400
+   },
+   "metrics": {
+    "likes": 2412,
+    "views": 48900,
+    "comments": 2
+   },
+   "buzz_score": 0.09,
+   "caption": "妻に勝ちたい夫 #なつめさんち#お絵描き#drawing#art#アート#イラスト#絵師#夫婦#カラーマッチングチャレンジ",
+   "hashtags": [],
+   "thumb": "data/thumbs/tiktok_7661914807456501010.jpg",
+   "posted_at": "2026-07-13T07:42:41.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7660002507627711764": {
+   "id": "7660002507627711764",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@atam_illust/video/7660002507627711764",
+   "author": {
+    "handle": "atam_illust",
+    "followers": 48000
+   },
+   "metrics": {
+    "likes": 99,
+    "views": 1346,
+    "comments": 2
+   },
+   "buzz_score": 0.03,
+   "caption": "【レベルごとに描いてみる！】木の描き方　#アタムアカデミー #illustration #イラスト #お絵描き",
+   "hashtags": [],
+   "thumb": "data/thumbs/tiktok_7660002507627711764.jpg",
+   "posted_at": "2026-07-13T11:00:00.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7656450291532860692": {
+   "id": "7656450291532860692",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@peacock_film/video/7656450291532860692",
+   "author": {
+    "handle": "peacock_film",
+    "followers": 281300
+   },
+   "metrics": {
+    "likes": 53000,
+    "views": 1900000,
+    "comments": 122
+   },
+   "buzz_score": 6.75,
+   "caption": "海先取りしてる2人にお邪魔してお絵描きしてきたった🎨 #ぴーこっく #リポート ",
+   "hashtags": [
+    "ぴーこっく",
+    "リポート"
+   ],
+   "thumb": "data/thumbs/tiktok_7656450291532860692.jpg",
+   "posted_at": "2026-06-28T14:17:34.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7660084967812189461": {
+   "id": "7660084967812189461",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@xppenjapan/video/7660084967812189461",
+   "author": {
+    "handle": "xppenjapan",
+    "followers": 166
+   },
+   "metrics": {
+    "likes": 2964,
+    "views": 71400,
+    "comments": 8
+   },
+   "buzz_score": 430.12,
+   "caption": "「16K筆圧、最高ですね！」 ぴーこさんも納得のArtist 12 3rd。\n#xppen #artist123rd #イラスト#illustration #お絵描き",
+   "hashtags": [
+    "xppen",
+    "artist123rd",
+    "イラスト",
+    "illustration",
+    "お絵描き"
+   ],
+   "thumb": "data/thumbs/tiktok_7660084967812189461.jpg",
+   "posted_at": "2026-07-08T12:30:00.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7660099164533034261": {
+   "id": "7660099164533034261",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@tourbox_japan/video/7660099164533034261",
+   "author": {
+    "handle": "tourbox_japan",
+    "followers": 22000
+   },
+   "metrics": {
+    "likes": 532,
+    "views": 8074,
+    "comments": 5
+   },
+   "buzz_score": 0.37,
+   "caption": "待望のダイナミックカラーピッカーが、\nAndroidタブレットでも使えるようになりました！⭐\n\n✔ スポイト・色選択・塗りを一気に\n✔ 同明度パレットで簡単に「合う色」が選べる\n✔ ペン先からどこでも呼び出し可能！\n\nぜひ試してみてください!!\n\n#TourBox #左手デバイス #デジタルイラスト #digitalart #お絵描き動画 #イラストメイキング #clipstudiopaint #android",
+   "hashtags": [
+    "tourbox",
+    "左手デバイス",
+    "デジタルイラスト",
+    "digitalart",
+    "お絵描き動画",
+    "イラストメイキング",
+    "clipstudiopaint",
+    "android"
+   ],
+   "thumb": "data/thumbs/tiktok_7660099164533034261.jpg",
+   "posted_at": "2026-07-08T10:17:06.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7651088411171786005": {
+   "id": "7651088411171786005",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@kuroneko__roki_nu913/video/7651088411171786005",
+   "author": {
+    "handle": "kuroneko__roki_nu913",
+    "followers": 3063
+   },
+   "metrics": {
+    "likes": 3968,
+    "views": 66300,
+    "comments": 44
+   },
+   "buzz_score": 21.65,
+   "caption": "5ヶ月コメント放置してゴメン\n質問したこと忘れてるかもしれない\n#イラスト #デジタルイラスト #イラストメイキング \n\n@みたらし団子🍡🍯 ",
+   "hashtags": [
+    "イラスト",
+    "デジタルイラスト",
+    "イラストメイキング"
+   ],
+   "thumb": "data/thumbs/tiktok_7651088411171786005.jpg",
+   "posted_at": "2026-06-14T03:30:46.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661595183296957714": {
+   "id": "7661595183296957714",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@huton2007/video/7661595183296957714",
+   "author": {
+    "handle": "huton2007",
+    "followers": 397
+   },
+   "metrics": {
+    "likes": 672,
+    "views": 6686,
+    "comments": 16
+   },
+   "buzz_score": 16.84,
+   "caption": "色んな人にメイド服着せたい#参考にどうぞ #meme  #イラスト #デジタル #fyp ",
+   "hashtags": [
+    "参考にどうぞ",
+    "meme",
+    "イラスト",
+    "デジタル",
+    "fyp"
+   ],
+   "thumb": "data/thumbs/tiktok_7661595183296957714.jpg",
+   "posted_at": "2026-07-12T11:02:28.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7516883832637885703": {
+   "id": "7516883832637885703",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@rearea_7777/video/7516883832637885703",
+   "author": {
+    "handle": "rearea_7777",
+    "followers": 3632
+   },
+   "metrics": {
+    "likes": 37400,
+    "views": 748400,
+    "comments": 152
+   },
+   "buzz_score": 206.06,
+   "caption": "TikTokはじめました！昔作ったメイキング解説をあげます\n#イラスト #イラストメイキング #イラスト動画 #illustration #miku #hatsunemiku #初音ミク #アイビスペイント #ibispaintx ",
+   "hashtags": [
+    "イラスト",
+    "イラストメイキング",
+    "イラスト動画",
+    "illustration",
+    "miku",
+    "hatsunemiku",
+    "初音ミク",
+    "アイビスペイント",
+    "ibispaintx"
+   ],
+   "thumb": "data/thumbs/tiktok_7516883832637885703.jpg",
+   "posted_at": "2025-06-17T11:48:25.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7662099347772837138": {
+   "id": "7662099347772837138",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@sawano072/video/7662099347772837138",
+   "author": {
+    "handle": "sawano072",
+    "followers": 4698
+   },
+   "metrics": {
+    "likes": 1969,
+    "views": 16900,
+    "comments": 8
+   },
+   "buzz_score": 3.6,
+   "caption": "フェイスメイキングはリアルとそんなに変わらないです👍なので普段メイクしてる人なら自分なりのやり方で塗ればいいんです〜！　　それと魔入間にハマっております◎oras先生とagrs推しです🫶好きな人に刺さってくれたらうれしいな#イラストメイキング #アイビスペイント #魔入りました入間くん #アガレス・ピケロ ",
+   "hashtags": [
+    "イラストメイキング",
+    "アイビスペイント",
+    "魔入りました入間くん",
+    "アガレス・ピケロ"
+   ],
+   "thumb": "data/thumbs/tiktok_7662099347772837138.jpg",
+   "posted_at": "2026-07-13T19:38:54.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_7293547986544594183": {
+   "id": "7293547986544594183",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@hnkn___ki/video/7293547986544594183",
+   "author": {
+    "handle": "hnkn___ki",
+    "followers": 31200
+   },
+   "metrics": {
+    "likes": 31400,
+    "views": 688300,
+    "comments": 124
+   },
+   "buzz_score": 22.06,
+   "caption": "リクエストがあったので、厚塗り方法の解説動画です！\n解説系を出すのは初めてなので分かりにくいかもしれません〜🥲\n\n#イラスト解説 #イラストメイキング #イラスト描き方 #厚塗りのやり方 #厚塗り #博麗霊夢 #東方project #タイムラプス #digitalart #drawing #illustrationart ",
+   "hashtags": [
+    "イラスト解説",
+    "イラストメイキング",
+    "イラスト描き方",
+    "厚塗りのやり方",
+    "厚塗り",
+    "博麗霊夢",
+    "東方project",
+    "タイムラプス",
+    "digitalart",
+    "drawing",
+    "illustrationart"
+   ],
+   "thumb": "data/thumbs/tiktok_7293547986544594183.jpg",
+   "posted_at": "2023-10-24T15:31:16.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "tiktok_6994780644006006017": {
+   "id": "6994780644006006017",
+   "platform": "tiktok",
+   "genre": "illust",
+   "url": "https://www.tiktok.com/@nowatari_pi1/video/6994780644006006017",
+   "author": {
+    "handle": "nowatari_pi1",
+    "followers": 23200
+   },
+   "metrics": {
+    "likes": 44800,
+    "views": 1200000,
+    "comments": 80
+   },
+   "buzz_score": 51.72,
+   "caption": "らくがきアスカ超ざっくりメイキング👀✍ #イラスト #イラストメイキング #厚塗り #メイキング #エヴァンゲリオン #式波アスカ",
+   "hashtags": [
+    "イラスト",
+    "イラストメイキング",
+    "厚塗り",
+    "メイキング",
+    "エヴァンゲリオン",
+    "式波アスカ"
+   ],
+   "thumb": "data/thumbs/tiktok_6994780644006006017.jpg",
+   "posted_at": "2021-08-10T12:41:21.000Z",
+   "collected_at": "2026-07-14T18:34:18+09:00",
+   "source": "apify"
+  },
+  "instagram_DZNDBgFp3Bk": {
+   "id": "DZNDBgFp3Bk",
+   "platform": "instagram",
+   "genre": "salon",
+   "url": "https://www.instagram.com/p/DZNDBgFp3Bk/",
+   "author": {
+    "handle": "hncooooo714",
+    "followers": 26982
+   },
+   "metrics": {
+    "likes": 6302,
+    "views": 579339,
+    "comments": 69
+   },
+   "buzz_score": 0.23,
+   "caption": ".\n.\n.\n29歳美容室レセプション仕事の日の1日vlog🎀\n.\n.\n.\n#shima #美容室",
+   "hashtags": [
+    "shima",
+    "美容室"
+   ],
+   "thumb": "data/thumbs/instagram_DZNDBgFp3Bk.jpg",
+   "posted_at": "2026-06-05T12:20:50.000Z",
+   "collected_at": "2026-07-14T18:35:29+09:00",
+   "source": "apify"
+  },
+  "instagram_DYqsb8RpJ7K": {
+   "id": "DYqsb8RpJ7K",
+   "platform": "instagram",
+   "genre": "salon",
+   "url": "https://www.instagram.com/p/DYqsb8RpJ7K/",
+   "author": {
+    "handle": "takumilk_tea410",
+    "followers": 97674
+   },
+   "metrics": {
+    "likes": 11934,
+    "views": 439950,
+    "comments": 32
+   },
+   "buzz_score": 0.12,
+   "caption": "yellow",
+   "hashtags": [],
+   "thumb": "data/thumbs/instagram_DYqsb8RpJ7K.jpg",
+   "posted_at": "2026-05-23T04:06:00.000Z",
+   "collected_at": "2026-07-14T18:35:29+09:00",
+   "source": "apify"
+  },
+  "instagram_DXd6vilx33_": {
+   "id": "DXd6vilx33_",
+   "platform": "instagram",
+   "genre": "salon",
+   "url": "https://www.instagram.com/p/DXd6vilx33_/",
+   "author": {
+    "handle": "yamaguchi_barber",
+    "followers": 94562
+   },
+   "metrics": {
+    "likes": 45218,
+    "views": 2072493,
+    "comments": 52
+   },
+   "buzz_score": 0.48,
+   "caption": "リズミカルなタッピングで深く癒されるヘッドマッサージ\n\nmodel\n\n@therapist.nana \n\n#理容師#美容師 #美容室",
+   "hashtags": [
+    "理容師",
+    "美容師",
+    "美容室"
+   ],
+   "thumb": "data/thumbs/instagram_DXd6vilx33_.jpg",
+   "posted_at": "2026-04-23T08:30:42.000Z",
+   "collected_at": "2026-07-14T18:35:29+09:00",
+   "source": "apify"
+  },
+  "instagram_DZHtykhvmyj": {
+   "id": "DZHtykhvmyj",
+   "platform": "instagram",
+   "genre": "salon",
+   "url": "https://www.instagram.com/p/DZHtykhvmyj/",
+   "author": {
+    "handle": "miyu_nasu",
+    "followers": 5869
+   },
+   "metrics": {
+    "likes": 944,
+    "views": 76159,
+    "comments": 1
+   },
+   "buzz_score": 0.16,
+   "caption": "骨格を読むってこういうこと✔️\n詳しく知りたい方は、マンツーマンで講師も\nしているので気軽にお問い合わせください📚\n・技術に自信がない\n・なんとなくでデザインしている\n・骨格の見方がわからない\nなどお悩みの技術者さん、わからないところ\n徹底的にお伝えします✨\n⠀\n⠀\n_____________________________________\n\n骨と眉毛とまつげを整える場所\nLotty\n\n📍東京都港区赤坂\n\nご予約はプロフィールURLから✔️\n@miyu_nasu \nDMからもご予約可能です◎",
+   "hashtags": [],
+   "thumb": "data/thumbs/instagram_DZHtykhvmyj.jpg",
+   "posted_at": "2026-06-03T10:39:54.000Z",
+   "collected_at": "2026-07-14T18:35:29+09:00",
+   "source": "apify"
+  },
+  "instagram_DLl-fFyyLko": {
+   "id": "DLl-fFyyLko",
+   "platform": "instagram",
+   "genre": "salon",
+   "url": "https://www.instagram.com/p/DLl-fFyyLko/",
+   "author": {
+    "handle": "hiro.odagiri",
+    "followers": 1315572
+   },
+   "metrics": {
+    "likes": 8552,
+    "views": 641196,
+    "comments": 18
+   },
+   "buzz_score": 0.01,
+   "caption": "2025年\"正統派アイブロウの作り方\"\nそうよ〜♡どんなファッション・メイクでも好印象なアイブロウがあるのよ〜♡",
+   "hashtags": [],
+   "thumb": "data/thumbs/instagram_DLl-fFyyLko.jpg",
+   "posted_at": "2025-07-02T09:03:37.000Z",
+   "collected_at": "2026-07-14T18:35:29+09:00",
+   "source": "apify"
+  },
+  "instagram_DX6g8V4PCQz": {
+   "id": "DX6g8V4PCQz",
+   "platform": "instagram",
+   "genre": "salon",
+   "url": "https://www.instagram.com/p/DX6g8V4PCQz/",
+   "author": {
+    "handle": "petit_saika_",
+    "followers": 1734
+   },
+   "metrics": {
+    "likes": 408,
+    "views": 163628,
+    "comments": 0
+   },
+   "buzz_score": 0.24,
+   "caption": "手書きアートで十字架ネイル？！✝️🖤\n\n💅@petit_saika_ \n.\n5月🌕６月☔️もご予約受け付けております❤️\n.\nNagoya private nail salon 🎀Petit🎀韓国ガーリー専門店\n\n\"名古屋ネイルサロン\"\nお爪に優しいフィルイン対応/パラジェル\n\n📌新栄町駅2番出口から徒歩3分\n📌新栄町駅1番出口から徒歩5分\n📌栄駅から徒歩10分\n\n⭐︎ご新規様受付中💁‍♀️フットネイル🉑\n⭐︎密かにネイルチップオーダー受付中💁‍♀️\n\n【ご予約方法🪽】\nご新規様▶︎Instagram、公式LINE\nリピーター様▶︎次回予約、Instagram、公式LINE\n\nご気軽にご相談ください💌\n.\n#名古屋ネイルサロン #十字架ネイル #クロムネイル #y2kネイル #ネイリストvlog",
+   "hashtags": [
+    "名古屋ネイルサロン",
+    "十字架ネイル",
+    "クロムネイル",
+    "y2kネイル",
+    "ネイリストvlog"
+   ],
+   "thumb": "data/thumbs/instagram_DX6g8V4PCQz.jpg",
+   "posted_at": "2026-05-04T11:01:10.000Z",
+   "collected_at": "2026-07-14T18:35:29+09:00",
+   "source": "apify"
+  },
+  "instagram_DaDIRPCpjpG": {
+   "id": "DaDIRPCpjpG",
+   "platform": "instagram",
+   "genre": "salon",
+   "url": "https://www.instagram.com/p/DaDIRPCpjpG/",
+   "author": {
+    "handle": "beauty_salon.ulu",
+    "followers": 425
+   },
+   "metrics": {
+    "likes": 26940,
+    "views": 375680,
+    "comments": 26
+   },
+   "buzz_score": 63.39,
+   "caption": "岡崎市ネイルサロン🫧‪\n⁡\ndark color magnet🧿🦋🖤 ̖́-\n\n𝗺𝗮𝗿𝗶.\n\n⋆. ݁┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ݁.⋆\n🫧 𝗯𝗲𝗮𝘂𝘁𝘆 𝘀𝗮𝗹𝗼𝗻.𝘂𝗹𝘂 🫧\n\n🚗【𝐀𝐂𝐂𝐄𝐒𝐒】\n愛知県岡崎市岡町東野々宮35-1\n岡崎I.C7分、美合駅5分\n\n🕒【営業時間】\n10:00-21:00 (土祝10:00-18:00)\n\n📱 【ご予約/空き状況】\nLINEまたはプロフィール🔗より‎ご確認いただけます✮\n公式LINE：@636efmxa",
+   "hashtags": [],
+   "thumb": "data/thumbs/instagram_DaDIRPCpjpG.jpg",
+   "posted_at": "2026-06-26T12:24:15.000Z",
+   "collected_at": "2026-07-14T18:35:29+09:00",
+   "source": "apify"
+  },
+  "instagram_DXonUAwCcR1": {
+   "id": "DXonUAwCcR1",
+   "platform": "instagram",
+   "genre": "salon",
+   "url": "https://www.instagram.com/p/DXonUAwCcR1/",
+   "author": {
+    "handle": "luana.nail_salon",
+    "followers": 4067
+   },
+   "metrics": {
+    "likes": 162,
+    "views": 78078,
+    "comments": 0
+   },
+   "buzz_score": 0.04,
+   "caption": "@luana.nail_salon ⇦他のネイルデザイをもっと見る\n\n——————————————————\n東大阪市のニュアンスデザイン専門のネイルサロン\n　《Nail Salon Luana》\n\n平均施術時間90分　【忙しい大人女性のためのネイルサロン】\n・時短施術で毎日が忙しい方にも安心\n・自爪を綺麗に見せる形づくりとニュアンスデザインが得意\n・30代以上の女性や主婦の方に大好評！\n・スタッフそれぞれの得意アートで褒められるお手元に✨\n丁寧なカウンセリングで１ヶ月経ってもストレスフリーな仕上がり💅\n\n是非プロフから他のデザインも見てください！\n\n——————————————————\n#東大阪ネイルサロン#東大阪ネイル#ニュアンスネイル#シンプルネイル #オフィスネイル",
+   "hashtags": [
+    "東大阪ネイルサロン",
+    "東大阪ネイル",
+    "ニュアンスネイル",
+    "シンプルネイル",
+    "オフィスネイル"
+   ],
+   "thumb": "data/thumbs/instagram_DXonUAwCcR1.jpg",
+   "posted_at": "2026-04-27T12:11:58.000Z",
+   "collected_at": "2026-07-14T18:35:29+09:00",
+   "source": "apify"
+  },
+  "instagram_DZXOo4axk2-": {
+   "id": "DZXOo4axk2-",
+   "platform": "instagram",
+   "genre": "salon",
+   "url": "https://www.instagram.com/p/DZXOo4axk2-/",
+   "author": {
+    "handle": "hinamiru",
+    "followers": 140039
+   },
+   "metrics": {
+    "likes": 2226,
+    "views": 213017,
+    "comments": 12
+   },
+   "buzz_score": 0.02,
+   "caption": "妹のなあちゃんのいるネイルサロンに行ってきました☘️\n念願のわんわん犬ネイルと、あけびカラーのネイルをリクエスト♡\n指先がかわいいと心も明るくなるね♡\n\nネイル中はずっとおしゃべりして大笑いするのこらえてた🪿🪿笑\nいつも可愛くしてくれてありがとう☺️",
+   "hashtags": [],
+   "thumb": "data/thumbs/instagram_DZXOo4axk2-.jpg",
+   "posted_at": "2026-06-09T11:16:54.000Z",
+   "collected_at": "2026-07-14T18:35:29+09:00",
+   "source": "apify"
+  },
+  "instagram_CyPi9pDPebp": {
+   "id": "CyPi9pDPebp",
+   "platform": "instagram",
+   "genre": "salon",
+   "url": "https://www.instagram.com/p/CyPi9pDPebp/",
+   "author": {
+    "handle": "kyohei_konishi",
+    "followers": 973326
+   },
+   "metrics": {
+    "likes": 6755,
+    "views": 777352,
+    "comments": 25
+   },
+   "buzz_score": 0.01,
+   "caption": "セミロングの簡単巻き髪をアレンジ✨\n\nまず最初はこのやり方から覚えると他のスタイリングもできるようになるので試してみてください！\n\nカラーは、オリーブベージュです✨",
+   "hashtags": [],
+   "thumb": "data/thumbs/instagram_CyPi9pDPebp.jpg",
+   "posted_at": "2023-10-11T03:09:42.000Z",
+   "collected_at": "2026-07-14T18:35:29+09:00",
+   "source": "apify"
+  },
+  "instagram_DEgpRLZPvUf": {
+   "id": "DEgpRLZPvUf",
+   "platform": "instagram",
+   "genre": "salon",
+   "url": "https://www.instagram.com/p/DEgpRLZPvUf/",
+   "author": {
+    "handle": "kyohei_konishi",
+    "followers": 973326
+   },
+   "metrics": {
+    "likes": 27236,
+    "views": 1350088,
+    "comments": 43
+   },
+   "buzz_score": 0.03,
+   "caption": "保存数20万の人気ヘア✂︎✨\n\n入れすぎないナチュラルなブローでレイヤースタイルです✨",
+   "hashtags": [],
+   "thumb": "data/thumbs/instagram_DEgpRLZPvUf.jpg",
+   "posted_at": "2025-01-07T03:57:59.000Z",
+   "collected_at": "2026-07-14T18:35:29+09:00",
+   "source": "apify"
+  },
+  "instagram_DX2u1AkT_Oo": {
+   "id": "DX2u1AkT_Oo",
+   "platform": "instagram",
+   "genre": "salon",
+   "url": "https://www.instagram.com/p/DX2u1AkT_Oo/",
+   "author": {
+    "handle": "abochan_221",
+    "followers": 39790
+   },
+   "metrics": {
+    "likes": 6591,
+    "views": 243194,
+    "comments": 40
+   },
+   "buzz_score": 0.17,
+   "caption": "じゃーーーーん！💇🏻‍♀️♡♡♡\nぷるんぷるんボブ！！！！！！！\n\n.\n\n.\n\n.\n\n*\n#ボブ#ボブヘアアレンジ#ボブモデル#サロモ#サロンモデル",
+   "hashtags": [
+    "ボブ",
+    "ボブヘアアレンジ",
+    "ボブモデル",
+    "サロモ",
+    "サロンモデル"
+   ],
+   "thumb": "data/thumbs/instagram_DX2u1AkT_Oo.jpg",
+   "posted_at": "2026-05-02T23:45:49.000Z",
+   "collected_at": "2026-07-14T18:35:29+09:00",
+   "source": "apify"
+  },
+  "instagram_DYW9ECKvUjE": {
+   "id": "DYW9ECKvUjE",
+   "platform": "instagram",
+   "genre": "salon",
+   "url": "https://www.instagram.com/p/DYW9ECKvUjE/",
+   "author": {
+    "handle": "_airingomaru",
+    "followers": 34602
+   },
+   "metrics": {
+    "likes": 3999,
+    "views": 186550,
+    "comments": 62
+   },
+   "buzz_score": 0.12,
+   "caption": ".\nおでかけ〜🥱𓈒𓏸︎︎︎︎ \n\nお家を出る2時間前には起きとかないと\n準備間に合わない(•ᴗ•; )💦\n\n朝ごはんも食べてへんのに準備に時間かかるの\nどうしたらいいのか最近の悩み🌀💭\n\n準備早くするコツ教えて…:(•ㅿ•｀):\n.\n.\n.\n#ボブ #インナーカラー #ootd #ボブ #サロモ #サロンモデル#フェイスフレーミング #ハイトーン #ハイトーンボブ #koreafashion",
+   "hashtags": [
+    "ボブ",
+    "インナーカラー",
+    "ootd",
+    "サロモ",
+    "サロンモデル",
+    "フェイスフレーミング",
+    "ハイトーン",
+    "ハイトーンボブ",
+    "koreafashion"
+   ],
+   "thumb": "data/thumbs/instagram_DYW9ECKvUjE.jpg",
+   "posted_at": "2026-05-15T12:10:38.000Z",
+   "collected_at": "2026-07-14T18:35:29+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661936497502784789": {
+   "id": "7661936497502784789",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@brownieboy_9/video/7661936497502784789",
+   "author": {
+    "handle": "brownieboy_9",
+    "followers": 73100
+   },
+   "metrics": {
+    "likes": 90,
+    "views": 5177,
+    "comments": 8
+   },
+   "buzz_score": 0.07,
+   "caption": "肌管理オタクが月一で通っているピーリングサロンをご紹介します👼🏻‎🎀\n\nかれこれ1年4ヶ月ほど通ってる（  › ·̮ ‹  ）！\n毎回お肌もちもちになって最高です♩\n\n今回は、クリスティーナのアンストレス（乳酸菌ピーリング）に、ニュアンスの工程を組み込んで施術していただきました🧖🏼‍♀️\n\n————\n\n① クリスティーナ乳酸菌ピーリング（アンストレス）\n\nこんな人向け\n\n* 赤みが気になる\n* 敏感肌\n* 乾燥・インナードライ\n* 肌がゆらぎやすい\n* レーザー後などの肌ケアをしたい\n\nどんな施術？\n乳酸菌由来成分とマイルドな酸で、肌のpHバランスやバリア機能を整えながら、不要な角質をやさしくケアするピーリングです。角質を無理に剥がすタイプではなく、鎮静・保湿を重視した施術なので、敏感肌でも受けやすいのが特徴です。 \n\n期待できる効果\n\n* 赤み・炎症の鎮静\n* 保湿力アップ\n* ツヤ・透明感アップ\n* バリア機能のサポート\n* 肌荒れしにくい肌へ \n\nダウンタイム\n\n* ほぼなし\n* 当日からメイクOK（サロンの指示に従う）\n\n⸻\n\n② ニュアンスピーリング（クリスティーナ NUANCE）\n\nこんな人向け\n\n* ハリ不足\n* 小じわ\n* エイジングケア\n* ツヤを出したい\n* 肌の弾力が欲しい\n\nどんな施術？\nニュアンスは10年以上の研究をもとに開発された、年齢サインに着目したシリーズです。ピーリングも「剥がすこと」が目的ではなく、美容成分を届けながら肌のハリ・ツヤを引き出すエイジングケア寄りのトリートメントです。 \n\n期待できる効果\n\n* ハリ・弾力アップ\n* ツヤ肌\n* キメ改善\n* 乾燥小じわケア\n* ふっくらした質感へ \n\nダウンタイム\n\n* ほぼなし\n* 保湿感が強く、乾燥しにくい\n\n————\n\n#ピーリング #肌管理 #エステサロン #フェイシャル #PR",
+   "hashtags": [
+    "ピーリング",
+    "肌管理",
+    "エステサロン",
+    "フェイシャル",
+    "pr"
+   ],
+   "thumb": "data/thumbs/tiktok_7661936497502784789.jpg",
+   "posted_at": "2026-07-13T09:06:57.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661460955544472852": {
+   "id": "7661460955544472852",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@bi.beaute/video/7661460955544472852",
+   "author": {
+    "handle": "bi.beaute",
+    "followers": 21100
+   },
+   "metrics": {
+    "likes": 9,
+    "views": 1071,
+    "comments": 0
+   },
+   "buzz_score": 0.05,
+   "caption": "来る理由がなくなっただけじゃない？\nエステ講師が真実を語る👀\n\n#経営者 #女性経営者 #美容 #エステティシャン #美容サロン ",
+   "hashtags": [
+    "経営者",
+    "女性経営者",
+    "美容",
+    "エステティシャン",
+    "美容サロン"
+   ],
+   "thumb": "data/thumbs/tiktok_7661460955544472852.jpg",
+   "posted_at": "2026-07-12T02:21:34.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7629653165989760264": {
+   "id": "7629653165989760264",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@kazmgmgfood/video/7629653165989760264",
+   "author": {
+    "handle": "kazmgmgfood",
+    "followers": 5515
+   },
+   "metrics": {
+    "likes": 167,
+    "views": 16800,
+    "comments": 1
+   },
+   "buzz_score": 3.05,
+   "caption": "📍20秒湘南グルメ\n@kazmgmgfood\n==================\n⁡\n🏠店名：ワンストップ美容サロン \n　　　　　　ミダシー 藤沢店\n＠midacy_fujisawa\n📍住所：神奈川県藤沢市南藤沢20-18 \n　　　　　　　長塚第一ビル7F\n🚃アクセス：藤沢駅南口から徒歩2分\n⏰営業時間：\n【平日】12:00-21:00\n【土日祝】10:00-21:00\n🗓️定休日: 火曜日\n🛜Wi-Fi：-\n🔌電源：-\n💰予算：¥10000〜20000\n🅿️駐車場：なし\n💳支払い方法：クレジットカードのみ\n📝その他：-\n🍽️利用シーン：清潔感を保ちたい、時短で施術をしたい\n⁡\nミダシープラン（全８種類）\n・髭脱毛\n・ホワイトニング\n・眉毛スタイリング\n・鼻毛ワックス脱毛\n・手の甲・指の脱毛\n・ネイルケア\n・フェイスパック\n・リップエステ\n一回通常価格\n￥19980（￥21978）→\nサブスク登録で月額￥9980（￥10978）\n初回限定75%OFF￥4980（￥5478）\n⁡\n\n▼カズから一言\n⁡\n清潔感が欲しい、\nめんどくさがり屋必見！！\n⁡\n正直、8種の施術が10000円代は\nコスパが良すぎる！\n⁡\n個人差はあるかもしれないけど、\nその場で効果も実感できたし\n⁡\n僕みたいな\nめんどくさがり屋の人は、\n色んなサロンに通わなくて済むのは\n時短で楽だし嬉しいよね🙌\n⁡\nスタッフの人も気さくだから\n居心地も良かった！\n⁡\n初回は75%OFFだからまず\n自分に合うか試してみて！\n⁡\n湘南・江ノ島のディープグルメも\n発信していきます🔥\nいいね、コメント、フォローお待ちしてます！\n@kazmgmgfood\n⁡\n-———————————————\n⁡\n#藤沢 #湘南  #藤沢駅\n#辻堂 #大船 ",
+   "hashtags": [
+    "藤沢",
+    "湘南",
+    "藤沢駅",
+    "辻堂",
+    "大船"
+   ],
+   "thumb": "data/thumbs/tiktok_7629653165989760264.jpg",
+   "posted_at": "2026-04-17T09:11:04.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7647889100384570632": {
+   "id": "7647889100384570632",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@hinanchu0/video/7647889100384570632",
+   "author": {
+    "handle": "hinanchu0",
+    "followers": 29200
+   },
+   "metrics": {
+    "likes": 31700,
+    "views": 797500,
+    "comments": 191
+   },
+   "buzz_score": 27.31,
+   "caption": "29歳美容室レセプション仕事の日の1日vlog🎀#美容受付 #SHIMA #サロンワーク #セミナー #ワンホン ",
+   "hashtags": [
+    "美容受付",
+    "shima",
+    "サロンワーク",
+    "セミナー",
+    "ワンホン"
+   ],
+   "thumb": "data/thumbs/tiktok_7647889100384570632.jpg",
+   "posted_at": "2026-06-05T12:35:49.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7645236166702419218": {
+   "id": "7645236166702419218",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@onnya_s2/video/7645236166702419218",
+   "author": {
+    "handle": "onnya_s2",
+    "followers": 132000
+   },
+   "metrics": {
+    "likes": 79600,
+    "views": 528800,
+    "comments": 242
+   },
+   "buzz_score": 4.01,
+   "caption": "明日すぐ可愛くなりたい女の美容DAY VLOG🌛☁️✨ \n　\n👀&💅🏻 @Lumignon♡ Nail/Eyelash/Clinic 🪽\n💇🏻‍♀️ @rena.yvess 🎀\n\n#美容デー　#自分磨き #韓国女子 #生活音asmr #관리의날 ",
+   "hashtags": [
+    "美容デー",
+    "自分磨き",
+    "韓国女子",
+    "生活音asmr",
+    "관리의날"
+   ],
+   "thumb": "data/thumbs/tiktok_7645236166702419218.jpg",
+   "posted_at": "2026-05-29T09:01:04.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7594839716332145940": {
+   "id": "7594839716332145940",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@shiro__me/video/7594839716332145940",
+   "author": {
+    "handle": "shiro__me",
+    "followers": 69800
+   },
+   "metrics": {
+    "likes": 2628,
+    "views": 99000,
+    "comments": 9
+   },
+   "buzz_score": 1.42,
+   "caption": "33歳 美容オタクがリアルに通い続けてる\"ご自愛サロン\"まとめ✍️✨\n\n#美容 #アラサー美容 #整体 #よもぎ蒸し",
+   "hashtags": [
+    "美容",
+    "アラサー美容",
+    "整体",
+    "よもぎ蒸し"
+   ],
+   "thumb": "data/thumbs/tiktok_7594839716332145940.jpg",
+   "posted_at": "2026-01-13T13:37:10.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661840452328426773": {
+   "id": "7661840452328426773",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@kmkn___/video/7661840452328426773",
+   "author": {
+    "handle": "kmkn___",
+    "followers": 76800
+   },
+   "metrics": {
+    "likes": 78,
+    "views": 4767,
+    "comments": 5
+   },
+   "buzz_score": 0.06,
+   "caption": "【新人コマーサーHaru❤️緊急デビュー決定！🎉✨】\n\n美容サロンを6年間経営していた美のプロフェッショナルがコマーサーとして初配信！💄💅 \n実は社長からも太鼓判を押されている実力派なんです…！ \n\n当日は商品のリアルな魅力を、楽しくワクワクしながらお届けします！お楽しみに💖\n\n7月19日14時からぞうねこちゃんねるの配信で販売します！🎥\n\n#ライブコマーサー #ぞうねこちゃんねる #ライブコマース #美容 #デビュー配信",
+   "hashtags": [
+    "デビュー配信"
+   ],
+   "thumb": "data/thumbs/tiktok_7661840452328426773.jpg",
+   "posted_at": "2026-07-13T02:54:12.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7614741138859134216": {
+   "id": "7614741138859134216",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@nana__77n/video/7614741138859134216",
+   "author": {
+    "handle": "nana__77n",
+    "followers": 15300
+   },
+   "metrics": {
+    "likes": 48200,
+    "views": 1100000,
+    "comments": 76
+   },
+   "buzz_score": 71.9,
+   "caption": "美人眉の描き方と眉毛の整え方😳💝\n#眉毛#アイブロウ#間引き#メイク動画#fyp",
+   "hashtags": [
+    "眉毛",
+    "アイブロウ",
+    "間引き",
+    "メイク動画",
+    "fyp"
+   ],
+   "thumb": "data/thumbs/tiktok_7614741138859134216.jpg",
+   "posted_at": "2026-03-08T04:44:50.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7634746299526450452": {
+   "id": "7634746299526450452",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@akanuke_taichans/video/7634746299526450452",
+   "author": {
+    "handle": "akanuke_taichans",
+    "followers": 9532
+   },
+   "metrics": {
+    "likes": 3739,
+    "views": 1500000,
+    "comments": 18
+   },
+   "buzz_score": 157.36,
+   "caption": "革命的なアイブロウ見つけた！眉毛難しい子チェックしてみて👀💖\n#PR #おすすめ #アイブロウ ",
+   "hashtags": [
+    "pr",
+    "おすすめ",
+    "アイブロウ"
+   ],
+   "thumb": "data/thumbs/tiktok_7634746299526450452.jpg",
+   "posted_at": "2026-05-01T02:35:05.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7653777665287081236": {
+   "id": "7653777665287081236",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@ymd_eyebrow/video/7653777665287081236",
+   "author": {
+    "handle": "ymd_eyebrow",
+    "followers": 3531
+   },
+   "metrics": {
+    "likes": 17700,
+    "views": 1100000,
+    "comments": 56
+   },
+   "buzz_score": 311.53,
+   "caption": "梅雨から夏にかけて前髪伸ばし中の方必見‼️‼️眉毛も整えて垢抜けお姉さん目指しちゃいましょう⭐️⭐️\n\n#眉#眉毛#眉毛サロン#渋谷眉毛#渋谷眉毛サロン#アイブロウサロン#アイブロウ#ワックス#ワックス脱毛#眉毛専門店#美眉#垢抜け眉#ナチュラル眉#平行眉#アーチ眉#韓国眉#ふんわり眉#メンズ眉毛#メンズ眉毛サロン#メンズ眉毛整え方#眉毛の整え方#眉デザイン#渋谷#眉毛ワックス引き",
+   "hashtags": [
+    "眉",
+    "眉毛",
+    "眉毛サロン",
+    "渋谷眉毛",
+    "渋谷眉毛サロン",
+    "アイブロウサロン",
+    "アイブロウ",
+    "ワックス",
+    "ワックス脱毛",
+    "眉毛専門店",
+    "美眉",
+    "垢抜け眉",
+    "ナチュラル眉",
+    "平行眉",
+    "アーチ眉",
+    "韓国眉",
+    "ふんわり眉",
+    "メンズ眉毛",
+    "メンズ眉毛サロン",
+    "メンズ眉毛整え方",
+    "眉毛の整え方",
+    "眉デザイン",
+    "渋谷",
+    "眉毛ワックス引き"
+   ],
+   "thumb": "data/thumbs/tiktok_7653777665287081236.jpg",
+   "posted_at": "2026-06-21T09:26:28.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7583339716242754837": {
+   "id": "7583339716242754837",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@hata_misaki/video/7583339716242754837",
+   "author": {
+    "handle": "hata_misaki",
+    "followers": 299600
+   },
+   "metrics": {
+    "likes": 6952,
+    "views": 773900,
+    "comments": 42
+   },
+   "buzz_score": 2.58,
+   "caption": "なんかぜんぶ抜け感のある色で簡単に垢抜けられそう🪄💞垢抜けはまず眉毛からっていうくらいだから大切だよね〜🫧　\nrom&nd\nハンオールブロウカラ\n#垢抜け #垢抜け方法 #眉毛 #アイブロウマスカラ",
+   "hashtags": [
+    "垢抜け",
+    "垢抜け方法",
+    "眉毛",
+    "アイブロウマスカラ"
+   ],
+   "thumb": "data/thumbs/tiktok_7583339716242754837.jpg",
+   "posted_at": "2025-12-13T13:51:16.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7627802317928058133": {
+   "id": "7627802317928058133",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@ymd_eyebrow/video/7627802317928058133",
+   "author": {
+    "handle": "ymd_eyebrow",
+    "followers": 3531
+   },
+   "metrics": {
+    "likes": 29200,
+    "views": 1700000,
+    "comments": 139
+   },
+   "buzz_score": 481.45,
+   "caption": "すっぴんでも盛れる眉に✨⭐️\n\n眉毛を整えて朝のメイク時間短縮しちゃいましょ〜🙂‍↕️🙂‍↕️\n\n#眉毛#眉毛サロン#渋谷眉毛#渋谷眉毛サロン#アイブロウサロン#アイブロウ#ワックス#ワックス脱毛#眉毛専門店#美眉#垢抜け眉#ナチュラル眉#平行眉#アーチ眉#韓国眉#ふんわり眉#メンズ眉毛#メンズ眉毛サロン#メンズ眉毛整え方#眉毛の整え方#眉デザイン#渋谷#眉毛ワックス#間引き",
+   "hashtags": [
+    "眉毛",
+    "眉毛サロン",
+    "渋谷眉毛",
+    "渋谷眉毛サロン",
+    "アイブロウサロン",
+    "アイブロウ",
+    "ワックス",
+    "ワックス脱毛",
+    "眉毛専門店",
+    "美眉",
+    "垢抜け眉",
+    "ナチュラル眉",
+    "平行眉",
+    "アーチ眉",
+    "韓国眉",
+    "ふんわり眉",
+    "メンズ眉毛",
+    "メンズ眉毛サロン",
+    "メンズ眉毛整え方",
+    "眉毛の整え方",
+    "眉デザイン",
+    "渋谷",
+    "眉毛ワックス",
+    "間引き"
+   ],
+   "thumb": "data/thumbs/tiktok_7627802317928058133.jpg",
+   "posted_at": "2026-04-12T09:28:53.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7634886235990838548": {
+   "id": "7634886235990838548",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@roooza._0/video/7634886235990838548",
+   "author": {
+    "handle": "roooza._0",
+    "followers": 42200
+   },
+   "metrics": {
+    "likes": 15600,
+    "views": 427900,
+    "comments": 40
+   },
+   "buzz_score": 10.14,
+   "caption": "眉毛の描き方＆整え方‼️保存して明日真似してみて😚🩷\n\n#眉毛の整え方 #眉毛の書き方 #メイクのコツ #眉マスカラ #眉毛 ",
+   "hashtags": [
+    "眉毛の整え方",
+    "眉毛の書き方",
+    "メイクのコツ",
+    "眉マスカラ",
+    "眉毛"
+   ],
+   "thumb": "data/thumbs/tiktok_7634886235990838548.jpg",
+   "posted_at": "2026-05-01T11:38:03.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7660156821520256276": {
+   "id": "7660156821520256276",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@lucey_nagi56/video/7660156821520256276",
+   "author": {
+    "handle": "lucey_nagi56",
+    "followers": 1353
+   },
+   "metrics": {
+    "likes": 28,
+    "views": 2649,
+    "comments": 4
+   },
+   "buzz_score": 1.96,
+   "caption": "ブリーチしたら眉毛も染めるべき？🤔\n\nアイブロウお店に入ってるので髪と一緒に是非！\n実は、眉毛の色、形を少し変えるだけで髪との統一感が出て、印象がかなり変わります。\n\n黒眉は引き締まった印象に。\n茶眉は柔らかい雰囲気に。\n\nあなたはどっち派？\n「黒眉」or「茶眉」をコメントで教えてください👇\n\nご予約はDMまたはホットペッパーからお願いいたします。\n\n【料金】\nカット ¥5,000\nカット＋パーマ ¥12,000\nカット＋曲がる縮毛矯正 ¥17,000\nカット＋バレイヤージュ ¥17,000\nカット＋ハイライト＋パーマ ¥20,000\n\nLUCEY渋谷\n東京都渋谷区宇田川町12-7 渋谷エメラルドビル5F\nTEL：070-3342-1135\n\n#センターパート #メンズアイブロウ #メンズバレイヤージュ #センターパート男子 ",
+   "hashtags": [
+    "センターパート",
+    "メンズアイブロウ",
+    "メンズバレイヤージュ",
+    "センターパート男子"
+   ],
+   "thumb": "data/thumbs/tiktok_7660156821520256276.jpg",
+   "posted_at": "2026-07-08T14:00:47.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661977630589111572": {
+   "id": "7661977630589111572",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@sh__y99/video/7661977630589111572",
+   "author": {
+    "handle": "sh__y99",
+    "followers": 519
+   },
+   "metrics": {
+    "likes": 643,
+    "views": 57000,
+    "comments": 4
+   },
+   "buzz_score": 109.83,
+   "caption": "ワインレッド❤️\n\n透明感のある上品なヘアスタイル是非お任せ下さい✨\nハイトーンも暗めカラーも得意です！！\nInstagramのDM又はホットペッパーよりご予約お待ちしております！！\n#心斎橋美容室 #大阪美容室 #イメチェン #ワインレッド #レイヤーカット @мaya ",
+   "hashtags": [
+    "心斎橋美容室",
+    "大阪美容室",
+    "イメチェン",
+    "ワインレッド",
+    "レイヤーカット"
+   ],
+   "thumb": "data/thumbs/tiktok_7661977630589111572.jpg",
+   "posted_at": "2026-07-13T11:46:28.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661203276444257554": {
+   "id": "7661203276444257554",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@kouta_color/video/7661203276444257554",
+   "author": {
+    "handle": "kouta_color",
+    "followers": 856
+   },
+   "metrics": {
+    "likes": 3381,
+    "views": 158600,
+    "comments": 17
+   },
+   "buzz_score": 185.28,
+   "caption": "パキパキに十字架✝️🟨\nデザインの入れ方は施術しながら決める時もあります🙆‍♂️\n#デザインカラー #渋谷美容室 #ハイトーン #複雑履歴 #落とせる黒染め ",
+   "hashtags": [
+    "デザインカラー",
+    "渋谷美容室",
+    "ハイトーン",
+    "複雑履歴",
+    "落とせる黒染め"
+   ],
+   "thumb": "data/thumbs/tiktok_7661203276444257554.jpg",
+   "posted_at": "2026-07-11T09:41:39.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661223572630719752": {
+   "id": "7661223572630719752",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@halo_treatment_official/video/7661223572630719752",
+   "author": {
+    "handle": "halo_treatment_official",
+    "followers": 20900
+   },
+   "metrics": {
+    "likes": 146,
+    "views": 33900,
+    "comments": 27
+   },
+   "buzz_score": 1.62,
+   "caption": "SNSでよく見る天使の輪🪽✨\n\n憧れのツヤ髪、目指してみませんか？🤍\n\n#ヘアケア\n#髪質改善トリートメント\n#髪質改善トリートメントHALO\n#美容室渋谷\n#酸性トリートメント",
+   "hashtags": [
+    "ヘアケア",
+    "髪質改善トリートメント",
+    "髪質改善トリートメントhalo",
+    "美容室渋谷",
+    "酸性トリートメント"
+   ],
+   "thumb": "data/thumbs/tiktok_7661223572630719752.jpg",
+   "posted_at": "2026-07-11T11:00:25.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7630407909469424904": {
+   "id": "7630407909469424904",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@labotokyo/video/7630407909469424904",
+   "author": {
+    "handle": "labotokyo",
+    "followers": 1459
+   },
+   "metrics": {
+    "likes": 5072,
+    "views": 339400,
+    "comments": 67
+   },
+   "buzz_score": 232.63,
+   "caption": "湿気で髪の毛広がらない？\n美髪矯正で乾かしただけでストレスフリー🌟\n\n#美髪矯正 #縮毛矯正 #表参道美容室 #池袋美容室 ",
+   "hashtags": [
+    "美髪矯正",
+    "縮毛矯正",
+    "表参道美容室",
+    "池袋美容室"
+   ],
+   "thumb": "data/thumbs/tiktok_7630407909469424904.jpg",
+   "posted_at": "2026-04-19T09:59:51.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7660127811914566930": {
+   "id": "7660127811914566930",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@halo_treatment_official/video/7660127811914566930",
+   "author": {
+    "handle": "halo_treatment_official",
+    "followers": 20900
+   },
+   "metrics": {
+    "likes": 209,
+    "views": 35500,
+    "comments": 26
+   },
+   "buzz_score": 1.7,
+   "caption": "この値段でこうなるの、正直バグ。👀\n\n髪に何万円もかけなくても、\n毎月通いやすい価格でここまで変われます✨\n\n保存して美容室選びの参考にしてね🤍\n\n#ヘアケア\n#髪質改善トリートメント\n#髪質改善トリートメントHALO\n#美容室渋谷\n#酸性トリートメント",
+   "hashtags": [
+    "ヘアケア",
+    "髪質改善トリートメント",
+    "髪質改善トリートメントhalo",
+    "美容室渋谷",
+    "酸性トリートメント"
+   ],
+   "thumb": "data/thumbs/tiktok_7660127811914566930.jpg",
+   "posted_at": "2026-07-08T12:08:14.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7657125792107138324": {
+   "id": "7657125792107138324",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@rosa_take/video/7657125792107138324",
+   "author": {
+    "handle": "rosa_take",
+    "followers": 1224
+   },
+   "metrics": {
+    "likes": 2638,
+    "views": 42000,
+    "comments": 10
+   },
+   "buzz_score": 34.31,
+   "caption": "盛れるミルクティーブラウン🤎\nギャルすぎない絶妙カラーおすすめ‼︎\n\n「どんな色が似合うかわからない…」そんな方へ✨\nカウンセリングで一緒に相談しながら、あなたに1番似合うカラーをご提案します🤍#ブリーチ #ハイトーン #ミルクティー #エクステ #大阪美容室 ",
+   "hashtags": [
+    "ブリーチ",
+    "ハイトーン",
+    "ミルクティー",
+    "エクステ",
+    "大阪美容室"
+   ],
+   "thumb": "data/thumbs/tiktok_7657125792107138324.jpg",
+   "posted_at": "2026-06-30T09:58:53.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7660142305319341333": {
+   "id": "7660142305319341333",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@ayumi.m3/video/7660142305319341333",
+   "author": {
+    "handle": "ayumi.m3",
+    "followers": 387
+   },
+   "metrics": {
+    "likes": 522,
+    "views": 45000,
+    "comments": 2
+   },
+   "buzz_score": 116.28,
+   "caption": "30代　大人レイヤー　\nナチュラルでも触っても動いても洗練されたヘア。\n\n◎大阪駅すぐ　梅田エリアで人気◎\nカウンセリングにご利用ください✨\n\nご予約はトップページリンク🔗か、\nDMでお願いいたします🌼\nネットから予約状況❌の場合でも\nお取りできる場合があります😊\nその場合お電話でご相談ください✨\n\nシンプルだからこそ際立つ大人レイヤースタイル✂︎\n艶とフォルムにこだわったカットで、品のある印象に✨\n　\n朝のスタイリングも簡単\n飾りすぎないのに、おしゃれ。\n\nカウンセリング大切にしています。\nどんな小さなお悩みや疑問も\nぜひお聞かせください。\n\n☑️髪質に悩みがある、相談したい\n☑️トレンドのレイヤーヘアにしたい　\n☑️自宅でもヘアスタイルを再現したい\n☑️自分に似合う長さが知りたい\n☑️伝え方がわからない美容室が苦手\n\n〜price〜\ncut ¥7,000\ncolor ¥9,000〜\ntreatment ¥3,500〜\n\n・ロング料金なし　\n・cutなし、他メニュー単品の場合のみ、\n＋shampoo &blow ¥2,500\n\n #大阪美容室#大阪レイヤーカット #ミディアムヘア#レイヤーカット　",
+   "hashtags": [
+    "大阪美容室",
+    "大阪レイヤーカット",
+    "ミディアムヘア",
+    "レイヤーカット"
+   ],
+   "thumb": "data/thumbs/tiktok_7660142305319341333.jpg",
+   "posted_at": "2026-07-08T13:04:27.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7660879231550901525": {
+   "id": "7660879231550901525",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@mahiro_sai/video/7660879231550901525",
+   "author": {
+    "handle": "mahiro_sai",
+    "followers": 10800
+   },
+   "metrics": {
+    "likes": 437,
+    "views": 30100,
+    "comments": 9
+   },
+   "buzz_score": 2.79,
+   "caption": "ロングリタッチから\nぶいすぽっ！空澄セナちゃん\nカラーにします☺️☺️\n#美容師 #原宿美容室 #ぶいすぽ #空澄セナ #ホワイトカラー ",
+   "hashtags": [
+    "美容師",
+    "原宿美容室",
+    "ぶいすぽ",
+    "空澄セナ",
+    "ホワイトカラー"
+   ],
+   "thumb": "data/thumbs/tiktok_7660879231550901525.jpg",
+   "posted_at": "2026-07-10T12:44:07.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661580898898332945": {
+   "id": "7661580898898332945",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@asaki_1__/video/7661580898898332945",
+   "author": {
+    "handle": "asaki_1__",
+    "followers": 26200
+   },
+   "metrics": {
+    "likes": 109,
+    "views": 2304,
+    "comments": 2
+   },
+   "buzz_score": 0.09,
+   "caption": "ハンサムショートスタイリングでサロン撮影 #ショートヘア #ハンサムショート #マニッシュショート #サロンモデル  ",
+   "hashtags": [
+    "ショートヘア",
+    "ハンサムショート",
+    "マニッシュショート",
+    "サロンモデル"
+   ],
+   "thumb": "data/thumbs/tiktok_7661580898898332945.jpg",
+   "posted_at": "2026-07-12T10:08:17.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7621121150784933127": {
+   "id": "7621121150784933127",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@minami_1006_/video/7621121150784933127",
+   "author": {
+    "handle": "minami_1006_",
+    "followers": 64400
+   },
+   "metrics": {
+    "likes": 440,
+    "views": 22800,
+    "comments": 6
+   },
+   "buzz_score": 0.35,
+   "caption": "サロモ撮影の日の私の1日vlog！！\nいつも最高に可愛くしてくれる美容師の皆様に大感謝✨️\n@はるか/渋谷美容師 \n#サロンモデル #vlog #おすすめ #fyp #撮影の裏側",
+   "hashtags": [
+    "サロンモデル",
+    "vlog",
+    "おすすめ",
+    "fyp",
+    "撮影の裏側"
+   ],
+   "thumb": "data/thumbs/tiktok_7621121150784933127.jpg",
+   "posted_at": "2026-03-25T09:22:26.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661640693311425808": {
+   "id": "7661640693311425808",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@favopi_/video/7661640693311425808",
+   "author": {
+    "handle": "favopi_",
+    "followers": 24300
+   },
+   "metrics": {
+    "likes": 129,
+    "views": 2851,
+    "comments": 8
+   },
+   "buzz_score": 0.12,
+   "caption": "髪の毛切っちゃったから今更だけど下書きのやつあげとく‪(っ ¨̮ )╮=͟͟͞͞‬📷\n\n#レイヤーカット #サロンモデル #レイヤー \n\n@nogu ",
+   "hashtags": [
+    "レイヤーカット",
+    "サロンモデル",
+    "レイヤー"
+   ],
+   "thumb": "data/thumbs/tiktok_7661640693311425808.jpg",
+   "posted_at": "2026-07-12T13:59:45.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661563744706661652": {
+   "id": "7661563744706661652",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@level_japan_official/video/7661563744706661652",
+   "author": {
+    "handle": "level_japan_official",
+    "followers": 4473
+   },
+   "metrics": {
+    "likes": 365,
+    "views": 3187,
+    "comments": 4
+   },
+   "buzz_score": 0.71,
+   "caption": "ロングレイヤースタイル#レイヤーカット #ロングヘア #ロングレイヤー #バッサリ #バッサリカット ",
+   "hashtags": [
+    "レイヤーカット",
+    "ロングヘア",
+    "ロングレイヤー",
+    "バッサリ",
+    "バッサリカット"
+   ],
+   "thumb": "data/thumbs/tiktok_7661563744706661652.jpg",
+   "posted_at": "2026-07-12T09:00:27.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7660461307426032917": {
+   "id": "7660461307426032917",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@lilbob_511/video/7660461307426032917",
+   "author": {
+    "handle": "lilbob_511",
+    "followers": 450
+   },
+   "metrics": {
+    "likes": 18,
+    "views": 1103,
+    "comments": 0
+   },
+   "buzz_score": 2.45,
+   "caption": "A day in my life.📸\n#model #vlog #モデル #サロンモデル #撮影",
+   "hashtags": [
+    "model",
+    "vlog",
+    "モデル",
+    "サロンモデル",
+    "撮影"
+   ],
+   "thumb": "data/thumbs/tiktok_7660461307426032917.jpg",
+   "posted_at": "2026-07-09T09:42:23.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661899127327902996": {
+   "id": "7661899127327902996",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@level_japan_official/video/7661899127327902996",
+   "author": {
+    "handle": "level_japan_official",
+    "followers": 4473
+   },
+   "metrics": {
+    "likes": 715,
+    "views": 3535,
+    "comments": 26
+   },
+   "buzz_score": 0.79,
+   "caption": "カットモデル#ボブ #レイヤーボブ #レイヤーカット #バッサリ #バッサリカット ",
+   "hashtags": [
+    "ボブ",
+    "レイヤーボブ",
+    "レイヤーカット",
+    "バッサリ",
+    "バッサリカット"
+   ],
+   "thumb": "data/thumbs/tiktok_7661899127327902996.jpg",
+   "posted_at": "2026-07-13T06:41:55.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7568766438408752402": {
+   "id": "7568766438408752402",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@_amistyle_/video/7568766438408752402",
+   "author": {
+    "handle": "_amistyle_",
+    "followers": 181400
+   },
+   "metrics": {
+    "likes": 309,
+    "views": 19300,
+    "comments": 4
+   },
+   "buzz_score": 0.11,
+   "caption": "金欠大学生が珍しくお仕事した日のvlog🎥💇🏻‍♀️\n#サロンモデル #サロモ #仕事vlog #美容室 ",
+   "hashtags": [
+    "サロンモデル",
+    "サロモ",
+    "仕事vlog",
+    "美容室"
+   ],
+   "thumb": "data/thumbs/tiktok_7568766438408752402.jpg",
+   "posted_at": "2025-11-04T07:19:27.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7660120178868391188": {
+   "id": "7660120178868391188",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@rankapopworld/video/7660120178868391188",
+   "author": {
+    "handle": "rankapopworld",
+    "followers": 3410
+   },
+   "metrics": {
+    "likes": 212,
+    "views": 21200,
+    "comments": 3
+   },
+   "buzz_score": 6.22,
+   "caption": "シンプルなネイルも\n施術するのも好きですよ😉？🫶\n\nネイルサロン　and R💅\n大阪　心斎橋📍\n\nご予約受付中☆\n\n#心斎橋ネイルサロン #ゴテゴテネイル #プルメリア　#ギャルネイル　#派手ネイル",
+   "hashtags": [
+    "心斎橋ネイルサロン",
+    "ゴテゴテネイル",
+    "プルメリア",
+    "ギャルネイル",
+    "派手ネイル"
+   ],
+   "thumb": "data/thumbs/tiktok_7660120178868391188.jpg",
+   "posted_at": "2026-07-08T11:38:36.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661158893963300117": {
+   "id": "7661158893963300117",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@pnk_prncsnail_h/video/7661158893963300117",
+   "author": {
+    "handle": "pnk_prncsnail_h",
+    "followers": 3459
+   },
+   "metrics": {
+    "likes": 65,
+    "views": 2095,
+    "comments": 0
+   },
+   "buzz_score": 0.61,
+   "caption": "プライベートネイルサロン💅🏻\n作業ルーティーン🎀\n\n#ネイルサロン #ネイリスト #nailsalon #ルーティーン #プライベートサロン ",
+   "hashtags": [
+    "ネイルサロン",
+    "ネイリスト",
+    "nailsalon",
+    "ルーティーン",
+    "プライベートサロン"
+   ],
+   "thumb": "data/thumbs/tiktok_7661158893963300117.jpg",
+   "posted_at": "2026-07-11T06:49:29.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7658263852626283796": {
+   "id": "7658263852626283796",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@sk.nail/video/7658263852626283796",
+   "author": {
+    "handle": "sk.nail",
+    "followers": 10200
+   },
+   "metrics": {
+    "likes": 15200,
+    "views": 1200000,
+    "comments": 107
+   },
+   "buzz_score": 117.65,
+   "caption": "次回のオーダー開始は\n7/10.20:00~先着17名様😊✨️\n応募方法はInstagramにてご確認ください🥰\n良い出会いがありますように…💕\n\n#ネイルサロン #ネイルチップ #型取りから始まるネイルチップ #マムシ指 #深爪 ",
+   "hashtags": [
+    "ネイルサロン",
+    "ネイルチップ",
+    "型取りから始まるネイルチップ",
+    "マムシ指",
+    "深爪"
+   ],
+   "thumb": "data/thumbs/tiktok_7658263852626283796.jpg",
+   "posted_at": "2026-07-03T11:35:07.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661832368033942792": {
+   "id": "7661832368033942792",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@nailsalon.baron/video/7661832368033942792",
+   "author": {
+    "handle": "nailsalon.baron",
+    "followers": 9899
+   },
+   "metrics": {
+    "likes": 295,
+    "views": 15600,
+    "comments": 4
+   },
+   "buzz_score": 1.58,
+   "caption": "持ち込み120分コースって何ができるの？#ネイルサロン #スカルプ #フォロワー1万人目標 #ネイル知識 #ネイリスト",
+   "hashtags": [
+    "ネイルサロン",
+    "スカルプ",
+    "フォロワー1万人目標",
+    "ネイル知識",
+    "ネイリスト"
+   ],
+   "thumb": "data/thumbs/tiktok_7661832368033942792.jpg",
+   "posted_at": "2026-07-13T10:00:00.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7657106999687023892": {
+   "id": "7657106999687023892",
+   "platform": "tiktok",
+   "genre": "salon",
+   "url": "https://www.tiktok.com/@nailnananail/video/7657106999687023892",
+   "author": {
+    "handle": "nailnananail",
+    "followers": 116300
+   },
+   "metrics": {
+    "likes": 93,
+    "views": 4341,
+    "comments": 4
+   },
+   "buzz_score": 0.04,
+   "caption": "トップジェル塗ってるから指動かすなって #ゴリラさんがでてきましたｗ #ホントは可愛いよりこ #ワコの立ち姿がママに似てる #母娘で同じ癖ありますよね #リコはママに似てるところは？・・次回そっくりなところ発見",
+   "hashtags": [],
+   "thumb": "data/thumbs/tiktok_7657106999687023892.jpg",
+   "posted_at": "2026-07-14T02:30:00.000Z",
+   "collected_at": "2026-07-14T18:38:53+09:00",
+   "source": "apify"
+  },
+  "tiktok_7315023352224124161": {
+   "id": "7315023352224124161",
+   "platform": "tiktok",
+   "genre": "business",
+   "url": "https://www.tiktok.com/@makiyonh/video/7315023352224124161",
+   "author": {
+    "handle": "makiyonh",
+    "followers": 7236
+   },
+   "metrics": {
+    "likes": 1710,
+    "views": 118900,
+    "comments": 44
+   },
+   "buzz_score": 16.43,
+   "caption": "#副業初心者向け#60代副業#50代副業",
+   "hashtags": [
+    "副業初心者向け",
+    "60代副業",
+    "50代副業"
+   ],
+   "thumb": "data/thumbs/tiktok_7315023352224124161.jpg",
+   "posted_at": "2023-12-21T12:26:40.000Z",
+   "collected_at": "2026-07-14T18:41:49+09:00",
+   "source": "apify"
+  },
+  "tiktok_7618612598929444116": {
+   "id": "7618612598929444116",
+   "platform": "tiktok",
+   "genre": "business",
+   "url": "https://www.tiktok.com/@kaz_v_tiktok/video/7618612598929444116",
+   "author": {
+    "handle": "kaz_v_tiktok",
+    "followers": 9
+   },
+   "metrics": {
+    "likes": 23,
+    "views": 1594,
+    "comments": 3
+   },
+   "buzz_score": 177.11,
+   "caption": "AI副業\n迷ってる人はこれ見てください\n\n#AI副業 \n#副業初心者 \n#Kindle出版 \n#gemini\n#chatgpt",
+   "hashtags": [
+    "ai副業",
+    "副業初心者",
+    "kindle出版",
+    "gemini",
+    "chatgpt"
+   ],
+   "thumb": "data/thumbs/tiktok_7618612598929444116.jpg",
+   "posted_at": "2026-03-18T15:08:04.000Z",
+   "collected_at": "2026-07-14T18:41:49+09:00",
+   "source": "apify"
+  },
+  "tiktok_7440775361740246280": {
+   "id": "7440775361740246280",
+   "platform": "tiktok",
+   "genre": "business",
+   "url": "https://www.tiktok.com/@seira.yutori/video/7440775361740246280",
+   "author": {
+    "handle": "seira.yutori",
+    "followers": 1690
+   },
+   "metrics": {
+    "likes": 2198,
+    "views": 120000,
+    "comments": 361
+   },
+   "buzz_score": 71.01,
+   "caption": "📕✏️\n\n#副業初心者 #大人の塗り絵#Kindle#Amazon#フリーランス",
+   "hashtags": [
+    "副業初心者",
+    "大人の塗り絵",
+    "kindle",
+    "amazon",
+    "フリーランス"
+   ],
+   "thumb": "data/thumbs/tiktok_7440775361740246280.jpg",
+   "posted_at": "2024-11-24T09:28:41.000Z",
+   "collected_at": "2026-07-14T18:41:49+09:00",
+   "source": "apify"
+  },
+  "tiktok_7657205960653458695": {
+   "id": "7657205960653458695",
+   "platform": "tiktok",
+   "genre": "business",
+   "url": "https://www.tiktok.com/@bloomish_akiri/video/7657205960653458695",
+   "author": {
+    "handle": "bloomish_akiri",
+    "followers": 28300
+   },
+   "metrics": {
+    "likes": 111,
+    "views": 1792,
+    "comments": 1
+   },
+   "buzz_score": 0.06,
+   "caption": "😬Business Japanese for Tough Situations🇯🇵\n\n❶手こずっています\n\nこの原因を特定するのに手こずっています\n\n❷問題が発生しています\n\n一部の機能で問題が発生しています\n\n❸難航しています\n\n納期の調整が難航しています\n\n❹苦戦しています\n\nクレーム対応に苦戦しています\n\n❺支障が出ています\n\n人手不足により対応に支障が出ています\n\n#businessjapanese#日本語 #ビジネス日本語#japanese",
+   "hashtags": [
+    "businessjapanese",
+    "日本語",
+    "ビジネス日本語",
+    "japanese"
+   ],
+   "thumb": "data/thumbs/tiktok_7657205960653458695.jpg",
+   "posted_at": "2026-06-30T15:09:58.000Z",
+   "collected_at": "2026-07-14T18:41:49+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661466052005530898": {
+   "id": "7661466052005530898",
+   "platform": "tiktok",
+   "genre": "business",
+   "url": "https://www.tiktok.com/@sunagimo322/video/7661466052005530898",
+   "author": {
+    "handle": "sunagimo322",
+    "followers": 289
+   },
+   "metrics": {
+    "likes": 30,
+    "views": 1344,
+    "comments": 0
+   },
+   "buzz_score": 4.65,
+   "caption": "最初から綺麗な稼ぎ方をしようとして詰む人を何人も見てきました\n#人生 #成功 #ビジネス ",
+   "hashtags": [
+    "人生",
+    "成功",
+    "ビジネス"
+   ],
+   "thumb": "data/thumbs/tiktok_7661466052005530898.jpg",
+   "posted_at": "2026-07-12T02:41:22.000Z",
+   "collected_at": "2026-07-14T18:41:49+09:00",
+   "source": "apify"
+  },
+  "tiktok_7642607230671457544": {
+   "id": "7642607230671457544",
+   "platform": "tiktok",
+   "genre": "business",
+   "url": "https://www.tiktok.com/@toshikaigaibuisiness/video/7642607230671457544",
+   "author": {
+    "handle": "toshikaigaibuisiness",
+    "followers": 8
+   },
+   "metrics": {
+    "likes": 20,
+    "views": 1522,
+    "comments": 2
+   },
+   "buzz_score": 190.25,
+   "caption": "「ソロプレ」とコメントで\nこのビジネスの詳細を送ります！！\n\nこの他にもスモールスタート出来るビジネスを知りたい方は\nフォローしてね！\n#ビジネス #海外 #映え ",
+   "hashtags": [
+    "ビジネス",
+    "海外",
+    "映え"
+   ],
+   "thumb": "data/thumbs/tiktok_7642607230671457544.jpg",
+   "posted_at": "2026-05-22T06:59:26.000Z",
+   "collected_at": "2026-07-14T18:41:49+09:00",
+   "source": "apify"
+  },
+  "tiktok_7564713808367947028": {
+   "id": "7564713808367947028",
+   "platform": "tiktok",
+   "genre": "business",
+   "url": "https://www.tiktok.com/@business_syoukai/video/7564713808367947028",
+   "author": {
+    "handle": "business_syoukai",
+    "followers": 6013
+   },
+   "metrics": {
+    "likes": 3197,
+    "views": 388500,
+    "comments": 176
+   },
+   "buzz_score": 64.61,
+   "caption": "このビジネスが凄い！✨ No.30 石アート#smallbusiness #businessideas #businesschance #スモールビジネス #ビジネスアイデア ",
+   "hashtags": [
+    "smallbusiness",
+    "businessideas",
+    "businesschance",
+    "スモールビジネス",
+    "ビジネスアイデア"
+   ],
+   "thumb": "data/thumbs/tiktok_7564713808367947028.jpg",
+   "posted_at": "2025-10-24T09:13:12.000Z",
+   "collected_at": "2026-07-14T18:41:49+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661238990661700872": {
+   "id": "7661238990661700872",
+   "platform": "tiktok",
+   "genre": "business",
+   "url": "https://www.tiktok.com/@hana_vlog_/video/7661238990661700872",
+   "author": {
+    "handle": "hana_vlog_",
+    "followers": 479
+   },
+   "metrics": {
+    "likes": 333,
+    "views": 25700,
+    "comments": 23
+   },
+   "buzz_score": 53.65,
+   "caption": "５年半無職→社会復帰5ヶ月目のシステムエンジニアです🙂\n\n#社会復帰　#フリーランス　#お仕事 #在宅ワーク　#うつ病 ",
+   "hashtags": [
+    "社会復帰",
+    "フリーランス",
+    "お仕事",
+    "在宅ワーク",
+    "うつ病"
+   ],
+   "thumb": "data/thumbs/tiktok_7661238990661700872.jpg",
+   "posted_at": "2026-07-11T12:00:11.000Z",
+   "collected_at": "2026-07-14T18:41:49+09:00",
+   "source": "apify"
+  },
+  "tiktok_7659762167499230471": {
+   "id": "7659762167499230471",
+   "platform": "tiktok",
+   "genre": "business",
+   "url": "https://www.tiktok.com/@kurumi_freelance/video/7659762167499230471",
+   "author": {
+    "handle": "kurumi_freelance",
+    "followers": 3822
+   },
+   "metrics": {
+    "likes": 640,
+    "views": 42000,
+    "comments": 10
+   },
+   "buzz_score": 10.99,
+   "caption": "「どうせパパ活でしょ？」って言われるけど、毎日死ぬ気で仕事頑張って掴んだ成果です🥹❤️‍🔥\n\n会社員を辞めてフリーランスになってから、大変なこともあるけど毎日ストレスフリーで本当に楽しい！✨\n\n1年間頑張った自分への誕生日プレゼントに、ずっと欲しかった念願のココハンドルをお迎えしました👜💍（なんと110万円…！💸）\n\n美味しい中華食べて、billsでカフェミーティングして、自分で時間も場所も選べる今の生活が最高すぎる。\nまだまだ欲しいものも行きたい場所もあるから、これからもお仕事頑張ります！✊🏻\n\n#フリーランス #社会人の日常 #脱サラ #ココハンドル #爆買いvlog ",
+   "hashtags": [
+    "フリーランス",
+    "社会人の日常",
+    "脱サラ",
+    "ココハンドル",
+    "爆買いvlog"
+   ],
+   "thumb": "data/thumbs/tiktok_7659762167499230471.jpg",
+   "posted_at": "2026-07-07T12:29:22.000Z",
+   "collected_at": "2026-07-14T18:41:49+09:00",
+   "source": "apify"
+  },
+  "tiktok_7658957338765823239": {
+   "id": "7658957338765823239",
+   "platform": "tiktok",
+   "genre": "business",
+   "url": "https://www.tiktok.com/@fancywebmate_line/video/7658957338765823239",
+   "author": {
+    "handle": "fancywebmate_line",
+    "followers": 227
+   },
+   "metrics": {
+    "likes": 132,
+    "views": 14000,
+    "comments": 13
+   },
+   "buzz_score": 61.67,
+   "caption": "週末に溜めない！不安ゼロのタスク管理術\n#フリーランス",
+   "hashtags": [
+    "フリーランス"
+   ],
+   "thumb": "data/thumbs/tiktok_7658957338765823239.jpg",
+   "posted_at": "2026-07-11T08:00:00.000Z",
+   "collected_at": "2026-07-14T18:41:49+09:00",
+   "source": "apify"
+  },
+  "tiktok_7478295351829499154": {
+   "id": "7478295351829499154",
+   "platform": "tiktok",
+   "genre": "business",
+   "url": "https://www.tiktok.com/@ryo_sns26/video/7478295351829499154",
+   "author": {
+    "handle": "ryo_sns26",
+    "followers": 2171
+   },
+   "metrics": {
+    "likes": 1284,
+    "views": 62000,
+    "comments": 17
+   },
+   "buzz_score": 28.56,
+   "caption": "思考は現実になります！\nこれガチ\n\n#フリーランス \n#フリーランスの日常 \n#自由な生活 ",
+   "hashtags": [
+    "フリーランス",
+    "フリーランスの日常",
+    "自由な生活"
+   ],
+   "thumb": "data/thumbs/tiktok_7478295351829499154.jpg",
+   "posted_at": "2025-03-05T12:05:24.000Z",
+   "collected_at": "2026-07-14T18:41:49+09:00",
+   "source": "apify"
+  },
+  "tiktok_7634847394806517012": {
+   "id": "7634847394806517012",
+   "platform": "tiktok",
+   "genre": "business",
+   "url": "https://www.tiktok.com/@kidou_vlog/video/7634847394806517012",
+   "author": {
+    "handle": "kidou_vlog",
+    "followers": 629600
+   },
+   "metrics": {
+    "likes": 28000,
+    "views": 510000,
+    "comments": 157
+   },
+   "buzz_score": 0.81,
+   "caption": "#PR #ネスレ \n\n勉強・仕事を無限にこなし続ける大学生の1日。\n\n#ネスカフェボトルコーヒー \n#フリーランスの日常 \n#Amazon ",
+   "hashtags": [
+    "pr",
+    "ネスレ",
+    "ネスカフェボトルコーヒー",
+    "フリーランスの日常",
+    "amazon"
+   ],
+   "thumb": "data/thumbs/tiktok_7634847394806517012.jpg",
+   "posted_at": "2026-05-01T09:07:22.000Z",
+   "collected_at": "2026-07-14T18:41:49+09:00",
+   "source": "apify"
+  },
+  "tiktok_7648585490328833300": {
+   "id": "7648585490328833300",
+   "platform": "tiktok",
+   "genre": "business",
+   "url": "https://www.tiktok.com/@soylatte._.daily/video/7648585490328833300",
+   "author": {
+    "handle": "soylatte._.daily",
+    "followers": 4456
+   },
+   "metrics": {
+    "likes": 639,
+    "views": 26400,
+    "comments": 6
+   },
+   "buzz_score": 5.92,
+   "caption": "大学卒業後就職せずに、フリーランスとして好きなことを仕事にした私の1日vlog🍀💭\n\n在宅ワークに興味がある方へ！！Instagramのハイライトに詳細のせているので、よかったら覗いてみてください⭐️\n\n#在宅ワーク #フリーランス #vlog #日常 #社会人 ",
+   "hashtags": [
+    "在宅ワーク",
+    "フリーランス",
+    "vlog",
+    "日常",
+    "社会人"
+   ],
+   "thumb": "data/thumbs/tiktok_7648585490328833300.jpg",
+   "posted_at": "2026-06-07T10:10:00.000Z",
+   "collected_at": "2026-07-14T18:41:49+09:00",
+   "source": "apify"
+  },
+  "tiktok_7486426763099131154": {
+   "id": "7486426763099131154",
+   "platform": "tiktok",
+   "genre": "business",
+   "url": "https://www.tiktok.com/@asahina_riona/video/7486426763099131154",
+   "author": {
+    "handle": "asahina_riona",
+    "followers": 129300
+   },
+   "metrics": {
+    "likes": 2736,
+    "views": 190100,
+    "comments": 44
+   },
+   "buzz_score": 1.47,
+   "caption": "『旅しながら、収入どうしてるの？』に答えます！  #ノマド #ノマドワーカー #フリーランス #フリーランスの働き方 #フリーランス女子 ",
+   "hashtags": [
+    "ノマド",
+    "ノマドワーカー",
+    "フリーランス",
+    "フリーランスの働き方",
+    "フリーランス女子"
+   ],
+   "thumb": "data/thumbs/tiktok_7486426763099131154.jpg",
+   "posted_at": "2025-03-27T09:59:26.000Z",
+   "collected_at": "2026-07-14T18:41:49+09:00",
+   "source": "apify"
+  },
+  "tiktok_7656737896241564948": {
+   "id": "7656737896241564948",
+   "platform": "tiktok",
+   "genre": "business",
+   "url": "https://www.tiktok.com/@snsfreelance_lab/video/7656737896241564948",
+   "author": {
+    "handle": "snsfreelance_lab",
+    "followers": 859
+   },
+   "metrics": {
+    "likes": 19,
+    "views": 1189,
+    "comments": 2
+   },
+   "buzz_score": 1.38,
+   "caption": "SNS運用の仕事ってこんな感じ！✨\nフリーランス動画編集ディレクターの1日vlog🤍🗓️\n気になる人はコメントしてね🫧\n\n#ディレクター #社会人vlog \n#副業 #フリーランス #動画編集 ",
+   "hashtags": [
+    "ディレクター",
+    "社会人vlog",
+    "副業",
+    "フリーランス",
+    "動画編集"
+   ],
+   "thumb": "data/thumbs/tiktok_7656737896241564948.jpg",
+   "posted_at": "2026-06-29T08:53:38.000Z",
+   "collected_at": "2026-07-14T18:41:49+09:00",
+   "source": "apify"
+  },
+  "instagram_DVve6hlk6yh": {
+   "id": "DVve6hlk6yh",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DVve6hlk6yh/",
+   "author": {
+    "handle": "kazuki_1106",
+    "followers": 2816
+   },
+   "metrics": {
+    "likes": 40779,
+    "views": 1241568,
+    "comments": 79
+   },
+   "buzz_score": 14.48,
+   "caption": "・\nAPF FIRST IMPACT \nPhysique Model Class30 1st Place🏆\n\n@team.apf_ 公式動画🎥✨\n\nフロントのボリューム感は今後の課題ですが、\n今回は新たな調整を取り入れ、納得のいくコンディションでステージに立つことができました。\n\nまだまだ改善点も多いので、\n次のステージに向けてさらに磨いていきます🔥\n・\n・\n・\nダイエットしたい方、体を変えたい方へ✨\n「続かない」を卒業したい方、大歓迎です！\n\n一時的な結果ではなく、\nリバウンドしない運動と食事の習慣づくりをサポートします💪\n\nまずはお気軽にご相談ください📩\n\n横浜関内パーソナルジム\n@personal_training_gym_glant \n\n#apf\n#フィジーク\n#フィットネス \n#筋トレ\n#ボディメイク",
+   "hashtags": [
+    "apf",
+    "フィジーク",
+    "フィットネス",
+    "筋トレ",
+    "ボディメイク"
+   ],
+   "thumb": "data/thumbs/instagram_DVve6hlk6yh.jpg",
+   "posted_at": "2026-03-11T11:15:27.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DVN40yAE7Bz": {
+   "id": "DVN40yAE7Bz",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DVN40yAE7Bz/",
+   "author": {
+    "handle": "tatsuki_okahashi",
+    "followers": 5494
+   },
+   "metrics": {
+    "likes": 3941,
+    "views": 1513958,
+    "comments": 40
+   },
+   "buzz_score": 0.72,
+   "caption": "ジムでよく見る\n「それ、もったいない…」行動4選↓\n\n① セット間ずっとスマホ\n休憩は必要。\nでもずっとスマホスクロールはただの集中切れやし、休憩が長くなりすぎる。\n\n② 毎回フォーム変わる\n重量に振り回されて効いてない。目的があって行う分には良いが基本的な考えとしては“扱う重さ”より“効かせる精度”。\n\n③ なんとなく種目回って帰る\n目的ないトレはちょっと勿体無い😭\nせっかくジムに来ているなら目的を持って自分と向き合おう🔥\n\n④ 追い込まずに満足する\n「キツかった」で終わる人はなかなか成長速度がゆっくりになる。限界の一歩手前で止めるのが一番もったいない。\n\nただ、ジム来てるだけで偉い👏\nだからこそ、せっかくなら質も高く良い時間にしよ🤩\n\n一つでも当てはまったら、今日から気をつけてみて！\n\n見返せるように保存も忘れずに✅\n\n少しでも参考になった、モチベーションになった人はフォローしていって〜😆\n@tatsu_fit.2003 \n#筋トレ #フィットネス #大学生 #筋トレ初心者",
+   "hashtags": [
+    "筋トレ",
+    "フィットネス",
+    "大学生",
+    "筋トレ初心者"
+   ],
+   "thumb": "data/thumbs/instagram_DVN40yAE7Bz.jpg",
+   "posted_at": "2026-02-26T10:00:00.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DU7-PCtk4Y8": {
+   "id": "DU7-PCtk4Y8",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DU7-PCtk4Y8/",
+   "author": {
+    "handle": "personal_riku",
+    "followers": 10779
+   },
+   "metrics": {
+    "likes": 4556,
+    "views": 681846,
+    "comments": 30
+   },
+   "buzz_score": 0.42,
+   "caption": "胸はジムよりキッチンで決まる(?)🍳\n\nまずこれだけ意識してみてください‼︎\n\n■ タンパク質：体重×2g\n（70kgなら140g）\n\n■ 総摂取カロリー：消費＋300〜500kcal\n増えへん＝足りてへん。\n\n■ トレ前後は糖質入れる\n米・芋・バナナ\n糖質抜いて胸は育たへん。\n\n「増量を怖がらんこと」\n\nちょっと腹出るの嫌やからって\nカロリー抑えてたら\n一生“薄いまま引き締まってる人”止まり！\n\n胸をデカくしたいなら、週2回\nDay① プレスメイン（高重量寄り）\nベンチプレス\nインクラインプレス\nスミス系\n→ 6〜10回で限界くる重量\n→ しっかり肩甲骨下制＋内転\n→ ネガティブ意識\n\nDay② ストレッチメイン（可動域重視）\nダンベルフライ\nインクラインフライ\nケーブルフライ\n→ 10〜15回\n→ ボトム1秒止める\n→ 反動なし\n\nここは「伸ばして壊す日」。\n意識してみてくーださい\n#筋トレ \n#ダイエット \n#パーソナルトレーナー \n#胸トレ",
+   "hashtags": [
+    "筋トレ",
+    "ダイエット",
+    "パーソナルトレーナー",
+    "胸トレ"
+   ],
+   "thumb": "data/thumbs/instagram_DU7-PCtk4Y8.jpg",
+   "posted_at": "2026-02-19T11:06:37.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DWFydtKk5hf": {
+   "id": "DWFydtKk5hf",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DWFydtKk5hf/",
+   "author": {
+    "handle": "crystal_gym_n",
+    "followers": 32438
+   },
+   "metrics": {
+    "likes": 8176,
+    "views": 917003,
+    "comments": 36
+   },
+   "buzz_score": 0.25,
+   "caption": "混ぜてみました\n#クリスタルジム #トレーニング #筋トレ #ダイエット #青木マッチョ",
+   "hashtags": [
+    "クリスタルジム",
+    "トレーニング",
+    "筋トレ",
+    "ダイエット",
+    "青木マッチョ"
+   ],
+   "thumb": "data/thumbs/instagram_DWFydtKk5hf.jpg",
+   "posted_at": "2026-03-20T03:04:02.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DXMIjfLk8SF": {
+   "id": "DXMIjfLk8SF",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DXMIjfLk8SF/",
+   "author": {
+    "handle": "yusuke_kawai_fit",
+    "followers": 11859
+   },
+   "metrics": {
+    "likes": 3858,
+    "views": 748375,
+    "comments": 52
+   },
+   "buzz_score": 0.33,
+   "caption": "【脂肪を最速で落とす有酸素のやり方👇】\n\n① 空腹 or 食後2〜3時間でやる\n→ インスリン（脂肪を溜めるホルモン）が落ち着いてる状態\n→ 脂肪がエネルギーとして使われやすくなる\n※朝イチ or 軽く時間空けてからがベスト\n\n⸻\n\n② 心拍数は“軽くキツい”をキープ\n→ 目安：最大心拍数の60〜70%\n→ 脂肪燃焼ゾーンで効率よく燃える\n→ ゼーハーしすぎ＝糖質メインになるから逆に効率落ちる\n\n⸻\n\n③ 20〜40分で十分\n→ 脂肪燃焼は最初の20分以降がメイン\n→ でも長すぎると筋肉分解が進む\n→ “やりすぎない”のが最短で痩せるコツ\n\n⸻\n\n④ 筋トレ後にやる\n→ 筋トレで糖質を使い切る\n→ その後の有酸素は脂肪が優先的に使われる\n→ 同じ時間でも燃焼効率が段違いに上がる\n\n　\n\n【脂肪が落ちない“非効率な有酸素”❌】\n\n① 食後すぐの有酸素\n→ インスリン高い状態＝脂肪が燃えにくい\n→ 食べたエネルギーから優先的に使われる\n＝脂肪はほぼ使われない\n\n⸻\n\n② 強度が高すぎる（ゼーハーしすぎ）\n→ 心拍数上がりすぎると糖質メインになる\n→ 「キツい＝痩せる」は勘違い\n→ 脂肪燃焼効率はむしろ下がる\n\n⸻\n\n③ ダラダラ長時間やる（60分以上）\n→ コルチゾール上昇で筋肉分解\n→ 基礎代謝が落ちて“痩せにくい体”に\n→ 頑張ってるのに逆効果パターン\n\n⸻\n\n④ 筋トレせず有酸素だけ\n→ 筋肉減る＝代謝落ちる\n→ リバウンドしやすい体になる\n→ 見た目も締まらない\n\n長くやるより“正しくやる”\nこれだけで脂肪の落ち方は別物になるよ🔥\n\n保存して見返せるように！\n\n#筋トレ #ダイエット #自分磨き",
+   "hashtags": [
+    "筋トレ",
+    "ダイエット",
+    "自分磨き"
+   ],
+   "thumb": "data/thumbs/instagram_DXMIjfLk8SF.jpg",
+   "posted_at": "2026-04-16T10:44:20.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DU2hwdMkiOb": {
+   "id": "DU2hwdMkiOb",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DU2hwdMkiOb/",
+   "author": {
+    "handle": "kinniku124",
+    "followers": 28935
+   },
+   "metrics": {
+    "likes": 8572,
+    "views": 813085,
+    "comments": 46
+   },
+   "buzz_score": 0.3,
+   "caption": "慣れてきたら2〜3セットに\n増やしてみましょう！\n\nやってみようと思ったら\nコメント欄に「🔥」送ってね！\n.\n.\n.\n筋トレ減量トレーナーの\nリュウトです！\n\n筋トレ初心者でも\n腹筋が割れて逆三角形の体に\nなれる方法を発信💪\n\n筋肉をつけ脂肪を落とし、\n「痩せて引き締めたい人」だけ\nフォローしてくださいね！\n\n#筋トレ　\n#減量　\n#筋トレ初心者\n#ダイエット　\n#腹筋が割れる",
+   "hashtags": [
+    "筋トレ",
+    "減量",
+    "筋トレ初心者",
+    "ダイエット",
+    "腹筋が割れる"
+   ],
+   "thumb": "data/thumbs/instagram_DU2hwdMkiOb.jpg",
+   "posted_at": "2026-02-17T08:16:58.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DWv-cAPiW0k": {
+   "id": "DWv-cAPiW0k",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DWv-cAPiW0k/",
+   "author": {
+    "handle": "health_hack181",
+    "followers": 209428
+   },
+   "metrics": {
+    "likes": 13384,
+    "views": 1267899,
+    "comments": 82
+   },
+   "buzz_score": 0.06,
+   "caption": "壁に背中をつけてそのままキープするだけで体に何が起きるのでしょうか？#体幹 #腰痛 #筋トレ",
+   "hashtags": [
+    "体幹",
+    "腰痛",
+    "筋トレ"
+   ],
+   "thumb": "data/thumbs/instagram_DWv-cAPiW0k.jpg",
+   "posted_at": "2026-04-05T12:16:31.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DVLXS9hkbdj": {
+   "id": "DVLXS9hkbdj",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DVLXS9hkbdj/",
+   "author": {
+    "handle": "goril_lab614",
+    "followers": 8127
+   },
+   "metrics": {
+    "likes": 14332,
+    "views": 559436,
+    "comments": 122
+   },
+   "buzz_score": 1.76,
+   "caption": "筋トレは毎日やるな。#ジム #ゴリ兄 #筋トレ #雑学",
+   "hashtags": [
+    "ジム",
+    "ゴリ兄",
+    "筋トレ",
+    "雑学"
+   ],
+   "thumb": "data/thumbs/instagram_DVLXS9hkbdj.jpg",
+   "posted_at": "2026-02-25T10:29:33.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DYHOHHCTORs": {
+   "id": "DYHOHHCTORs",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DYHOHHCTORs/",
+   "author": {
+    "handle": "takutofitness",
+    "followers": 312788
+   },
+   "metrics": {
+    "likes": 51527,
+    "views": 2201929,
+    "comments": 297
+   },
+   "buzz_score": 0.16,
+   "caption": "約2年間の変化\nここまで変わる為にやった事はとてもシンプルです。\n\n・家トレ(フリーウエイト種目のみ)\n・週6〜7筋トレ\n・5分割でトレーニング(背中/胸/肩/背中/胸/腕/脚)\n・1年中低脂質の食事\n・トレーニング時間1日30〜60分\n・有酸素運動なし\n・やり続ける\n\n結局はトレーニングやり続けるというシンプルな行動が1番身体を変えます💪\n\n#筋トレ #筋肉 #ボディビル #workout #training",
+   "hashtags": [
+    "筋トレ",
+    "筋肉",
+    "ボディビル",
+    "workout",
+    "training"
+   ],
+   "thumb": "data/thumbs/instagram_DYHOHHCTORs.jpg",
+   "posted_at": "2026-05-09T09:34:14.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DU0HAioEjFY": {
+   "id": "DU0HAioEjFY",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DU0HAioEjFY/",
+   "author": {
+    "handle": "kinnikun_method",
+    "followers": 122351
+   },
+   "metrics": {
+    "likes": 22916,
+    "views": 1344169,
+    "comments": 87
+   },
+   "buzz_score": 0.19,
+   "caption": "俺はきんに君だぁ！！#筋肉 #筋肥大 #筋トレ #豆知識",
+   "hashtags": [
+    "筋肉",
+    "筋肥大",
+    "筋トレ",
+    "豆知識"
+   ],
+   "thumb": "data/thumbs/instagram_DU0HAioEjFY.jpg",
+   "posted_at": "2026-02-16T09:44:37.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DWfaKdek46N": {
+   "id": "DWfaKdek46N",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DWfaKdek46N/",
+   "author": {
+    "handle": "bone_if_i",
+    "followers": 43876
+   },
+   "metrics": {
+    "likes": 8062,
+    "views": 860080,
+    "comments": 34
+   },
+   "buzz_score": 0.18,
+   "caption": "ブルガリアンスクワットをやり続けるとどうなるのか？\n\nたぶんこの世にある筋トレで1番きつい\n\n#もしも #豆知識 #健康 #筋トレ",
+   "hashtags": [
+    "もしも",
+    "豆知識",
+    "健康",
+    "筋トレ"
+   ],
+   "thumb": "data/thumbs/instagram_DWfaKdek46N.jpg",
+   "posted_at": "2026-03-30T01:52:17.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DU3FrDVE-9I": {
+   "id": "DU3FrDVE-9I",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DU3FrDVE-9I/",
+   "author": {
+    "handle": "mahiro___lgo",
+    "followers": 1395
+   },
+   "metrics": {
+    "likes": 16658,
+    "views": 8350942,
+    "comments": 217
+   },
+   "buzz_score": 11.94,
+   "caption": "この動画はあと2回は擦ります\n.\n.\n鬱陶しいんで真似はやめてください、ただのイキリです\n\n#筋トレ #筋肉 #ボディビル #eaa #筋分解が心配",
+   "hashtags": [
+    "筋トレ",
+    "筋肉",
+    "ボディビル",
+    "eaa",
+    "筋分解が心配"
+   ],
+   "thumb": "data/thumbs/instagram_DU3FrDVE-9I.jpg",
+   "posted_at": "2026-02-17T13:30:51.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DX9EFoNhl7N": {
+   "id": "DX9EFoNhl7N",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DX9EFoNhl7N/",
+   "author": {
+    "handle": "shota_119.jitan_diet",
+    "followers": 36228
+   },
+   "metrics": {
+    "likes": 8931,
+    "views": 819622,
+    "comments": 31
+   },
+   "buzz_score": 0.25,
+   "caption": "現役消防士が教える時短宅トレ術🔥\n\n←他の投稿もぜひご覧ください\n@shota_119.jitan_diet \n\n今回の種目】⬇️\n\n1 プランクプッシュアップ\n30回 ※10回3セット推奨\n【ポイント】\n・プランクの姿勢から\n・腕を立てる\n・難しい方は膝をつくとやりやすい🔥\n\n2 ダイヤモンドプッシュアップ\n30回 ※10回3セット推奨\n【ポイント】\n・手で三角を作る\n・三角の場所に頭を落とすと三頭に効きやすい\n・膝付きでも良いです🔥\n\n3 リバースプッシュアップ\n30回 ※10回3セット推奨\n【ポイント】\n・三頭に効くように腕を90度くらいまで曲げる\n・家にある椅子やテーブル、ベッドで実施可能🔥\n\n共に腕熱になりましょう🔥\n\n大事なのは\n“やり切ること”\n\n⸻\n\n「変わりたい」\n「一緒にやってみたい」\nと思ったら ［❤️］とコメントしてください💪\n\nあとで見返せるように\n［いいね！＆保存］も忘れずに☝️\n\n本気で\n痩せたい・変わりたい人向けに発信しています🔥\nよかったら ［フォロー］もお願いします！\n\n⸻\n\nいつまでも若々しい身体でいたいと思いませんか？\n\n⸻\n\n「年齢だから」\n「自分には無理」\n\nそんな言い訳していませんか？\n\nでも一度だけ\n本気でやってみませんか？\n\nこれから\n本気で効く時短トレを発信していきます。\n\n「変わりました！」の報告や\n鍛えたい部位のリクエストは\nDM・コメントでお待ちしています✉️\n\nーーーーーーーーーーーーーーーーー\nプロフィール\n\n年齢\nアラフォー\n消防歴\n16年\n\n#training #diet #トレーニング #ダイエット #筋トレ",
+   "hashtags": [
+    "training",
+    "diet",
+    "トレーニング",
+    "ダイエット",
+    "筋トレ"
+   ],
+   "thumb": "data/thumbs/instagram_DX9EFoNhl7N.jpg",
+   "posted_at": "2026-05-05T10:50:02.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DU9MXj3CGY1": {
+   "id": "DU9MXj3CGY1",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DU9MXj3CGY1/",
+   "author": {
+    "handle": "kosuke_physique",
+    "followers": 14237
+   },
+   "metrics": {
+    "likes": 10058,
+    "views": 2051566,
+    "comments": 25
+   },
+   "buzz_score": 0.71,
+   "caption": "保存必須。海外マッチョ直伝の肩トレ　#筋トレ #フィットネス #海外 #ボディビル #ボディビル",
+   "hashtags": [
+    "筋トレ",
+    "フィットネス",
+    "海外",
+    "ボディビル"
+   ],
+   "thumb": "data/thumbs/instagram_DU9MXj3CGY1.jpg",
+   "posted_at": "2026-02-19T22:26:49.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DW_MRp_Ao1N": {
+   "id": "DW_MRp_Ao1N",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DW_MRp_Ao1N/",
+   "author": {
+    "handle": "tomoya_tore",
+    "followers": 25307
+   },
+   "metrics": {
+    "likes": 9031,
+    "views": 1269856,
+    "comments": 13
+   },
+   "buzz_score": 0.36,
+   "caption": "@tomoya_tore◀◁◀他の投稿も見てみて✋\n⁡\n・無意識にスマホ首になってる📱😱\n・デスクワーク中の、無意識な猫背💻\n・楽な姿勢になろうとして首が前に出ちゃう💦\n⁡\n実は老けて見られてしまう原因、\n…実はその姿勢のせいかも😭\n⁡\n「整体に行く時間がない、、。😢」\n⁡\nそんなあなた‼️\n誰でも出来る簡単背中ストレッチを紹介！☝\n30回じゃなくてもOK🙆‍♀️\nあなたが辛くない回数で試してみてね🙌\n⁡\n⁡\nタイミングとしては\n・お風呂上がり\n・寝る前\n・起きてから\n・ご飯の前\n⁡\nいつでもOK👌\n隙間時間にやって有効活用していきましょう🎵\n⁡\n自分のやりやすい時間でいいから試してみてね🙋‍♂️\n毎日1回でもいいからやってみて！\n1週間後には必ず効果は出てる👏\nやってみた人は「❤️‍🔥」ってコメントしてね😘\n⁡\nいいね👍やDM✉️、励みになります❤️‍🔥\n一緒に理想の身体をめざして頑張っていきましょう💪\n⁡\nフォローして健康的な体にしていこう！☝️\n>>>> @tomoya_tore\n⁡\n#筋トレ#ストレッチ#ダイエット#宅トレ",
+   "hashtags": [
+    "筋トレ",
+    "ストレッチ",
+    "ダイエット",
+    "宅トレ"
+   ],
+   "thumb": "data/thumbs/instagram_DW_MRp_Ao1N.jpg",
+   "posted_at": "2026-04-11T10:05:42.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DY9PI16vhMR": {
+   "id": "DY9PI16vhMR",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DY9PI16vhMR/",
+   "author": {
+    "handle": "taichi.balanece",
+    "followers": 80513
+   },
+   "metrics": {
+    "likes": 3247,
+    "views": 617021,
+    "comments": 17
+   },
+   "buzz_score": 0.04,
+   "caption": "#小さな動作で大きな効果 #宅トレ #健康維持",
+   "hashtags": [
+    "小さな動作で大きな効果",
+    "宅トレ",
+    "健康維持"
+   ],
+   "thumb": "data/thumbs/instagram_DY9PI16vhMR.jpg",
+   "posted_at": "2026-05-30T08:54:46.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DYB6qhnyuTe": {
+   "id": "DYB6qhnyuTe",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DYB6qhnyuTe/",
+   "author": {
+    "handle": "ginza.pbg",
+    "followers": 312081
+   },
+   "metrics": {
+    "likes": 13568,
+    "views": 1422869,
+    "comments": 31
+   },
+   "buzz_score": 0.04,
+   "caption": "\\足が太くなる原因は/\n1.足首が硬い\n2.反り腰でつま先重心\n3.過体重で脚全体に負荷が常にかかってる\n\n動画で改善のエクササイズを解説しているので、\n脚の張りを改善したい人！\n前ももの張りが気になってる人！\n足首を細くしたい人！\n足首を柔らかくしたい人！\n\n是非やってみてください！！！\n\n質問があればコメント欄に🔥\n\nこの投稿が参考になった方よかったら\n(@ginza.pbg)\nのフォローお願い致します🥺\n\n———————————\nお問い合わせ方法は\n\nLINE @、電話、メール\nにて承っております！\n\n＊住所\n東京都中央区銀座7丁目2番14号\n第26ポールスタービル　7階A室\n＊アクセス\n銀座駅徒歩6分／新橋駅徒歩4分\n＊営業時間\n平日　：08:00~22:00(21:00最終受付)\n土日祝：08:00~20:00(19:00最終受付)\n\n——————————\n#腹筋\n#workout\n#abworkout\n#abs\n#宅トレ",
+   "hashtags": [
+    "腹筋",
+    "workout",
+    "abworkout",
+    "abs",
+    "宅トレ"
+   ],
+   "thumb": "data/thumbs/instagram_DYB6qhnyuTe.jpg",
+   "posted_at": "2026-05-07T08:00:00.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DaCidihRz1g": {
+   "id": "DaCidihRz1g",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DaCidihRz1g/",
+   "author": {
+    "handle": "taichi.miyoshi",
+    "followers": 124415
+   },
+   "metrics": {
+    "likes": 8940,
+    "views": 1542236,
+    "comments": 17
+   },
+   "buzz_score": 0.07,
+   "caption": "#ケーゲル運動 #産後ケア #宅トレ #ママ #ぽっこりお腹\nすっきり引き締まったクビレ肌へ〜！",
+   "hashtags": [
+    "ケーゲル運動",
+    "産後ケア",
+    "宅トレ",
+    "ママ",
+    "ぽっこりお腹"
+   ],
+   "thumb": "data/thumbs/instagram_DaCidihRz1g.jpg",
+   "posted_at": "2026-06-26T06:51:10.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DYE2Tkdyguh": {
+   "id": "DYE2Tkdyguh",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DYE2Tkdyguh/",
+   "author": {
+    "handle": "ryuki_diet_gogo",
+    "followers": 25677
+   },
+   "metrics": {
+    "likes": 14919,
+    "views": 1128234,
+    "comments": 58
+   },
+   "buzz_score": 0.58,
+   "caption": "一生太りたくない人絶対見て🔥\n@ryuki_diet_gogo \n300人以上痩せさせた鍼灸師\n\n鍼灸師/パーソナルトレーナー歴12年目のプロ直伝👊\n\n☑︎お腹の縦線が入る\n☑︎お腹の上部が引き締まる\n☑︎下腹部が引き締まる\n☑︎くびれが誕生する\n\n実践する際のポイント👍\n* 腰を反りすぎない\n* お腹周りに力を入れる\n* 呼吸をしっかりする\n\n\\1日1分で一生太らない身体づくり★／\n＜太ることを忘れさせるプロ🔥〉\n\nフォローして一緒に太らない身体を手に入れよう🫶\nこのエクササイズだけで効率良く引き締められます✨\n\n生活習慣を改善し、自宅でこっそり太らないボディを手に入れましょう(^^)\n\n#痩せたい \n#運動習慣\n#ダイエット\n#宅トレ",
+   "hashtags": [
+    "痩せたい",
+    "運動習慣",
+    "ダイエット",
+    "宅トレ"
+   ],
+   "thumb": "data/thumbs/instagram_DYE2Tkdyguh.jpg",
+   "posted_at": "2026-05-08T11:21:12.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DYo27cjRQ4Z": {
+   "id": "DYo27cjRQ4Z",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DYo27cjRQ4Z/",
+   "author": {
+    "handle": "fitlabo.fujimitsuruse",
+    "followers": 7189
+   },
+   "metrics": {
+    "likes": 7445,
+    "views": 411640,
+    "comments": 25
+   },
+   "buzz_score": 1.04,
+   "caption": "今日の宅トレ💪\n「二の腕が気になる…」 \n「ウエストのくびれ、どこいった？😂」\n\n切実な悩み！この【バタバタツイスト】で\nまとめて解決しちゃいましょう！✨\n\nただ腕を振るだけでなく\n腰のツイストと軽いステップを合わせるので\n全身のリンパと筋肉を同時に刺激。 \n1日30秒で体温がグッと上がるのが分かるはず🔥\n\n痩せる動きは…\n✅腕のバタバタは「二の腕」に効く！\n✅腰のツイストは「下腹」を絞る！\n✅ステップは「代謝」を上げる！\nリズムに乗って、楽しみながらやろう✨\n\nこれだけで「最近シュッとした？」って \n言われる体を手に入れましょう🙌\n\n「変わりたい！」と思った人は \n忘れないうちに【保存】してやってみてね！✨\n\nFITLABOでは\nダイエット•姿勢改善•ボディメイクなど\n体力向上したいけど\n「運動が苦手だから…」\n「続くか不安…」\nそんな方こそ大歓迎です😊\n1人1人に寄り添った指導で楽しく運動が続けられます！\n\nまずは無料体験から\nプロフィールのリンクからご予約ができます✨\n@fitlabo.fujimitsuruse \nセミパーソナルorマシンピラティスの\nどちらが45分体験できます😊\n\nぜひ一度ご来店ください！\nお待ちしております\n\n#全身痩せ \n#二の腕痩せ \n#お腹痩せ \n#宅トレ \n#鶴瀬",
+   "hashtags": [
+    "全身痩せ",
+    "二の腕痩せ",
+    "お腹痩せ",
+    "宅トレ",
+    "鶴瀬"
+   ],
+   "thumb": "data/thumbs/instagram_DYo27cjRQ4Z.jpg",
+   "posted_at": "2026-05-22T11:00:03.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DY5laZny0gG": {
+   "id": "DY5laZny0gG",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DY5laZny0gG/",
+   "author": {
+    "handle": "taichi.sakura",
+    "followers": 112121
+   },
+   "metrics": {
+    "likes": 57273,
+    "views": 1910443,
+    "comments": 1470
+   },
+   "buzz_score": 0.51,
+   "caption": "#古法トレーニング #小さな動き大きな効果 #トレーニング #宅トレ #養生体操",
+   "hashtags": [
+    "古法トレーニング",
+    "小さな動き大きな効果",
+    "トレーニング",
+    "宅トレ",
+    "養生体操"
+   ],
+   "thumb": "data/thumbs/instagram_DY5laZny0gG.jpg",
+   "posted_at": "2026-05-28T22:54:02.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DYt5ZuKMhpC": {
+   "id": "DYt5ZuKMhpC",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DYt5ZuKMhpC/",
+   "author": {
+    "handle": "taichi.sakura",
+    "followers": 112121
+   },
+   "metrics": {
+    "likes": 8643,
+    "views": 1005363,
+    "comments": 16
+   },
+   "buzz_score": 0.08,
+   "caption": "#宅トレ #誰にでもできるフィットネス #脂肪燃焼の100通り",
+   "hashtags": [
+    "宅トレ",
+    "誰にでもできるフィットネス",
+    "脂肪燃焼の100通り"
+   ],
+   "thumb": "data/thumbs/instagram_DYt5ZuKMhpC.jpg",
+   "posted_at": "2026-05-24T09:57:30.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DYZSqyEMZMV": {
+   "id": "DYZSqyEMZMV",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DYZSqyEMZMV/",
+   "author": {
+    "handle": "tama_bodymake",
+    "followers": 7776
+   },
+   "metrics": {
+    "likes": 7842,
+    "views": 844324,
+    "comments": 53
+   },
+   "buzz_score": 1.01,
+   "caption": "お腹痩せしたい人、まだ腹筋してるの？\n\nお腹痩せしたいなら、やらなきゃ損！！\n寝る前に1分やってみて✨\n\nお腹が痩せない人は\n骨盤がズレてる可能性が高い！\n\nこの動きで、骨盤も整って\nお腹痩せできるストレッチ🕊️\n\n【やり方はこれだけ👇】\n １．仰向けで両膝立てる\n ２．足首を太ももにもっていく\n ３．そのまま上下にパタパタ\n\n毎日30回やってみて！\n\n【ポイント💡】\n ・腰を反らせないようにする\n ・ゆっくり動かす\n\nこれだけでお腹痩せるだけじゃなく\n骨盤も整って他にもこんな効果が・・・🥹\n\n🌸むくみ解消\n🌸代謝アップ\n🌸腰痛緩和\n🌸股関節ほぐし\n\n「キツい運動は無理…」って人にこそ続けてほしい。\n\nやってみた感想や質問もお気軽にコメントへ✍️\n\nダイエットは毎日コツコツ続けることが大事！\n痩せたい人は、寝る前にゆる〜く続けてみてね😌\n\n激務でリバウンドした私が\nこういう \"ゆる〜くて効くやつ\" 発信してるから\nフォローして一緒にキレイになろう🩷\n\n#ダイエット#お腹痩せ#宅トレ#ゆるトレ",
+   "hashtags": [
+    "ダイエット",
+    "お腹痩せ",
+    "宅トレ",
+    "ゆるトレ"
+   ],
+   "thumb": "data/thumbs/instagram_DYZSqyEMZMV.jpg",
+   "posted_at": "2026-05-16T09:53:30.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DY9ipvDT4Zi": {
+   "id": "DY9ipvDT4Zi",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DY9ipvDT4Zi/",
+   "author": {
+    "handle": "okumi_diet",
+    "followers": 45274
+   },
+   "metrics": {
+    "likes": 2547,
+    "views": 231484,
+    "comments": 30
+   },
+   "buzz_score": 0.06,
+   "caption": "🔥全身スッキリ隙間トレ🔥説明🍫@okumi_diet \n\n本日の運動🔥３０回🔥\n\n1️⃣脚を肩幅に開いて姿勢よく立つ\n\n2️⃣その場で踵を上げ下げしながら腕を大きく振る\n\nとにかく腕を大きく振って全身を伸ばす気持ちで３０回やってみてね！！\n\n隙間時間でできるのに全身スッキリするよ！！\n\n⭐︎私と一緒に頑張る人集まれ〜💪\n\n今日も頑張った自分を褒めてあげて💚\nぜひチャレンジしてみてね！！\n\n最後までご覧いただき\nありがとうございました☘️\n••••✼•••••••✼•••••••✼•••••••✼•••••••✼••••\nこのアカウントは、人間ドックの忠告を無視して\nコソッと太った甘いもの大好きアラフィフ母が\n無理しない宅トレをご紹介します！\n\n👩プロフィール\n▶︎ MAX 58.6kg →現在5０.５kg→目標48kg\n▶︎ アラフィフ｜1３歳•10歳ママ｜158.5cm\n▶︎好きなものは🍫\n\n頑張れないかも？のみなさま〜\n一緒に楽しくダイエットしましょ💪\n今すぐフォロー▶︎(@okumi_diet)\n\nいいね・コメント・保存もすごく嬉しいです♡\nDMも嬉しいです✨\nよろしくお願いします🍫\n\n••••✼•••••••✼•••••••✼•••••••✼•••••••✼••••\n#アラフィフ\n#宅トレ#宅トレダイエット　\n#トレーニング　",
+   "hashtags": [
+    "アラフィフ",
+    "宅トレ",
+    "宅トレダイエット",
+    "トレーニング"
+   ],
+   "thumb": "data/thumbs/instagram_DY9ipvDT4Zi.jpg",
+   "posted_at": "2026-05-30T11:50:32.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DaUZ06mx36p": {
+   "id": "DaUZ06mx36p",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DaUZ06mx36p/",
+   "author": {
+    "handle": "uchico.bodymake",
+    "followers": 45095
+   },
+   "metrics": {
+    "likes": 2658,
+    "views": 267963,
+    "comments": 11
+   },
+   "buzz_score": 0.06,
+   "caption": "見た目以上にキツい。。。\n@uchico.bodymake 体型気になるアラフォー仲間に発信中⭐︎\n\n夏が来る前に…\n\n5分でもok👍\nむしろ、5分でもキツい…笑\n\n有酸素運動で引き締めて行こう✨\n\n他のトレーニングも覗いてみてね♡\n一緒にやろう✨\n\n#アラフォー \n#ボディメイク \n#宅トレ",
+   "hashtags": [
+    "アラフォー",
+    "ボディメイク",
+    "宅トレ"
+   ],
+   "thumb": "data/thumbs/instagram_DaUZ06mx36p.jpg",
+   "posted_at": "2026-07-03T05:26:52.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DZhjB36CI8j": {
+   "id": "DZhjB36CI8j",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DZhjB36CI8j/",
+   "author": {
+    "handle": "fari_bodymake",
+    "followers": 14712
+   },
+   "metrics": {
+    "likes": 4085,
+    "views": 445909,
+    "comments": 88
+   },
+   "buzz_score": 0.28,
+   "caption": "双子ママのふぁり（@fari_bodymake）です🍒\n⁡\n＼ たった10回でぺた腹 ／\n⁡\n《やり方》\n四つん這いになり\n片足を前に出したらつま先を90℃に回転\nそのままお尻を下げるだけ\n⁡\n《ポイント》\n💡股関節が伸びているのを意識\n💡足の裏はできるだけ浮かないようにしてね\n⁡\n《効果》\n✔︎ぽっこりお腹凹む\n✔︎骨盤整う\n✔︎大転子撃退\n✔︎むくみ解消\n✔︎股関節ほぐれる\n⁡\n⁡\n一緒にぺた腹目指して引き締めていこう〜✊🏻\nやってみるよって方、コメントで教えてね✨\n⁡\n気軽にDMもまってるよ💌\n今週もお疲れさまぁ🫱🏻‍🫲🏼💓\n⁡\n⁡\n⁡\n❁⃘┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈❁⃘\n⁡\n　・172cm / max63kg → 48kg\n　・産後半年で−15kg\n　・細いだけではなく引き締まった\n　　身体を目指してトレーニング中\n　・1歳男の子👶🏻👶🏻双子ママ\n⁡\n　フォロー ☞ @fari_bodymake\n　いいねコメント励みになります🤍\n⁡\n　一緒にキレイなママになろっ🫶🏼\n⁡\n❁⃘┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈❁⃘\n⁡\n⁡\n#産後ダイエット#ダイエット\n#宅トレ#ボディメイク#お腹痩せ",
+   "hashtags": [
+    "産後ダイエット",
+    "ダイエット",
+    "宅トレ",
+    "ボディメイク",
+    "お腹痩せ"
+   ],
+   "thumb": "data/thumbs/instagram_DZhjB36CI8j.jpg",
+   "posted_at": "2026-06-13T11:26:05.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DaPzkT9hN1S": {
+   "id": "DaPzkT9hN1S",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DaPzkT9hN1S/",
+   "author": {
+    "handle": "kirei_factory_",
+    "followers": 214857
+   },
+   "metrics": {
+    "likes": 4924,
+    "views": 396792,
+    "comments": 11
+   },
+   "buzz_score": 0.02,
+   "caption": "✅ 1日3分でOK！🙆🏻‍♀️\nこの動きで二の腕がスッキリ❤️\n\nおうちでできる簡単エクササイズだから\nぜひ一緒にやってみてね👍🏻✨\n\n🌷 全部で3種目\n👉 各20回 × 3セット\n\n—\n\n他の投稿はこちら👇🏻\n@kirei_factory_ \n\n#二の腕痩せ #二の腕痩せトレーニング #腕痩せ #トレーニング #宅トレ",
+   "hashtags": [
+    "二の腕痩せ",
+    "二の腕痩せトレーニング",
+    "腕痩せ",
+    "トレーニング",
+    "宅トレ"
+   ],
+   "thumb": "data/thumbs/instagram_DaPzkT9hN1S.jpg",
+   "posted_at": "2026-07-01T10:30:10.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DX3v7CoOZ_I": {
+   "id": "DX3v7CoOZ_I",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DX3v7CoOZ_I/",
+   "author": {
+    "handle": "family_stretch",
+    "followers": 1111940
+   },
+   "metrics": {
+    "likes": 58184,
+    "views": 1210659,
+    "comments": 400
+   },
+   "buzz_score": 0.05,
+   "caption": "1 Minute Standing WORKOUT / No Equipment\n「保存」してあとでやってみましょう！\n\n肩甲骨を後ろに動かすように腕を振っていきましょう！\n\nこれだけでもスッキリしますよー🙌\nーーーーーーーーーーーーーーー\n\nこのアカウントは日常の運動習慣になるように夫婦で行っている体操法を紹介しております\n\n基本的に初心者用にしておりますが個人差があるので無理のない範囲で行っていきましょう\n\n慣れてくると徐々に増やしていけると良いですね\n\n食事管理も大切な要素なので合わせてご自身のペースで習慣化していきましょう♪\n\nそして幸せな生活が送れる未来をGETしましょう！\n\n一緒にストレッチを楽しめるfamilyになってもらえませんか？フォローよろしくお願いいたします☺↓\n@family_stretch\n\n【免責】\nfamilyストレッチで紹介される動画は万人に適していると限りません。また医療行為に代替するものでもありません。動画の内容によるケガや体調不良、その他損害について、当方は責任を負いかねます。ご心配な方は実践する前に医療期間専門家にご相談ください。\n\nーーーーーーーーーーーーーーーー\n\n#フィットネス\n#宅トレ\n#ストレッチ\n#運動習慣\n#肩甲骨",
+   "hashtags": [
+    "フィットネス",
+    "宅トレ",
+    "ストレッチ",
+    "運動習慣",
+    "肩甲骨"
+   ],
+   "thumb": "data/thumbs/instagram_DX3v7CoOZ_I.jpg",
+   "posted_at": "2026-05-03T09:14:31.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DX3u_KatQKV": {
+   "id": "DX3u_KatQKV",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DX3u_KatQKV/",
+   "author": {
+    "handle": "yuri__bodymake__",
+    "followers": 67961
+   },
+   "metrics": {
+    "likes": 7216,
+    "views": 879440,
+    "comments": 20
+   },
+   "buzz_score": 0.11,
+   "caption": "@yuri__bodymake__👈他の投稿はこちらから\n\n「鏡見るたび、顔のたるみが気になる･･･」\n「二重アゴやほうれい線が気になる･･･」\n「スッキリした小顔になりたい！」\nそんな顔のお悩みある人はこれやってみてね🔥\n顔の悩みをまとめてケアする小顔トレ4選✨\n\n特別な道具はいらないし\nスキマ時間でサクッとできるのに\nフェイスライン・二重アゴ・エラ・ほうれい線にしっかり効くよ☺️\n\n✅輪郭スッキリ\n　・鎖骨に手を置いて押さえるとストレッチが効く\n✅二重アゴ解消\n　・親指を顎下にセットして押し上げる\n✅エラ張りケア\n　・軽く円を描くようにやさしく動かす\n✅ほうれい線ケア\n　・大きくゆっくり動かすのがポイント\n\nお風呂の中やスキンケアのついでにやるのがオススメ✨\n\n特別なことじゃなくて\n毎日のちょっとした積み重ねで印象は変わるよ🔥\n\n理想の美ボディ一緒に目指そう🫶\n\nあとでやる人は【保存】がおすすめ✨\nやってみた方はコメントで教えてね🙌\n\n#宅トレ #小顔 #フェイスライン #二重あご #ほうれい線",
+   "hashtags": [
+    "宅トレ",
+    "小顔",
+    "フェイスライン",
+    "二重あご",
+    "ほうれい線"
+   ],
+   "thumb": "data/thumbs/instagram_DX3u_KatQKV.jpg",
+   "posted_at": "2026-05-03T09:06:41.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DaU6v2CipXx": {
+   "id": "DaU6v2CipXx",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DaU6v2CipXx/",
+   "author": {
+    "handle": "saaya_bodymake",
+    "followers": 52111
+   },
+   "metrics": {
+    "likes": 10268,
+    "views": 633544,
+    "comments": 39
+   },
+   "buzz_score": 0.2,
+   "caption": "@saaya_bodymake ◁ 13kg痩せた垢抜けボディメイクはこちら\n\n🔖忘れないように保存してね.ᐟ.ᐟ\n\nこんばんわ、さあやです🤍ˊ˗\n\n\\上半身痩せはコレ！激変トレ5選/\n\nそれぞれのトレを1日30回やるだけで、上半身痩せに効く✨\n他の部位への痩せ効果も期待できるので、ぜひチャレンジしてみてねっ.ᐟ.ᐟ\n\nやるぞ！って人は、「❤️‍🔥」とコメントしてね💌🕊️\n\n保存して一緒にやろうっ🔖🤍\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n他の投稿はこちら🪄✨\n@saaya_bodymake\n\nこのアカウントでは13kg痩せた垢抜けボディメイクについて発信してます⋆͛📢⋆\n\n『短期間でも痩せる宅トレが知りたい』\n『モデル体型をキープする方法が知りたい』\n『気軽にできて継続できる宅トレが知りたい』\n\n160cm53kg→40kgになった私がオススメする\n楽しみながら続けられるダイエット方法を紹介していきます🪞🩰\n『理想の綺麗な体型』に近づく自分を褒めながら\n自分史上最高のメリハリボディを手に入れませんか👗✨\n\n相談や質問はDM💌に！必ず返信します\nいいね・コメントも大歓迎です🎀🫧\nフォローはこちらから\n▷ @saaya_bodymake\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n#ボティメイク #宅トレ #ダイエット #脚痩せ #背中痩せ　",
+   "hashtags": [
+    "ボティメイク",
+    "宅トレ",
+    "ダイエット",
+    "脚痩せ",
+    "背中痩せ"
+   ],
+   "thumb": "data/thumbs/instagram_DaU6v2CipXx.jpg",
+   "posted_at": "2026-07-03T10:12:52.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DaSWEN0oqfD": {
+   "id": "DaSWEN0oqfD",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DaSWEN0oqfD/",
+   "author": {
+    "handle": "hiroruka_bodymake",
+    "followers": 12681
+   },
+   "metrics": {
+    "likes": 3019,
+    "views": 649341,
+    "comments": 14
+   },
+   "buzz_score": 0.24,
+   "caption": "@hiroruka_bodymake \n\n【下腹を本気で変えたい人へ🔥】\n\nこのトレーニングは、\n\n✔︎ くびれ作り\n✔︎ 下腹引き締め\n✔︎ 浮き輪肉対策\n✔︎ 体幹強化\n✔︎ メリハリボディ作り\n\nにおすすめ☺️\n\nトレーナー旦那からの一言💡\n\n① ローラーをまたぐ時は骨盤を動かさず、お腹で脚を引き上げよう✨\n\n② 腰を持ち上げる時は下腹をギュッと締める意識で✨\n\n③ 上体を起こす時は反動ではなくお腹の力で持ち上がろう✨\n\nくびれや下腹は、\n\nただ回数をこなすだけでは\nなかなか変わりません💦\n\n大切なのは、\n\nお腹に力を入れたまま\nコントロールして動くこと☺️\n\n続けることで、\n\n横腹から下腹までスッキリした\nメリハリラインに近づきます🍑✨\n\n動画を保存して、\n理想のくびれを一緒に目指そう☺️\n\n✦・┈┈┈┈┈┈┈┈┈┈ ・✦\n\n@hiroruka_bodymake\n\nトレーナー旦那監修✨\n\n・忙しくてもズボラでも続く宅トレ\n・美尻美脚ボディメイク\n・綺麗見え習慣\n・ダイエット・姿勢改善\n\nを発信しています🍑\n\n“妻”になっても\n綺麗でいたい人\nフォローして一緒に頑張ろ☺️\n\n✦・┈┈┈┈┈┈┈┈┈┈ ・✦\n\n#ボディメイク #宅トレ #ダイエット #下腹部痩せ #くびれ",
+   "hashtags": [
+    "ボディメイク",
+    "宅トレ",
+    "ダイエット",
+    "下腹部痩せ",
+    "くびれ"
+   ],
+   "thumb": "data/thumbs/instagram_DaSWEN0oqfD.jpg",
+   "posted_at": "2026-07-02T10:11:21.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DaEbQz2hJDy": {
+   "id": "DaEbQz2hJDy",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DaEbQz2hJDy/",
+   "author": {
+    "handle": "nemumu8067",
+    "followers": 18088
+   },
+   "metrics": {
+    "likes": 3119,
+    "views": 297463,
+    "comments": 57
+   },
+   "buzz_score": 0.17,
+   "caption": "朝筋トレやらないのもったいない！バトル🙅🏻‍♀️\n\n#ダイエット #宅トレ #お腹痩せ #痩せる方法",
+   "hashtags": [
+    "ダイエット",
+    "宅トレ",
+    "お腹痩せ",
+    "痩せる方法"
+   ],
+   "thumb": "data/thumbs/instagram_DaEbQz2hJDy.jpg",
+   "posted_at": "2026-06-27T00:26:59.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DVqGxroATdQ": {
+   "id": "DVqGxroATdQ",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DVqGxroATdQ/",
+   "author": {
+    "handle": "taichishizuka",
+    "followers": 97007
+   },
+   "metrics": {
+    "likes": 19036,
+    "views": 1417524,
+    "comments": 51
+   },
+   "buzz_score": 0.2,
+   "caption": "長時間座りっぱなしはNG！朝晩に少しジャンプして体を動かしましょう✨\nいいね＆フォローして、もっと健康のコツをチェックしよう！👍\n\n#自宅トレーニング #誰でもできる運動 #フィットネス #健康習慣 #毎日運動",
+   "hashtags": [
+    "自宅トレーニング",
+    "誰でもできる運動",
+    "フィットネス",
+    "健康習慣",
+    "毎日運動"
+   ],
+   "thumb": "data/thumbs/instagram_DVqGxroATdQ.jpg",
+   "posted_at": "2026-03-09T09:01:47.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DVJEhTVCX0w": {
+   "id": "DVJEhTVCX0w",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DVJEhTVCX0w/",
+   "author": {
+    "handle": "suzu.tsugu",
+    "followers": 36532
+   },
+   "metrics": {
+    "likes": 5268,
+    "views": 3852160,
+    "comments": 133
+   },
+   "buzz_score": 0.14,
+   "caption": "垢抜け高校生ver\n\n質問をいただいた\n「フィットネスを好きになったきっかけ」について。\n\n本気で好きになったきっかけは、高校時代。\n\n私は新しい人生を歩みたくて、\n中学の知り合いが誰もいない高校を選んだ。\n\n当時はまだ、アザがある自分に自信がなくて、\nそれをきっかけにいじめられるのが怖かったし、\n自分のことを心から好きになれなかった。\n\nでも高校に入って、\n新しい友達ができて、\n誰も私をいじめなくて。\n\nむしろ\n「元気いっぱいなところが好き」って\n言ってくれる友達もたくさんできて、\nすごく心地よかった。\n\n高校2年生の時、\nたまたま話した子と意気投合して\nずっとやりたかったチアダンス部を\n作ろうってことになった。\n\n私はチアダンス未経験だったし、\n周りはみんな不可能と思っていたかもしれない。\nでもやる気だけはあった。\n\nそんな矢先のコロナ。\n\nでも諦めずに、コロナ期間、それぞれで練習して\n学校が再開した時に先生に練習した成果を見せて\n「部活を作らせてください」ってお願いした。\n\n場所も顧問もいないから無理って言われたけど、\n何度もお願いして、\nダンス部の中にチアダンス部門を\n作らせてもらえた。\n\nそこから外部でダンスやバレエも習って、\n四六時中チアダンスのことばかり考えてた。\n\n夢中になるにつれて、\n自分がどんどん変わっていった。\n\n私には無理って思ってたことも\n「できるかもしれない」って思えるようになった。\n\nアザがある私は可愛くない。\n↓\n可愛くなれるかもしれない。\n↓\n可愛くなるための努力をした。\n\nモデルにはなれない。\n↓\nなれるかもしれない。\n↓\n筋トレを始めた。\n\nそうやって何事も前向きに挑戦しているうちに、\n気づいたら垢抜けてた。\n\nそしてチアダンスを通して、\n何かに夢中になるって\nこんなに楽しいんだって初めて知った。\n\n同時に、\n私はこんなにフィットネスが好きなんだって\n気づいた。\n\nその時、\nトレーナーになろうって決めた。\n\nフィットネスの楽しさを\nもっと多くの人に伝えたい。\n\n昔の私みたいに\n自信が持てない人に、\n自信を持つきっかけを届けたい。\n\n高校の3年間は\n今の私を作った本当に大切な時間。\n\n今もどんどん\nフィットネスが好きになってる。\n\nこれからももっと成長するし、\nもっと垢抜ける。\n\n#おすすめ#垢抜け#jk#自分磨き#フィットネス",
+   "hashtags": [
+    "おすすめ",
+    "垢抜け",
+    "jk",
+    "自分磨き",
+    "フィットネス"
+   ],
+   "thumb": "data/thumbs/instagram_DVJEhTVCX0w.jpg",
+   "posted_at": "2026-02-24T13:10:15.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DU-bHKdE3-9": {
+   "id": "DU-bHKdE3-9",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DU-bHKdE3-9/",
+   "author": {
+    "handle": "masaru_hinokida",
+    "followers": 30301
+   },
+   "metrics": {
+    "likes": 6966,
+    "views": 3703230,
+    "comments": 154
+   },
+   "buzz_score": 0.23,
+   "caption": "#優陽君 #kiwamikickboxingteam #キックボクシング #トレーニング #フィットネス",
+   "hashtags": [
+    "優陽君",
+    "kiwamikickboxingteam",
+    "キックボクシング",
+    "トレーニング",
+    "フィットネス"
+   ],
+   "thumb": "data/thumbs/instagram_DU-bHKdE3-9.jpg",
+   "posted_at": "2026-02-20T09:53:19.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DU5jUGtk56t": {
+   "id": "DU5jUGtk56t",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DU5jUGtk56t/",
+   "author": {
+    "handle": "yurika_cocochii",
+    "followers": 130897
+   },
+   "metrics": {
+    "likes": 2377,
+    "views": 184805,
+    "comments": 14
+   },
+   "buzz_score": 0.02,
+   "caption": "とっても元気なお2人との朝ランは\nエネルギーチャージの時間🌞✨\n\nこの日は3人で @cocochiiclub パーカー着たよ🍒\n\nどんどん余裕で走れるようになってて\n毎回驚かされる😳\n身近な人が運動を楽しんで続けている姿を見ると\nとっても嬉しい✨\n\n#ランニング #朝ラン #フィットネス",
+   "hashtags": [
+    "ランニング",
+    "朝ラン",
+    "フィットネス"
+   ],
+   "thumb": "data/thumbs/instagram_DU5jUGtk56t.jpg",
+   "posted_at": "2026-02-18T12:28:21.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DVW754CiAuN": {
+   "id": "DVW754CiAuN",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DVW754CiAuN/",
+   "author": {
+    "handle": "kosuke_physique",
+    "followers": 14237
+   },
+   "metrics": {
+    "likes": 36922,
+    "views": 4872279,
+    "comments": 184
+   },
+   "buzz_score": 2.59,
+   "caption": "視線の理由　#筋トレ #フィットネス #海外 #ボディビル #マッチョ",
+   "hashtags": [
+    "筋トレ",
+    "フィットネス",
+    "海外",
+    "ボディビル",
+    "マッチョ"
+   ],
+   "thumb": "data/thumbs/instagram_DVW754CiAuN.jpg",
+   "posted_at": "2026-03-01T22:21:14.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DU7v0DCEnXp": {
+   "id": "DU7v0DCEnXp",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DU7v0DCEnXp/",
+   "author": {
+    "handle": "shin_onoda",
+    "followers": 281717
+   },
+   "metrics": {
+    "likes": 6179,
+    "views": 798945,
+    "comments": 63
+   },
+   "buzz_score": 0.02,
+   "caption": "だから無理っ！頑張ったけど🥲\n.\n.\n.\n#フィットネス #チャレンジ #モビリティ",
+   "hashtags": [
+    "フィットネス",
+    "チャレンジ",
+    "モビリティ"
+   ],
+   "thumb": "data/thumbs/instagram_DU7v0DCEnXp.jpg",
+   "posted_at": "2026-02-19T08:55:53.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DXRLnOHE2nd": {
+   "id": "DXRLnOHE2nd",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DXRLnOHE2nd/",
+   "author": {
+    "handle": "sho_imakoga",
+    "followers": 215332
+   },
+   "metrics": {
+    "likes": 4625,
+    "views": 410447,
+    "comments": 20
+   },
+   "buzz_score": 0.02,
+   "caption": "最も優れている上腕三頭筋の種目は？\n#筋トレ #フィットネス",
+   "hashtags": [
+    "筋トレ",
+    "フィットネス"
+   ],
+   "thumb": "data/thumbs/instagram_DXRLnOHE2nd.jpg",
+   "posted_at": "2026-04-18T09:46:37.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DXQfkvRR6Zs": {
+   "id": "DXQfkvRR6Zs",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DXQfkvRR6Zs/",
+   "author": {
+    "handle": "nne_aug.i4",
+    "followers": 29412
+   },
+   "metrics": {
+    "likes": 1773,
+    "views": 82879,
+    "comments": 29
+   },
+   "buzz_score": 0.06,
+   "caption": "華金に、私の念願のナイトランニング🌙\n\n夜景見ながら走ってなんか得した気分✨✨\n友達とゆるゆるランニングだったけどめっちゃ楽しかった！！！\n\n#フィットネス #ランニング #ヘルスケア #豊洲 #看護師",
+   "hashtags": [
+    "フィットネス",
+    "ランニング",
+    "ヘルスケア",
+    "豊洲",
+    "看護師"
+   ],
+   "thumb": "data/thumbs/instagram_DXQfkvRR6Zs.jpg",
+   "posted_at": "2026-04-18T03:22:56.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DXtvz8sEbs1": {
+   "id": "DXtvz8sEbs1",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DXtvz8sEbs1/",
+   "author": {
+    "handle": "taichi.komorebi",
+    "followers": 45710
+   },
+   "metrics": {
+    "likes": 1509,
+    "views": 145114,
+    "comments": 37
+   },
+   "buzz_score": 0.03,
+   "caption": "もっと役立つエクササイズを知りたい方は ❤️ を送ってください！ #エクササイズ #健康習慣 #宅トレ #トレーニング #フィットネス",
+   "hashtags": [
+    "エクササイズ",
+    "健康習慣",
+    "宅トレ",
+    "トレーニング",
+    "フィットネス"
+   ],
+   "thumb": "data/thumbs/instagram_DXtvz8sEbs1.jpg",
+   "posted_at": "2026-04-29T12:00:53.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "instagram_DXJo7hTk7Mq": {
+   "id": "DXJo7hTk7Mq",
+   "platform": "instagram",
+   "genre": "fitness",
+   "url": "https://www.instagram.com/p/DXJo7hTk7Mq/",
+   "author": {
+    "handle": "taistagram2",
+    "followers": 12024
+   },
+   "metrics": {
+    "likes": 2268,
+    "views": 139919,
+    "comments": 14
+   },
+   "buzz_score": 0.19,
+   "caption": "やるの一択💪🔥\n#やるの一択🔥 #筋トレ #フィットネス",
+   "hashtags": [
+    "やるの一択🔥",
+    "筋トレ",
+    "フィットネス"
+   ],
+   "thumb": "data/thumbs/instagram_DXJo7hTk7Mq.jpg",
+   "posted_at": "2026-04-15T11:28:27.000Z",
+   "collected_at": "2026-07-14T18:42:44+09:00",
+   "source": "apify"
+  },
+  "tiktok_7660863476209863944": {
+   "id": "7660863476209863944",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@jasmine.emio/video/7660863476209863944",
+   "author": {
+    "handle": "jasmine.emio",
+    "followers": 30800
+   },
+   "metrics": {
+    "likes": 6685,
+    "views": 370600,
+    "comments": 49
+   },
+   "buzz_score": 12.03,
+   "caption": "流行りのやつ、本気で燃やしてみた🥒🔥\n見た目より速くて全身使う🤣\n\nできた人は🥒🔥で教えてね！\n＿＿＿\n#エアロピクルス #ダンスエクササイズ #宅トレ #全身運動",
+   "hashtags": [
+    "エアロピクルス",
+    "ダンスエクササイズ",
+    "宅トレ",
+    "全身運動"
+   ],
+   "thumb": "data/thumbs/tiktok_7660863476209863944.jpg",
+   "posted_at": "2026-07-10T11:43:01.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7656823828919766294": {
+   "id": "7656823828919766294",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@yukie3311/video/7656823828919766294",
+   "author": {
+    "handle": "yukie3311",
+    "followers": 4629
+   },
+   "metrics": {
+    "likes": 18600,
+    "views": 1000000,
+    "comments": 137
+   },
+   "buzz_score": 216.03,
+   "caption": "44歳、3児のママが流行りのトレーニングに挑戦してみたよ！正直に言うと…最初は全然できなくて、足がガクガクになっちゃった😅普段から運動してるのに「え？こんなに跳べないの？」ってちょっとショックだったけど、やっぱりできた時の達成感がすごい！✨キツい運動よりも、自分が楽しく続けられるのが一番だよね💖明日も遠足に行けるかな？って思うくらい足がヘトヘトになっちゃったけど、最後まで一緒に見てくれてありがとう😊みんなはこのトレーニングできた？ぜひコメントで教えてね〜！😆💕 #bodymake #自宅でのトレーニング #体型を維持する #自宅でできる #腹筋運動 #宅トレ #自宅でできる腹筋運動",
+   "hashtags": [
+    "bodymake",
+    "自宅でのトレーニング",
+    "体型を維持する",
+    "自宅でできる",
+    "腹筋運動",
+    "宅トレ",
+    "自宅でできる腹筋運動"
+   ],
+   "thumb": "data/thumbs/tiktok_7656823828919766294.jpg",
+   "posted_at": "2026-06-30T07:30:00.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661968740979969298": {
+   "id": "7661968740979969298",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@kamiren.muscle1999/video/7661968740979969298",
+   "author": {
+    "handle": "kamiren.muscle1999",
+    "followers": 365800
+   },
+   "metrics": {
+    "likes": 356,
+    "views": 7029,
+    "comments": 7
+   },
+   "buzz_score": 0.02,
+   "caption": "腹筋トレーニング5種目3セット！\n\n#腹筋#宅トレ#abs\n#absworkout#absworkoutchallenge ",
+   "hashtags": [
+    "腹筋",
+    "宅トレ",
+    "abs",
+    "absworkout",
+    "absworkoutchallenge"
+   ],
+   "thumb": "data/thumbs/tiktok_7661968740979969298.jpg",
+   "posted_at": "2026-07-13T11:12:04.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7575514009462476039": {
+   "id": "7575514009462476039",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@sakidori_/video/7575514009462476039",
+   "author": {
+    "handle": "sakidori_",
+    "followers": 1535
+   },
+   "metrics": {
+    "likes": 22,
+    "views": 2298,
+    "comments": 0
+   },
+   "buzz_score": 1.5,
+   "caption": "宅トレしてる人は必見！\n\n#ランキング #商品紹介 #トレーニング #宅トレ ",
+   "hashtags": [
+    "ランキング",
+    "商品紹介",
+    "トレーニング",
+    "宅トレ"
+   ],
+   "thumb": "data/thumbs/tiktok_7575514009462476039.jpg",
+   "posted_at": "2025-11-22T11:43:28.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7659700973811551495": {
+   "id": "7659700973811551495",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@kamiren.muscle1999/video/7659700973811551495",
+   "author": {
+    "handle": "kamiren.muscle1999",
+    "followers": 365800
+   },
+   "metrics": {
+    "likes": 346,
+    "views": 8721,
+    "comments": 14
+   },
+   "buzz_score": 0.02,
+   "caption": "宅トレ腹筋5種目!!\n20秒＋10秒\n\n#腹筋#宅トレ#absworkout \n#absworkoutchallenge \n#absworkouthome ",
+   "hashtags": [
+    "腹筋",
+    "宅トレ",
+    "absworkout",
+    "absworkoutchallenge",
+    "absworkouthome"
+   ],
+   "thumb": "data/thumbs/tiktok_7659700973811551495.jpg",
+   "posted_at": "2026-07-07T10:54:00.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661555195112901895": {
+   "id": "7661555195112901895",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@kamiren.muscle1999/video/7661555195112901895",
+   "author": {
+    "handle": "kamiren.muscle1999",
+    "followers": 365800
+   },
+   "metrics": {
+    "likes": 377,
+    "views": 6998,
+    "comments": 10
+   },
+   "buzz_score": 0.02,
+   "caption": "1分腹筋トレーニング\n\n#宅トレ#腹筋#absworkout\n#absworkoutchallenge \n#absworkouthome ",
+   "hashtags": [
+    "宅トレ",
+    "腹筋",
+    "absworkout",
+    "absworkoutchallenge",
+    "absworkouthome"
+   ],
+   "thumb": "data/thumbs/tiktok_7661555195112901895.jpg",
+   "posted_at": "2026-07-12T10:50:00.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7650370810028264726": {
+   "id": "7650370810028264726",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@yukie3311/video/7650370810028264726",
+   "author": {
+    "handle": "yukie3311",
+    "followers": 4629
+   },
+   "metrics": {
+    "likes": 2742,
+    "views": 101400,
+    "comments": 7
+   },
+   "buzz_score": 21.91,
+   "caption": "今すぐ私と一緒にやってみませんか？一緒に踊って楽しんでください。きっと変化を実感できるはずです！ #bodymake #自宅でのトレーニング #体型を維持する #自宅でできる #腹筋運動 #宅トレ #自宅でできる腹筋運動",
+   "hashtags": [
+    "bodymake",
+    "自宅でのトレーニング",
+    "体型を維持する",
+    "自宅でできる",
+    "腹筋運動",
+    "宅トレ",
+    "自宅でできる腹筋運動"
+   ],
+   "thumb": "data/thumbs/tiktok_7650370810028264726.jpg",
+   "posted_at": "2026-06-12T05:06:20.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7654968262127668498": {
+   "id": "7654968262127668498",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@usutsubu_ap/video/7654968262127668498",
+   "author": {
+    "handle": "usutsubu_ap",
+    "followers": 572
+   },
+   "metrics": {
+    "likes": 1037,
+    "views": 28600,
+    "comments": 34
+   },
+   "buzz_score": 50.0,
+   "caption": "在宅勤務で一歩も外出ず\n#宅トレ \n#ボディメイク\n#筋トレ \n#筋トレ女子 ",
+   "hashtags": [
+    "宅トレ",
+    "ボディメイク",
+    "筋トレ",
+    "筋トレ女子"
+   ],
+   "thumb": "data/thumbs/tiktok_7654968262127668498.jpg",
+   "posted_at": "2026-06-24T14:26:33.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7640014410932636944": {
+   "id": "7640014410932636944",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@akz13_7/video/7640014410932636944",
+   "author": {
+    "handle": "akz13_7",
+    "followers": 12500
+   },
+   "metrics": {
+    "likes": 502,
+    "views": 16100,
+    "comments": 6
+   },
+   "buzz_score": 1.29,
+   "caption": "全身運動で痩せよう！初心者向けのスポーツリズムトレーニング♪※四角の線は見やすいように引いてるだけで無くても大丈夫！ダンスやスポーツやってる人にもオススメ！！ #ダイエット #宅トレ #家トレ ",
+   "hashtags": [
+    "ダイエット",
+    "宅トレ",
+    "家トレ"
+   ],
+   "thumb": "data/thumbs/tiktok_7640014410932636944.jpg",
+   "posted_at": "2026-05-15T07:18:42.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7659352610880687376": {
+   "id": "7659352610880687376",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@fuuko_228body/video/7659352610880687376",
+   "author": {
+    "handle": "fuuko_228body",
+    "followers": 349
+   },
+   "metrics": {
+    "likes": 4444,
+    "views": 129200,
+    "comments": 130
+   },
+   "buzz_score": 370.2,
+   "caption": "こんにちは『ふうこ』です🌱\n88歳母\n毎日のストレッチが凄くて\nいつもびっくりします。\n\nまっすぐ歩く綺麗な姿勢✨\n歩けることは生きる力\n小さな積み重ねをコツコツが大切です\n\n私は壁を使って無理なくできる宅トレしました👣\n\n壁に支えてもらうと\nふらつきが不安な日でも\n安心して体を動かしやすいです🍀\n\n胸・腕・股関節・太もも・お尻をゆっくり使って\n最後はストレッチで整えます。\n\nゆらゆら動かすことで股関節まわりがゆるみやすくなって、\n一歩が出やすい体づくりにもつながります✨\n#60代 #宅トレ #健康習慣",
+   "hashtags": [
+    "60代",
+    "宅トレ",
+    "健康習慣"
+   ],
+   "thumb": "data/thumbs/tiktok_7659352610880687376.jpg",
+   "posted_at": "2026-07-06T10:00:56.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7659328320764415253": {
+   "id": "7659328320764415253",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@userlloo1707/video/7659328320764415253",
+   "author": {
+    "handle": "userlloo1707",
+    "followers": 18
+   },
+   "metrics": {
+    "likes": 33,
+    "views": 10700,
+    "comments": 0
+   },
+   "buzz_score": 594.44,
+   "caption": "仕事終わりは家でリセット\n#宅トレ #筋トレ初心者 #運動不足解消 #おうち時間 #フィットネス   ",
+   "hashtags": [
+    "宅トレ",
+    "筋トレ初心者",
+    "運動不足解消",
+    "おうち時間",
+    "フィットネス"
+   ],
+   "thumb": "data/thumbs/tiktok_7659328320764415253.jpg",
+   "posted_at": "2026-07-06T08:25:49.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7598275560225164566": {
+   "id": "7598275560225164566",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@user9347186380054/video/7598275560225164566",
+   "author": {
+    "handle": "user9347186380054",
+    "followers": 102
+   },
+   "metrics": {
+    "likes": 12300,
+    "views": 344400,
+    "comments": 3
+   },
+   "buzz_score": 3376.47,
+   "caption": "ジム要らずのダンベル宅トレ",
+   "hashtags": [],
+   "thumb": "data/thumbs/tiktok_7598275560225164566.jpg",
+   "posted_at": "2026-01-22T19:49:53.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7141558901584989442": {
+   "id": "7141558901584989442",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@ekuro_diet/video/7141558901584989442",
+   "author": {
+    "handle": "ekuro_diet",
+    "followers": 5357
+   },
+   "metrics": {
+    "likes": 56,
+    "views": 4620,
+    "comments": 0
+   },
+   "buzz_score": 0.86,
+   "caption": "毎日お家トレ投稿してます🏠#家トレ #宅トレ ",
+   "hashtags": [
+    "家トレ",
+    "宅トレ"
+   ],
+   "thumb": "data/thumbs/tiktok_7141558901584989442.jpg",
+   "posted_at": "2022-09-10T01:36:07.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7325398238649928961": {
+   "id": "7325398238649928961",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@sho_lil/video/7325398238649928961",
+   "author": {
+    "handle": "sho_lil",
+    "followers": 34900
+   },
+   "metrics": {
+    "likes": 926,
+    "views": 44900,
+    "comments": 11
+   },
+   "buzz_score": 1.29,
+   "caption": "ベンチよりこれをやれ！\n\n師匠　@tomomo_fitness 様\nインスパイアさせていただいております\n\n#筋トレ  \n#宅トレ先生 \n#宅トレ  \n#1分宅トレ",
+   "hashtags": [
+    "筋トレ",
+    "宅トレ先生",
+    "宅トレ",
+    "1分宅トレ"
+   ],
+   "thumb": "data/thumbs/tiktok_7325398238649928961.jpg",
+   "posted_at": "2024-01-18T11:27:21.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661189442987756820": {
+   "id": "7661189442987756820",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@taiyo_fit/video/7661189442987756820",
+   "author": {
+    "handle": "taiyo_fit",
+    "followers": 69700
+   },
+   "metrics": {
+    "likes": 1814,
+    "views": 48500,
+    "comments": 79
+   },
+   "buzz_score": 0.7,
+   "caption": "筋トレ歴1年未満でペックフライ50kg以上でやってるやつ\nバルク足りてねぇ可能性があるぞ！",
+   "hashtags": [],
+   "thumb": "data/thumbs/tiktok_7661189442987756820.jpg",
+   "posted_at": "2026-07-11T08:47:58.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661919638908996884": {
+   "id": "7661919638908996884",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@taiyo_fit/video/7661919638908996884",
+   "author": {
+    "handle": "taiyo_fit",
+    "followers": 69700
+   },
+   "metrics": {
+    "likes": 968,
+    "views": 23700,
+    "comments": 29
+   },
+   "buzz_score": 0.34,
+   "caption": "筋トレ歴1年未満の人におすすめの種目伝えていきます！",
+   "hashtags": [],
+   "thumb": "data/thumbs/tiktok_7661919638908996884.jpg",
+   "posted_at": "2026-07-13T08:01:31.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661992825768152341": {
+   "id": "7661992825768152341",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@setokan_/video/7661992825768152341",
+   "author": {
+    "handle": "setokan_",
+    "followers": 26900
+   },
+   "metrics": {
+    "likes": 382,
+    "views": 9943,
+    "comments": 11
+   },
+   "buzz_score": 0.37,
+   "caption": "瀬戸環奈筋トレまとめ🏋️\n夏は筋トレ💪💪🌊\n【瀬戸環奈official YouTube切り抜き】\n#瀬戸環奈 #せとかん#筋トレ #ジム #トレーニング ",
+   "hashtags": [
+    "瀬戸環奈",
+    "せとかん",
+    "筋トレ",
+    "ジム",
+    "トレーニング"
+   ],
+   "thumb": "data/thumbs/tiktok_7661992825768152341.jpg",
+   "posted_at": "2026-07-13T12:45:26.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7660010252863032596": {
+   "id": "7660010252863032596",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@noawithnoh/video/7660010252863032596",
+   "author": {
+    "handle": "noawithnoh",
+    "followers": 105500
+   },
+   "metrics": {
+    "likes": 2419,
+    "views": 41900,
+    "comments": 18
+   },
+   "buzz_score": 0.4,
+   "caption": "Replying to @p(wwwmmmmmm 今日の筋トレこんな感じ #noawithnoh #fyp #筋トレ ",
+   "hashtags": [
+    "noawithnoh",
+    "fyp",
+    "筋トレ"
+   ],
+   "thumb": "data/thumbs/tiktok_7660010252863032596.jpg",
+   "posted_at": "2026-07-08T04:32:03.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7659702726837751061": {
+   "id": "7659702726837751061",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@taiyo_fit/video/7659702726837751061",
+   "author": {
+    "handle": "taiyo_fit",
+    "followers": 69700
+   },
+   "metrics": {
+    "likes": 1941,
+    "views": 48000,
+    "comments": 116
+   },
+   "buzz_score": 0.69,
+   "caption": "筋トレ歴1年未満で毎日筋トレしてるやつ\nバルク足りすぎてんだろ⭐️",
+   "hashtags": [],
+   "thumb": "data/thumbs/tiktok_7659702726837751061.jpg",
+   "posted_at": "2026-07-07T08:38:47.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7654198227549605141": {
+   "id": "7654198227549605141",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@lucasbblux/video/7654198227549605141",
+   "author": {
+    "handle": "lucasbblux",
+    "followers": 84200
+   },
+   "metrics": {
+    "likes": 34200,
+    "views": 616700,
+    "comments": 134
+   },
+   "buzz_score": 7.32,
+   "caption": "音楽なしで筋トレする人ってやっぱサイ◯パスだよな🤔 #洋楽 #ヒップホップ好きと繋がりたい #おすすめ #筋トレ男子 #パンプアップ ",
+   "hashtags": [
+    "洋楽",
+    "ヒップホップ好きと繋がりたい",
+    "おすすめ",
+    "筋トレ男子",
+    "パンプアップ"
+   ],
+   "thumb": "data/thumbs/tiktok_7654198227549605141.jpg",
+   "posted_at": "2026-06-22T12:38:25.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7621133425302375701": {
+   "id": "7621133425302375701",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@taiyo_fit/video/7621133425302375701",
+   "author": {
+    "handle": "taiyo_fit",
+    "followers": 69700
+   },
+   "metrics": {
+    "likes": 4112,
+    "views": 107300,
+    "comments": 107
+   },
+   "buzz_score": 1.54,
+   "caption": "胸トレで腰痛めてるやつ\nバルク足りてねぇぞ⭐️\n#筋トレ #gym ",
+   "hashtags": [
+    "筋トレ",
+    "gym"
+   ],
+   "thumb": "data/thumbs/tiktok_7621133425302375701.jpg",
+   "posted_at": "2026-03-25T10:10:20.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7650803942196006151": {
+   "id": "7650803942196006151",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@hacogym/video/7650803942196006151",
+   "author": {
+    "handle": "hacogym",
+    "followers": 106700
+   },
+   "metrics": {
+    "likes": 3190,
+    "views": 92300,
+    "comments": 40
+   },
+   "buzz_score": 0.87,
+   "caption": "体重はあまり落ちません！ \n\n#ハコジム #ダイエット #筋トレ #個室ジム",
+   "hashtags": [
+    "ハコジム",
+    "ダイエット",
+    "筋トレ",
+    "個室ジム"
+   ],
+   "thumb": "data/thumbs/tiktok_7650803942196006151.jpg",
+   "posted_at": "2026-06-13T09:06:53.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7639993027372633375": {
+   "id": "7639993027372633375",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@future_olympia/video/7639993027372633375",
+   "author": {
+    "handle": "future_olympia",
+    "followers": 23800
+   },
+   "metrics": {
+    "likes": 3101,
+    "views": 61000,
+    "comments": 36
+   },
+   "buzz_score": 2.56,
+   "caption": "胸筋つけるに1番なのが必ずしもベンチではないです！#おすすめ #筋トレ #ジム ",
+   "hashtags": [
+    "おすすめ",
+    "筋トレ",
+    "ジム"
+   ],
+   "thumb": "data/thumbs/tiktok_7639993027372633375.jpg",
+   "posted_at": "2026-05-15T05:55:35.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7338375220719357185": {
+   "id": "7338375220719357185",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@sho_imakoga/video/7338375220719357185",
+   "author": {
+    "handle": "sho_imakoga",
+    "followers": 198800
+   },
+   "metrics": {
+    "likes": 85200,
+    "views": 2500000,
+    "comments": 623
+   },
+   "buzz_score": 12.58,
+   "caption": "正しいラットプルダウン4つのポイント\n#筋トレ #フィットネス #広背筋 #背中 ",
+   "hashtags": [
+    "筋トレ",
+    "フィットネス",
+    "広背筋",
+    "背中"
+   ],
+   "thumb": "data/thumbs/tiktok_7338375220719357185.jpg",
+   "posted_at": "2024-02-22T10:43:58.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7661434479432568086": {
+   "id": "7661434479432568086",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@im0_fan/video/7661434479432568086",
+   "author": {
+    "handle": "im0_fan",
+    "followers": 11600
+   },
+   "metrics": {
+    "likes": 1049,
+    "views": 89600,
+    "comments": 16
+   },
+   "buzz_score": 7.72,
+   "caption": "瀬戸環奈、お兄ちゃんと筋トレする💪",
+   "hashtags": [],
+   "thumb": "data/thumbs/tiktok_7661434479432568086.jpg",
+   "posted_at": "2026-07-12T00:38:55.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7645466373749050645": {
+   "id": "7645466373749050645",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@nanaemnj/video/7645466373749050645",
+   "author": {
+    "handle": "nanaemnj",
+    "followers": 60900
+   },
+   "metrics": {
+    "likes": 3621,
+    "views": 151700,
+    "comments": 71
+   },
+   "buzz_score": 2.49,
+   "caption": "私はHYROX に出場しないのに、\nこのトレーニングが好きなのは\n頭おかしいのか？\n\n#hyrox #ハイロックス #トレーニング #仕事終わり #筋トレ",
+   "hashtags": [
+    "hyrox",
+    "ハイロックス",
+    "トレーニング",
+    "仕事終わり",
+    "筋トレ"
+   ],
+   "thumb": "data/thumbs/tiktok_7645466373749050645.jpg",
+   "posted_at": "2026-05-29T23:54:32.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7628196777165982984": {
+   "id": "7628196777165982984",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@hacogym/video/7628196777165982984",
+   "author": {
+    "handle": "hacogym",
+    "followers": 106700
+   },
+   "metrics": {
+    "likes": 4421,
+    "views": 171900,
+    "comments": 41
+   },
+   "buzz_score": 1.61,
+   "caption": "有酸素運動は筋トレ前後、どちらがいい？ \n\n#ハコジム #ジム #ダイエット #筋トレ #トレーニング ",
+   "hashtags": [
+    "ハコジム",
+    "ジム",
+    "ダイエット",
+    "筋トレ",
+    "トレーニング"
+   ],
+   "thumb": "data/thumbs/tiktok_7628196777165982984.jpg",
+   "posted_at": "2026-04-13T10:59:30.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7660380621490932999": {
+   "id": "7660380621490932999",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@kamikura_family/video/7660380621490932999",
+   "author": {
+    "handle": "kamikura_family",
+    "followers": 10300
+   },
+   "metrics": {
+    "likes": 1350,
+    "views": 314400,
+    "comments": 37
+   },
+   "buzz_score": 30.52,
+   "caption": "@じじはに返信 \nはうっ！！！！ってなります😂\n腹筋鍛える練習に丁度良い💪\n\nこれが鉄のダンベルだったら…😱\n\n#メディシンボール #全身運動 #筋トレ #安全 #オススメ ",
+   "hashtags": [
+    "メディシンボール",
+    "全身運動",
+    "筋トレ",
+    "安全",
+    "オススメ"
+   ],
+   "thumb": "data/thumbs/tiktok_7660380621490932999.jpg",
+   "posted_at": "2026-07-09T09:00:00.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7598850973414477063": {
+   "id": "7598850973414477063",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@nachi_365diary/video/7598850973414477063",
+   "author": {
+    "handle": "nachi_365diary",
+    "followers": 21900
+   },
+   "metrics": {
+    "likes": 5406,
+    "views": 544400,
+    "comments": 103
+   },
+   "buzz_score": 24.86,
+   "caption": "脚開く時一緒に口開くのムリ😂😂😂\n⁡\n#やってみて 🫰❤️\n#筋トレ #パーソナルトレーナー #トレーニング #筋トレ女子",
+   "hashtags": [
+    "やってみて",
+    "筋トレ",
+    "パーソナルトレーナー",
+    "トレーニング",
+    "筋トレ女子"
+   ],
+   "thumb": "data/thumbs/tiktok_7598850973414477063.jpg",
+   "posted_at": "2026-01-24T09:02:46.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7632671000534060306": {
+   "id": "7632671000534060306",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@gymcity6/video/7632671000534060306",
+   "author": {
+    "handle": "gymcity6",
+    "followers": 1914
+   },
+   "metrics": {
+    "likes": 15400,
+    "views": 379100,
+    "comments": 67
+   },
+   "buzz_score": 198.07,
+   "caption": "ぷりっとお尻作りたいならこれ！\nルーマニアンデッドリフトで境目くっきりさせよ🍑\n\n境目ができるだけでスタイルがぐっとアップします❤️‍🔥\n\n保存してやってみてください🫶🏻\n\n#筋トレ #筋トレ女子 #尻トレ #RDL #GYMCITY \n\n@AIRI \n・\n・\n・\n・\n\n📍GYM CITY 千歳\n〒066-0075\n北海道千歳市北信濃867-1ランドブレイン千歳モール\n☎️0123-29-6373",
+   "hashtags": [
+    "筋トレ",
+    "筋トレ女子",
+    "尻トレ",
+    "rdl",
+    "gymcity"
+   ],
+   "thumb": "data/thumbs/tiktok_7632671000534060306.jpg",
+   "posted_at": "2026-04-25T12:21:47.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7624469517615254802": {
+   "id": "7624469517615254802",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@ryoto.tr/video/7624469517615254802",
+   "author": {
+    "handle": "ryoto.tr",
+    "followers": 41600
+   },
+   "metrics": {
+    "likes": 1102,
+    "views": 51400,
+    "comments": 27
+   },
+   "buzz_score": 1.24,
+   "caption": "これが出来れば筋トレ革命が起きる。\n#筋肉ネタ #筋トレ女子 #トレーニー #ジムあるある ",
+   "hashtags": [
+    "筋肉ネタ",
+    "筋トレ女子",
+    "トレーニー",
+    "ジムあるある"
+   ],
+   "thumb": "data/thumbs/tiktok_7624469517615254802.jpg",
+   "posted_at": "2026-04-03T09:55:49.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7659005282361675016": {
+   "id": "7659005282361675016",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@sawa_diet0/video/7659005282361675016",
+   "author": {
+    "handle": "sawa_diet0",
+    "followers": 5614
+   },
+   "metrics": {
+    "likes": 515,
+    "views": 16100,
+    "comments": 26
+   },
+   "buzz_score": 2.87,
+   "caption": "100日記録　89日目⭐️\n\nフレンチプレス4kg 15回×３セット\nバイシクルクランチとプランクツイスト\n傾斜ウォーキング　25分もやりました🫡✨\n\n皆さん夏までもう少しです💪！\n\n#筋トレ女子  #トレーニング  #ダイエット  #ジム女子　#フィットネス ",
+   "hashtags": [
+    "筋トレ女子",
+    "トレーニング",
+    "ダイエット",
+    "ジム女子",
+    "フィットネス"
+   ],
+   "thumb": "data/thumbs/tiktok_7659005282361675016.jpg",
+   "posted_at": "2026-07-05T11:32:18.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7228125410284801281": {
+   "id": "7228125410284801281",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@i_am_kyana/video/7228125410284801281",
+   "author": {
+    "handle": "i_am_kyana",
+    "followers": 25800
+   },
+   "metrics": {
+    "likes": 58500,
+    "views": 1400000,
+    "comments": 122
+   },
+   "buzz_score": 54.26,
+   "caption": "ブルガリアンスクワットって脚の位置困らない？#筋トレ女子 #ダイエット #ジムトレーニング #筋トレ初心者 #フィットネス ",
+   "hashtags": [
+    "筋トレ女子",
+    "ダイエット",
+    "ジムトレーニング",
+    "筋トレ初心者",
+    "フィットネス"
+   ],
+   "thumb": "data/thumbs/tiktok_7228125410284801281.jpg",
+   "posted_at": "2023-05-01T08:18:18.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7580218348722457864": {
+   "id": "7580218348722457864",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@lifefit_okayamatoyonari/video/7580218348722457864",
+   "author": {
+    "handle": "lifefit_okayamatoyonari",
+    "followers": 1397
+   },
+   "metrics": {
+    "likes": 694,
+    "views": 37100,
+    "comments": 4
+   },
+   "buzz_score": 26.56,
+   "caption": "バーベルヒップリフトのやり方🍑\nお尻にとても効きます🤣💦❤️‍🔥\nみんなで田中みな実さまになりましょう♡！\n\n #24時間ジム #トレーニング #ダイエット フィットネスジム 筋トレ女子 岡山ジム lifefit ライフフィット lifefit岡山豊成 筋トレ",
+   "hashtags": [
+    "24時間ジム",
+    "トレーニング",
+    "ダイエット"
+   ],
+   "thumb": "data/thumbs/tiktok_7580218348722457864.jpg",
+   "posted_at": "2025-12-05T03:58:41.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7645953153942293767": {
+   "id": "7645953153942293767",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@zhenzhen_6688/video/7645953153942293767",
+   "author": {
+    "handle": "zhenzhen_6688",
+    "followers": 1119
+   },
+   "metrics": {
+    "likes": 1785,
+    "views": 210100,
+    "comments": 17
+   },
+   "buzz_score": 187.76,
+   "caption": "健身,美女,短褲,Fitness, beautiful women, shorts,フィットネス、美しい女性、ショートパンツ,피트니스, 아름다운 여성, 반바지#ﬁtnes #피트니스 #フィットネス",
+   "hashtags": [
+    "ﬁtnes",
+    "피트니스",
+    "フィットネス"
+   ],
+   "thumb": "data/thumbs/tiktok_7645953153942293767.jpg",
+   "posted_at": "2026-05-31T07:23:21.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7653331594492824850": {
+   "id": "7653331594492824850",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@simbizbiz/video/7653331594492824850",
+   "author": {
+    "handle": "simbizbiz",
+    "followers": 134100
+   },
+   "metrics": {
+    "likes": 1054,
+    "views": 55300,
+    "comments": 43
+   },
+   "buzz_score": 0.41,
+   "caption": "짐볼은 재밌어😋\n\nGym balls are fun 😋\n\nバランスボールって楽しい😋\n\n#pilates #gymgirl #gymball #fitnessgirl #fitbody ",
+   "hashtags": [
+    "pilates",
+    "gymgirl",
+    "gymball",
+    "fitnessgirl",
+    "fitbody"
+   ],
+   "thumb": "data/thumbs/tiktok_7653331594492824850.jpg",
+   "posted_at": "2026-06-20T04:35:34.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7640692319477419272": {
+   "id": "7640692319477419272",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@simbizbiz/video/7640692319477419272",
+   "author": {
+    "handle": "simbizbiz",
+    "followers": 134100
+   },
+   "metrics": {
+    "likes": 3320,
+    "views": 134300,
+    "comments": 65
+   },
+   "buzz_score": 1.0,
+   "caption": "운동하고 스트레칭 해야지 🧘🏻‍♀️💦\nWorkout done, now time to stretch \n運動したからストレッチしなきゃ🧘🏻‍♀️💫\n\n#fitnessgirl #yogagirl #pilates #gymgirl #stretching ",
+   "hashtags": [
+    "fitnessgirl",
+    "yogagirl",
+    "pilates",
+    "gymgirl",
+    "stretching"
+   ],
+   "thumb": "data/thumbs/tiktok_7640692319477419272.jpg",
+   "posted_at": "2026-05-17T03:08:43.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
+   "source": "apify"
+  },
+  "tiktok_7248258306366508290": {
+   "id": "7248258306366508290",
+   "platform": "tiktok",
+   "genre": "fitness",
+   "url": "https://www.tiktok.com/@i_am_kyana/video/7248258306366508290",
+   "author": {
+    "handle": "i_am_kyana",
+    "followers": 25800
+   },
+   "metrics": {
+    "likes": 583,
+    "views": 38400,
+    "comments": 21
+   },
+   "buzz_score": 1.49,
+   "caption": "私はフィットネスが大好きです！#筋トレ女子 #フィットネス #ストレッチ ",
+   "hashtags": [
+    "筋トレ女子",
+    "フィットネス",
+    "ストレッチ"
+   ],
+   "thumb": "data/thumbs/tiktok_7248258306366508290.jpg",
+   "posted_at": "2023-06-24T14:24:10.000Z",
+   "collected_at": "2026-07-14T18:46:24+09:00",
    "source": "apify"
   }
  }

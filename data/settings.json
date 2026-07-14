@@ -41,6 +41,18 @@
    "keywords": [],
    "min_likes": 100,
    "min_views": 1000
+  },
+  {
+   "id": "fitness",
+   "label": "筋トレ系",
+   "tags": [
+    "筋トレ",
+    "宅トレ",
+    "フィットネス"
+   ],
+   "keywords": [],
+   "min_likes": 100,
+   "min_views": 1000
   }
  ],
  "pricing": {
