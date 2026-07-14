@@ -61,5 +61,6 @@
   "tiktok_per_1k": 1.7,
   "usd_jpy": 150
  },
- "japanese_only": true
+ "japanese_only": true,
+ "max_age_days": 180
 }

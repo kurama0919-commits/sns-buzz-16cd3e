@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updated_at": "2026-07-14T18:47:44+09:00",
+ "updated_at": "2026-07-14T18:57:30+09:00",
  "posts": {
   "tiktok_7643026634299198740": {
    "id": "7643026634299198740",
@@ -251,33 +251,6 @@
    "thumb": "data/thumbs/tiktok_7647084817200286996.jpg",
    "posted_at": "2026-06-30T09:00:00.000Z",
    "collected_at": "2026-07-05T21:00:11+09:00",
-   "source": "apify"
-  },
-  "tiktok_7327966507034594580": {
-   "id": "7327966507034594580",
-   "platform": "tiktok",
-   "genre": "illust",
-   "url": "https://www.tiktok.com/@yoshi012345/video/7327966507034594580",
-   "author": {
-    "handle": "yoshi012345",
-    "followers": 118500
-   },
-   "metrics": {
-    "likes": 45500,
-    "views": 779000,
-    "comments": 360
-   },
-   "buzz_score": 6.57,
-   "caption": "@しろくまに返信 手と指がうまく描けるようになるためには輪郭線だけを追っちゃダメ！手首と腕の断面を描く習慣をつけて！😁👍 #ヨシメソ #イラスト描き方 #howtodraw #tutorial",
-   "hashtags": [
-    "ヨシメソ",
-    "イラスト描き方",
-    "howtodraw",
-    "tutorial"
-   ],
-   "thumb": "data/thumbs/tiktok_7327966507034594580.jpg",
-   "posted_at": "2024-01-25T09:32:54.000Z",
-   "collected_at": "2026-07-05T20:10:18+09:00",
    "source": "apify"
   },
   "tiktok_7629673411983297799": {
@@ -847,38 +820,6 @@
    "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
-  "instagram_DO8JZhUkvBt": {
-   "id": "DO8JZhUkvBt",
-   "platform": "instagram",
-   "genre": "salon",
-   "url": "https://www.instagram.com/p/DO8JZhUkvBt/",
-   "author": {
-    "handle": "maiko_tamamura",
-    "followers": 216087
-   },
-   "metrics": {
-    "likes": 9279,
-    "views": 3389593,
-    "comments": 38
-   },
-   "buzz_score": 0.04,
-   "caption": "【地肌への描き足しは、ブラウンよりこの色！】\n\n眉メイクで地肌へ描き足す際、アイブロウペンシルの色味はブラウンよりこの色が自然に仕上がります^ ^\n\n《使用アイテム》\n【グレーペンシル＋パウダー】\n◆ファシオ／ウォータープルーフ アイブロウ （超極細芯）01グレー\n◆ヴィセ／フラッフデザイン アイブロウパウダー BR-2\n【まろ眉さん向け】\n◆シュウウエムラ／ニードル ブロー シールブラウン\n◆ヴィセ／フラッフデザイン アイブロウパウダー BR-2\n◆ デジャヴュ／シアーカラーブロウ シアーブロンズ\n\n#眉#眉毛#眉メイク#アイブロウ\n#eyebrow#美容#beauty#メイク#makeup",
-   "hashtags": [
-    "眉",
-    "眉毛",
-    "眉メイク",
-    "アイブロウ",
-    "eyebrow",
-    "美容",
-    "beauty",
-    "メイク",
-    "makeup"
-   ],
-   "thumb": "data/thumbs/instagram_DO8JZhUkvBt.jpg",
-   "posted_at": "2025-09-23T09:30:00.000Z",
-   "collected_at": "2026-07-14T18:35:29+09:00",
-   "source": "apify"
-  },
   "instagram_DYmWlywT1T1": {
    "id": "DYmWlywT1T1",
    "platform": "instagram",
@@ -904,39 +845,6 @@
    ],
    "thumb": "data/thumbs/instagram_DYmWlywT1T1.jpg",
    "posted_at": "2026-05-21T11:37:45.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
-   "source": "apify"
-  },
-  "instagram_DOLU2kUEs7z": {
-   "id": "DOLU2kUEs7z",
-   "platform": "instagram",
-   "genre": "salon",
-   "url": "https://www.instagram.com/p/DOLU2kUEs7z/",
-   "author": {
-    "handle": "maiko_tamamura",
-    "followers": 216148
-   },
-   "metrics": {
-    "likes": 1496,
-    "views": 253382,
-    "comments": 24
-   },
-   "buzz_score": 0.01,
-   "caption": "【はみ出た毛は切っちゃダメ！】\n\n今のトレンドはフサっとした毛並み眉。\n輪郭から少しはみ出たこの毛こそが、フサっとした毛並み感を演出してくれるんです。\n\n#眉#眉毛#眉メイク#アイブロウ#眉カット\n#eyebrow#美容#beauty#メイク#makeup",
-   "hashtags": [
-    "眉",
-    "眉毛",
-    "眉メイク",
-    "アイブロウ",
-    "眉カット",
-    "eyebrow",
-    "美容",
-    "beauty",
-    "メイク",
-    "makeup"
-   ],
-   "thumb": "data/thumbs/instagram_DOLU2kUEs7z.jpg",
-   "posted_at": "2025-09-04T10:28:49.000Z",
    "collected_at": "2026-07-05T21:01:08+09:00",
    "source": "apify"
   },
@@ -1256,50 +1164,6 @@
    "collected_at": "2026-07-05T21:01:08+09:00",
    "source": "apify"
   },
-  "instagram_C-eXHkVvx4o": {
-   "id": "C-eXHkVvx4o",
-   "platform": "instagram",
-   "genre": "salon",
-   "url": "https://www.instagram.com/p/C-eXHkVvx4o/",
-   "author": {
-    "handle": "kyohei_konishi",
-    "followers": 974152
-   },
-   "metrics": {
-    "likes": 76947,
-    "views": 4424511,
-    "comments": 172
-   },
-   "buzz_score": 0.08,
-   "caption": "大人気のナチュラルミディアムヘア✂︎✨\n\nカーラーだけで作るナチュラルヘアスタイルです✨\n\nレイヤーを少し入れてあげるとよりいいです😊",
-   "hashtags": [],
-   "thumb": "data/thumbs/instagram_C-eXHkVvx4o.jpg",
-   "posted_at": "2024-08-10T03:32:23.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
-   "source": "apify"
-  },
-  "instagram_CuMUEaCrOdr": {
-   "id": "CuMUEaCrOdr",
-   "platform": "instagram",
-   "genre": "salon",
-   "url": "https://www.instagram.com/p/CuMUEaCrOdr/",
-   "author": {
-    "handle": "kyohei_konishi",
-    "followers": 974152
-   },
-   "metrics": {
-    "likes": 38498,
-    "views": 1386699,
-    "comments": 90
-   },
-   "buzz_score": 0.04,
-   "caption": "カリナさんのハーフアップを再現しました✨\n\n3分でできる簡単アレンジです！\n\nアレンジ苦手な僕でも作れるヘアスタイルなので、ぜひ試してみてください😊",
-   "hashtags": [],
-   "thumb": "data/thumbs/instagram_CuMUEaCrOdr.jpg",
-   "posted_at": "2023-07-02T10:58:51.000Z",
-   "collected_at": "2026-07-05T21:01:08+09:00",
-   "source": "apify"
-  },
   "instagram_DX4LgGDzXJS": {
    "id": "DX4LgGDzXJS",
    "platform": "instagram",
@@ -1548,33 +1412,6 @@
    "collected_at": "2026-07-05T21:03:58+09:00",
    "source": "apify"
   },
-  "tiktok_7394013863198477586": {
-   "id": "7394013863198477586",
-   "platform": "tiktok",
-   "genre": "salon",
-   "url": "https://www.tiktok.com/@yuripii1026/video/7394013863198477586",
-   "author": {
-    "handle": "yuripii1026",
-    "followers": 214600
-   },
-   "metrics": {
-    "likes": 74100,
-    "views": 1900000,
-    "comments": 1678
-   },
-   "buzz_score": 8.85,
-   "caption": "【大好きなマロンくんへ】\n18年間一緒に過ごしてくれてありがとう\n本当によく頑張ったね\n偉かったね\n・\nマロンくんはゆりぴ〜家にとって初めてのわんこで\n私が小学生の頃からずっと一緒に過ごして来たね\n・\n学校が苦手で毎日辛かった時期にはずっとそばにいてくれて\n話し相手となり心の支えになってくれたマロンくん\n私にとって1番の相棒でした\n・\n食べることが大好きなマロンくん\n散歩が嫌いなマロンくん\n犬が苦手なマロンくん\n人が苦手なマロンくん\n・\nどんなマロンくんも可愛くて愛おしくて大好きだよ\n・\n最後の3年間は歩けなくて\n身体もきっとキツかったよね\nそれでもご飯を食べ続けて本当に偉かったね\n沢山色んなところにもいけたし\n家族での思い出もいっぱいだね\n・\nこれからは身体も自由に動かせるだろうから好きなように過ごすんだよ\n沢山食べて沢山お昼寝してね\nたまには運動もするんだよ\n・\nまたマロンくんと再会できる日まで私も頑張るからね\nずっとそばで見守っててね\n絶対にまた会おうね！約束！\n・\nゆりぴ〜家を明るくしてくれて癒してくれて本当にありがとう\nずっとずっと大好きだよ\n・\nゆりちゃんより\n#虹の橋#老犬#マロンくん#ありがとう",
-   "hashtags": [
-    "虹の橋",
-    "老犬",
-    "マロンくん",
-    "ありがとう"
-   ],
-   "thumb": "data/thumbs/tiktok_7394013863198477586.jpg",
-   "posted_at": "2024-07-21T09:10:12.000Z",
-   "collected_at": "2026-07-05T20:34:56+09:00",
-   "source": "apify"
-  },
   "tiktok_7658633716952026384": {
    "id": "7658633716952026384",
    "platform": "tiktok",
@@ -1597,67 +1434,6 @@
    "thumb": "data/thumbs/tiktok_7658633716952026384.jpg",
    "posted_at": "2026-07-04T11:30:48.000Z",
    "collected_at": "2026-07-14T18:38:53+09:00",
-   "source": "apify"
-  },
-  "tiktok_7044105636887448834": {
-   "id": "7044105636887448834",
-   "platform": "tiktok",
-   "genre": "salon",
-   "url": "https://www.tiktok.com/@bydaniisaac/video/7044105636887448834",
-   "author": {
-    "handle": "bydaniisaac",
-    "followers": 11900
-   },
-   "metrics": {
-    "likes": 2852,
-    "views": 90500,
-    "comments": 32
-   },
-   "buzz_score": 7.61,
-   "caption": "Basic Japanese required* #salonmodel #modeling #modelingagency #サロンモデル希望 #サロンモデル #外国人モデル",
-   "hashtags": [
-    "salonmodel",
-    "modeling",
-    "modelingagency",
-    "サロンモデル希望",
-    "サロンモデル",
-    "外国人モデル"
-   ],
-   "thumb": "data/thumbs/tiktok_7044105636887448834.jpg",
-   "posted_at": "2021-12-21T10:47:30.000Z",
-   "collected_at": "2026-07-14T18:38:53+09:00",
-   "source": "apify"
-  },
-  "tiktok_7221384360748977426": {
-   "id": "7221384360748977426",
-   "platform": "tiktok",
-   "genre": "salon",
-   "url": "https://www.tiktok.com/@ayumi_nh/video/7221384360748977426",
-   "author": {
-    "handle": "ayumi_nh",
-    "followers": 3118
-   },
-   "metrics": {
-    "likes": 50,
-    "views": 6030,
-    "comments": 8
-   },
-   "buzz_score": 1.93,
-   "caption": "カナダ初ヘアカット🇨🇦同僚のモデルやらせてもらった☺️ #カナダ#カナダ留学#バンクーバー#バンクーバー留学#canada#vancouver\n#海外生活#留学生#海外留学生　",
-   "hashtags": [
-    "カナダ",
-    "カナダ留学",
-    "バンクーバー",
-    "バンクーバー留学",
-    "canada",
-    "vancouver",
-    "海外生活",
-    "留学生",
-    "海外留学生"
-   ],
-   "thumb": "data/thumbs/tiktok_7221384360748977426.jpg",
-   "posted_at": "2023-04-13T04:19:37.000Z",
-   "collected_at": "2026-07-05T21:03:58+09:00",
    "source": "apify"
   },
   "tiktok_7642573879415753992": {
@@ -1688,58 +1464,6 @@
    "collected_at": "2026-07-14T18:38:53+09:00",
    "source": "apify"
   },
-  "tiktok_7550285621512850696": {
-   "id": "7550285621512850696",
-   "platform": "tiktok",
-   "genre": "salon",
-   "url": "https://www.tiktok.com/@yamato_takumi/video/7550285621512850696",
-   "author": {
-    "handle": "yamato_takumi",
-    "followers": 51300
-   },
-   "metrics": {
-    "likes": 149,
-    "views": 11200,
-    "comments": 3
-   },
-   "buzz_score": 0.22,
-   "caption": "女子は見て下さい👩🏻　#カット動画 #サロンモデル ",
-   "hashtags": [
-    "カット動画",
-    "サロンモデル"
-   ],
-   "thumb": "data/thumbs/tiktok_7550285621512850696.jpg",
-   "posted_at": "2025-09-15T12:04:24.000Z",
-   "collected_at": "2026-07-05T21:03:58+09:00",
-   "source": "apify"
-  },
-  "instagram_DGXfAB2T94O": {
-   "id": "DGXfAB2T94O",
-   "platform": "instagram",
-   "genre": "business",
-   "url": "https://www.instagram.com/p/DGXfAB2T94O/",
-   "author": {
-    "handle": "ryuji_gogo",
-    "followers": 15930
-   },
-   "metrics": {
-    "likes": 325,
-    "views": 19381,
-    "comments": 0
-   },
-   "buzz_score": 0.02,
-   "caption": "【良い商品が広がるビジネスだと思ってる人は大間違い】\n\nフルバージョンのインスタライブはプロフィールから投稿へ\n\n【MLM業界特有の悩み、葛藤、問題の解決】\nをテーマに、ライブ、リールを配信してます。\n\n20代は、実業を得て、2度経営破綻を経験。\nMLMの業界に携わって2年。\n\"関わる全ての方々の願望、幸福人生の実現\"を目的に、活動をしています。\n現在、8桁人数規模の組織構築。\n率いる組織は約2年で2000名を突破し、毎月右肩上がりで成長しています。\n\nライフワークバランスを保ち\nwellnessなライフスタイルを継続しながら活動しています。\n\n中には、人間関係、成果、幸福、同時実現する\n人との関わりや、個人成果。組織構築、あらゆる分野の発信をしてますので\n\n興味がある方は、是非フォローしてください☺️\n\n#MLM #マルチ #ネットワークビジネス #ネットワーク",
-   "hashtags": [
-    "MLM",
-    "マルチ",
-    "ネットワークビジネス",
-    "ネットワーク"
-   ],
-   "thumb": "data/thumbs/instagram_DGXfAB2T94O.jpg",
-   "posted_at": "2025-02-22T07:38:30.000Z",
-   "collected_at": "2026-07-14T18:40:01+09:00",
-   "source": "apify"
-  },
   "instagram_DT2mUJeE2G0": {
    "id": "DT2mUJeE2G0",
    "platform": "instagram",
@@ -1759,62 +1483,6 @@
    "hashtags": [],
    "thumb": "data/thumbs/instagram_DT2mUJeE2G0.jpg",
    "posted_at": "2026-01-23T12:27:56.000Z",
-   "collected_at": "2026-07-14T18:40:01+09:00",
-   "source": "apify"
-  },
-  "instagram_DOqOee7E4Xf": {
-   "id": "DOqOee7E4Xf",
-   "platform": "instagram",
-   "genre": "business",
-   "url": "https://www.instagram.com/p/DOqOee7E4Xf/",
-   "author": {
-    "handle": "hiroki__kawamura",
-    "followers": 24061
-   },
-   "metrics": {
-    "likes": 524,
-    "views": 28398,
-    "comments": 9
-   },
-   "buzz_score": 0.02,
-   "caption": "自分の道だけを見ろ\n\n#注文住宅 #感謝 #新築 #仕事 #不動産 #家づくり #代表 #ビジネス #マイホーム #経営者 #自己啓発",
-   "hashtags": [
-    "注文住宅",
-    "感謝",
-    "新築",
-    "仕事",
-    "不動産",
-    "家づくり",
-    "代表",
-    "ビジネス",
-    "マイホーム",
-    "経営者",
-    "自己啓発"
-   ],
-   "thumb": "data/thumbs/instagram_DOqOee7E4Xf.jpg",
-   "posted_at": "2025-09-16T10:29:58.000Z",
-   "collected_at": "2026-07-14T18:40:01+09:00",
-   "source": "apify"
-  },
-  "instagram_DQOr7GIksKr": {
-   "id": "DQOr7GIksKr",
-   "platform": "instagram",
-   "genre": "business",
-   "url": "https://www.instagram.com/p/DQOr7GIksKr/",
-   "author": {
-    "handle": "tsubasabiz",
-    "followers": 27727
-   },
-   "metrics": {
-    "likes": 2500,
-    "views": 187318,
-    "comments": 30
-   },
-   "buzz_score": 0.09,
-   "caption": "14歳で売上1,500万。世界的な企業を創る。\n\n応援よろしくお願いします！\n\nストーリーズで毎日1,2個ビジネス関連の話を投稿してます！ぜひフォローしてご覧ください！",
-   "hashtags": [],
-   "thumb": "data/thumbs/instagram_DQOr7GIksKr.jpg",
-   "posted_at": "2025-10-25T10:53:04.000Z",
    "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
@@ -2098,34 +1766,6 @@
    "collected_at": "2026-07-05T21:07:10+09:00",
    "source": "apify"
   },
-  "tiktok_7313168517023485186": {
-   "id": "7313168517023485186",
-   "platform": "tiktok",
-   "genre": "business",
-   "url": "https://www.tiktok.com/@fukugyo_class/video/7313168517023485186",
-   "author": {
-    "handle": "fukugyo_class",
-    "followers": 869
-   },
-   "metrics": {
-    "likes": 2349,
-    "views": 370200,
-    "comments": 143
-   },
-   "buzz_score": 426.01,
-   "caption": "【副業詐欺に引っかからないための】\n超安全副業TOP 3\n\n#副業 #副業初心者 #副業時代 #主婦が稼ぐ #主婦クラス ",
-   "hashtags": [
-    "副業",
-    "副業初心者",
-    "副業時代",
-    "主婦が稼ぐ",
-    "主婦クラス"
-   ],
-   "thumb": "data/thumbs/tiktok_7313168517023485186.jpg",
-   "posted_at": "2023-12-16T12:28:59.000Z",
-   "collected_at": "2026-07-05T20:37:09+09:00",
-   "source": "apify"
-  },
   "tiktok_7656682677558316306": {
    "id": "7656682677558316306",
    "platform": "tiktok",
@@ -2152,37 +1792,6 @@
    "thumb": "data/thumbs/tiktok_7656682677558316306.jpg",
    "posted_at": "2026-06-29T05:19:26.000Z",
    "collected_at": "2026-07-14T18:41:49+09:00",
-   "source": "apify"
-  },
-  "tiktok_7249198856808811784": {
-   "id": "7249198856808811784",
-   "platform": "tiktok",
-   "genre": "business",
-   "url": "https://www.tiktok.com/@cooker8_nisshy/video/7249198856808811784",
-   "author": {
-    "handle": "cooker8_nisshy",
-    "followers": 228800
-   },
-   "metrics": {
-    "likes": 10300,
-    "views": 684500,
-    "comments": 140
-   },
-   "buzz_score": 2.99,
-   "caption": "【会議でよく使う】ビジネス用語10選#社長 #ビジネス #ビジネス系tiktoker #会社 #会議 #謎 #ビジネス用語 #にっしー社長",
-   "hashtags": [
-    "社長",
-    "ビジネス",
-    "ビジネス系tiktoker",
-    "会社",
-    "会議",
-    "謎",
-    "ビジネス用語",
-    "にっしー社長"
-   ],
-   "thumb": "data/thumbs/tiktok_7249198856808811784.jpg",
-   "posted_at": "2023-06-27T12:00:00.000Z",
-   "collected_at": "2026-07-05T21:07:10+09:00",
    "source": "apify"
   },
   "tiktok_7598159388007976199": {
@@ -2234,34 +1843,6 @@
    "thumb": "data/thumbs/tiktok_7602161199714733332.jpg",
    "posted_at": "2026-02-08T09:25:00.000Z",
    "collected_at": "2026-07-05T21:07:10+09:00",
-   "source": "apify"
-  },
-  "tiktok_7266715087598112018": {
-   "id": "7266715087598112018",
-   "platform": "tiktok",
-   "genre": "business",
-   "url": "https://www.tiktok.com/@5ichi60/video/7266715087598112018",
-   "author": {
-    "handle": "5ichi60",
-    "followers": 3172
-   },
-   "metrics": {
-    "likes": 114,
-    "views": 24700,
-    "comments": 4
-   },
-   "buzz_score": 7.79,
-   "caption": "これがコンテンツビジネス！\n#webマーケティング #コンテンツビジネス #副業ビジネス #挑戰 #40代 ",
-   "hashtags": [
-    "webマーケティング",
-    "コンテンツビジネス",
-    "副業ビジネス",
-    "挑戰",
-    "40代"
-   ],
-   "thumb": "data/thumbs/tiktok_7266715087598112018.jpg",
-   "posted_at": "2023-08-13T08:05:57.000Z",
-   "collected_at": "2026-07-05T20:37:09+09:00",
    "source": "apify"
   },
   "tiktok_7609597931028581639": {
@@ -3035,33 +2616,6 @@
    "collected_at": "2026-07-05T21:00:11+09:00",
    "source": "apify"
   },
-  "tiktok_7535773003083304210": {
-   "id": "7535773003083304210",
-   "platform": "tiktok",
-   "genre": "illust",
-   "url": "https://www.tiktok.com/@yuina_no_sekai/video/7535773003083304210",
-   "author": {
-    "handle": "yuina_no_sekai",
-    "followers": 3687
-   },
-   "metrics": {
-    "likes": 4143,
-    "views": 76900,
-    "comments": 6
-   },
-   "buzz_score": 20.86,
-   "caption": "★主線無し★世界観★色と光★背景★イラストレーター集\n#イラスト#アート#イラスト本 #アート本 ",
-   "hashtags": [
-    "イラスト",
-    "アート",
-    "イラスト本",
-    "アート本"
-   ],
-   "thumb": "data/thumbs/tiktok_7535773003083304210.jpg",
-   "posted_at": "2025-08-07T09:28:03.000Z",
-   "collected_at": "2026-07-05T21:00:11+09:00",
-   "source": "apify"
-  },
   "tiktok_7658506652064238866": {
    "id": "7658506652064238866",
    "platform": "tiktok",
@@ -3090,32 +2644,6 @@
    "collected_at": "2026-07-05T21:00:11+09:00",
    "source": "apify"
   },
-  "tiktok_7029616911843347714": {
-   "id": "7029616911843347714",
-   "platform": "tiktok",
-   "genre": "illust",
-   "url": "https://www.tiktok.com/@ibispaint_official0621/video/7029616911843347714",
-   "author": {
-    "handle": "ibispaint_official0621",
-    "followers": 941500
-   },
-   "metrics": {
-    "likes": 15700,
-    "views": 543700,
-    "comments": 47
-   },
-   "buzz_score": 0.58,
-   "caption": "デジタルイラスト初心者必見❗️この1分動画を見ればレイヤーの使い方がマスターできちゃいます🤗レイヤーを使いこなしてデジタルイラストに挑戦しよう♫#ibisPaint #アイビスペイント #初心者向け",
-   "hashtags": [
-    "ibispaint",
-    "アイビスペイント",
-    "初心者向け"
-   ],
-   "thumb": "data/thumbs/tiktok_7029616911843347714.jpg",
-   "posted_at": "2021-11-12T09:43:51.000Z",
-   "collected_at": "2026-07-05T21:00:11+09:00",
-   "source": "apify"
-  },
   "tiktok_7658228809677868295": {
    "id": "7658228809677868295",
    "platform": "tiktok",
@@ -3140,140 +2668,6 @@
    ],
    "thumb": "data/thumbs/tiktok_7658228809677868295.jpg",
    "posted_at": "2026-07-03T09:19:09.000Z",
-   "collected_at": "2026-07-05T21:00:11+09:00",
-   "source": "apify"
-  },
-  "tiktok_7256340133866228993": {
-   "id": "7256340133866228993",
-   "platform": "tiktok",
-   "genre": "illust",
-   "url": "https://www.tiktok.com/@ikeda.1127/video/7256340133866228993",
-   "author": {
-    "handle": "ikeda.1127",
-    "followers": 397300
-   },
-   "metrics": {
-    "likes": 229800,
-    "views": 2800000,
-    "comments": 113
-   },
-   "buzz_score": 7.05,
-   "caption": "どうせ可愛いよ。#漫画動画 #恋愛漫画 #創作漫画 #イラスト #webtoon #anime #cartoon #fyp ",
-   "hashtags": [
-    "漫画動画",
-    "恋愛漫画",
-    "創作漫画",
-    "イラスト",
-    "webtoon",
-    "anime",
-    "cartoon",
-    "fyp"
-   ],
-   "thumb": null,
-   "posted_at": "2023-07-16T09:05:50.000Z",
-   "collected_at": "2026-07-05T21:00:11+09:00",
-   "source": "apify"
-  },
-  "tiktok_7257467820919885057": {
-   "id": "7257467820919885057",
-   "platform": "tiktok",
-   "genre": "illust",
-   "url": "https://www.tiktok.com/@nukoko_neko/video/7257467820919885057",
-   "author": {
-    "handle": "nukoko_neko",
-    "followers": 82500
-   },
-   "metrics": {
-    "likes": 75500,
-    "views": 2200000,
-    "comments": 86
-   },
-   "buzz_score": 26.67,
-   "caption": "四角をアレンジして描く簡単フレームの描き方□◾︎\n\n文字を囲いたい時に描いてみて🥰\n\n#フレーム #枠 #四角 #簡単イラスト #イラスト描き方 #イラスト動画 #イラストメイキング #ゆるいイラスト #illustration #プロクリエイト #Procreate #procreateart #iPad ",
-   "hashtags": [
-    "フレーム",
-    "枠",
-    "四角",
-    "簡単イラスト",
-    "イラスト描き方",
-    "イラスト動画",
-    "イラストメイキング",
-    "ゆるいイラスト",
-    "illustration",
-    "プロクリエイト",
-    "procreate",
-    "procreateart",
-    "ipad"
-   ],
-   "thumb": "data/thumbs/tiktok_7257467820919885057.jpg",
-   "posted_at": "2023-07-19T10:01:48.000Z",
-   "collected_at": "2026-07-05T21:00:11+09:00",
-   "source": "apify"
-  },
-  "tiktok_7134252090054036738": {
-   "id": "7134252090054036738",
-   "platform": "tiktok",
-   "genre": "illust",
-   "url": "https://www.tiktok.com/@tos_tos_to/video/7134252090054036738",
-   "author": {
-    "handle": "tos_tos_to",
-    "followers": 156500
-   },
-   "metrics": {
-    "likes": 721100,
-    "views": 5900000,
-    "comments": 6572
-   },
-   "buzz_score": 37.7,
-   "caption": "@sin880088に返信 リクエストありがとうございました‼︎ 案の定難しかったです😭　##君の名は #イラスト#アナログイラスト #イラストメイキング #水彩イラスト　#yourname #illustration #watercolorpainting",
-   "hashtags": [
-    "君の名は",
-    "イラスト",
-    "アナログイラスト",
-    "イラストメイキング",
-    "水彩イラスト",
-    "yourname",
-    "illustration",
-    "watercolorpainting"
-   ],
-   "thumb": "data/thumbs/tiktok_7134252090054036738.jpg",
-   "posted_at": "2022-08-21T09:01:59.000Z",
-   "collected_at": "2026-07-05T21:00:11+09:00",
-   "source": "apify"
-  },
-  "tiktok_7537277078203419911": {
-   "id": "7537277078203419911",
-   "platform": "tiktok",
-   "genre": "illust",
-   "url": "https://www.tiktok.com/@srkmnnmn.7/video/7537277078203419911",
-   "author": {
-    "handle": "srkmnnmn.7",
-    "followers": 240700
-   },
-   "metrics": {
-    "likes": 65100,
-    "views": 2400000,
-    "comments": 246
-   },
-   "buzz_score": 9.97,
-   "caption": "簡単すぎる！\n喜怒哀楽イラストの描き方🐻‍❄️✏️\n⠀\n真似してみてね〜！\n⠀\n\n✎﹏﹏﹏ 今後の イベント情報 ﹏﹏﹏\n\n🐻‍❄️ CHAREC POP UP 【東京】\n日程｜8/6(水)〜8/25(月)\n場所｜ハンズ新宿店 2F\n★グッズ委託販売。8/16(土)-17(日)の二日間は水彩似顔絵屋さん開催！ただいま予約受付中👉 https://event.hands.net/make/19923/\n⠀\n⠀\n🐻‍❄️ ？？？【大阪】\n★詳細coming soon…\n⠀\n⠀\n🐻‍❄️ 金沢ハンドメイドマルシェ 【石川】\n日程｜10/4(土)のみ\n時間｜11:00〜17:00\n場所｜石川県産業展示館3号館\n入場料｜前売券500円、当日券600円\n★対面グッズ販売。初金沢イベント！\n⠀\n\n✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n⠀\n✔︎ 〜8/17(日)23:59 残暑お見舞い〆切\n⠀ YouTubeメンバーシップの投稿を見てね！\n⠀\n✔︎ 〜8/24(日)23:59 ぬりえコンテスト\n⠀ #ななみんの夏休みの宿題 〆切日！\n⠀ XやInstagramを見てね！\n⠀\n✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n\n㊗️14刷突破！ななみんの代表著書\n『ゆるっとかわいいイラストの描き方 』\n\n🔗 https://www.amazon.co.jp/dp/4847070216\n\n全国の書店やAmazon・楽天にて\nぜひともチェックしてくださいね〜！\n著書は全部で５冊あります📚\n\n﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n⠀\n《イラストレーター しろくまななみん》\n✏︎ ︎絵にまつわること発信中！\n⠀⠀- 描き方/愛用画材紹介/絵日記\n⠀⠀【愛用品は楽天ROOMへ！】\n✏︎ 著書を多数出版◎\n⠀⠀- 描き方やガラスペンについてなど、色々出しています\n✏︎ お仕事のご相談はメールにて！\n⠀\nファンネームは「ななぐみ.」\nファンマークは「🐻‍❄️🎨」\n▲つけてもらえるとお名前を呼びやすいです\nお名前やプロフィールにぜひ◎\n\n#イラスト #イラスト練習中 #イラスト練習 #描き方 #イラストの描き方 #描き方 #しろくまななみん #イラストメイキング #手帳 #手帳イラスト #ボールペン #夏の学び直しキャンペーン ",
-   "hashtags": [
-    "ななみんの夏休みの宿題",
-    "イラスト",
-    "イラスト練習中",
-    "イラスト練習",
-    "描き方",
-    "イラストの描き方",
-    "描き方",
-    "しろくまななみん",
-    "イラストメイキング",
-    "手帳",
-    "手帳イラスト",
-    "ボールペン",
-    "夏の学び直しキャンペーン"
-   ],
-   "thumb": "data/thumbs/tiktok_7537277078203419911.jpg",
-   "posted_at": "2025-08-11T10:44:48.000Z",
    "collected_at": "2026-07-05T21:00:11+09:00",
    "source": "apify"
   },
@@ -3627,78 +3021,6 @@
    "collected_at": "2026-07-05T21:03:58+09:00",
    "source": "apify"
   },
-  "tiktok_7578094434898791701": {
-   "id": "7578094434898791701",
-   "platform": "tiktok",
-   "genre": "salon",
-   "url": "https://www.tiktok.com/@amigon000/video/7578094434898791701",
-   "author": {
-    "handle": "amigon000",
-    "followers": 54500
-   },
-   "metrics": {
-    "likes": 1067,
-    "views": 76800,
-    "comments": 33
-   },
-   "buzz_score": 1.41,
-   "caption": "ドキドキ美容室💇‍♀️\n【料金内訳】\nフルヘッドカラー：£180(¥37,000)\nトナー追加：£70(¥14,300)\nヘアトリートメント追加：£60(¥12,300)\nカット & 仕上げ：£215(¥44,000)\nドリンク：£5.25(¥1,000)\n⸻\n合計金額\n£530.25【¥109,000】\n#イギリス留学 #留学  #ロンドン美容室 ",
-   "hashtags": [
-    "イギリス留学",
-    "留学",
-    "ロンドン美容室"
-   ],
-   "thumb": "data/thumbs/tiktok_7578094434898791701.jpg",
-   "posted_at": "2025-11-29T10:36:51.000Z",
-   "collected_at": "2026-07-05T21:03:58+09:00",
-   "source": "apify"
-  },
-  "tiktok_7518509665458605326": {
-   "id": "7518509665458605326",
-   "platform": "tiktok",
-   "genre": "salon",
-   "url": "https://www.tiktok.com/@moe_in_usa/video/7518509665458605326",
-   "author": {
-    "handle": "moe_in_usa",
-    "followers": 138200
-   },
-   "metrics": {
-    "likes": 11900,
-    "views": 370300,
-    "comments": 71
-   },
-   "buzz_score": 2.68,
-   "caption": "ニューヨークの日本人サロンで髪の毛20センチ断髪ブイログ🗽✨\n\n📍Yume Hair @YUME Hair 💚✨ \n👤@masaki \n髪の毛は日本人にお願いしたいけど近くにいない…』『日本人ヘアサロンはお金が割高で…』と、海外在住あるあるのヘアサロン問題に直面していたんです🥺\nだけど5年経った今、やっとその悩みから解放された！！！！\n\n働いている店員さんみんなが本当に親切で面白くて気が利いて…久しぶりにヘアサロンでこんなに感動した🥹✨\n\n新しい髪の毛もものすごい気に入ってるし、周りにもたくさん可愛いって言われて嬉しまる🥹💖\n\nインスタのハイライトから、このサロンのサイトで買えるヘアトリートメントセット【milbon】が購入できるから、みんなぜひチェックしてね！！！\n\nパート2は新しく開いたエステのブイログ！\n楽しみにしててね🌈\n\n——————☺︎ ——————\n\nHaircut Vlog at Yume Hair in NYC!🗽\n\nEveryone working at the salon was genuinely kind, funny, and thoughtful… I was honestly moved—it’s been so long since I had such a great experience at a hair salon 🥹✨\n\nI’m absolutely in love with my new hair, and I’ve been getting so many compliments from people around me—feeling so happy!\n\nThey also sell the 【milbon】 hair treatment set used for my highlights on their website, so definitely check it out!!!\n\nHope you enjoy this video!:) and stay tuned for more upcoming g vlogs because it’s newly opened facial and head spa from them!!\n\n#海外 #海外生#海外海#海外生活o#海外生活vlog海#海外留学海#海外就職##海外保育士士#アメリカ保育士Moeア#アメリカ #アメリカ生活v#アメリカ生活vlog #アメリカ留学 #アメリカ留学メ#保育士あ#アメリカあるある士#英語育#保育士##子育て英語児#英会話ー#育児 #ボストン #LA ",
-   "hashtags": [
-    "海外",
-    "海外生",
-    "海外海",
-    "海外生活o",
-    "海外生活vlog海",
-    "海外留学海",
-    "海外就職",
-    "海外保育士士",
-    "アメリカ保育士moeア",
-    "アメリカ",
-    "アメリカ生活v",
-    "アメリカ生活vlog",
-    "アメリカ留学",
-    "アメリカ留学メ",
-    "保育士あ",
-    "アメリカあるある士",
-    "英語育",
-    "保育士",
-    "子育て英語児",
-    "英会話ー",
-    "育児",
-    "ボストン",
-    "la"
-   ],
-   "thumb": "data/thumbs/tiktok_7518509665458605326.jpg",
-   "posted_at": "2025-06-21T20:58:07.000Z",
-   "collected_at": "2026-07-05T21:03:58+09:00",
-   "source": "apify"
-  },
   "tiktok_7658596359880051975": {
    "id": "7658596359880051975",
    "platform": "tiktok",
@@ -3724,44 +3046,6 @@
    ],
    "thumb": "data/thumbs/tiktok_7658596359880051975.jpg",
    "posted_at": "2026-07-04T09:05:27.000Z",
-   "collected_at": "2026-07-05T21:03:58+09:00",
-   "source": "apify"
-  },
-  "tiktok_7284083417640209665": {
-   "id": "7284083417640209665",
-   "platform": "tiktok",
-   "genre": "salon",
-   "url": "https://www.tiktok.com/@re_bis/video/7284083417640209665",
-   "author": {
-    "handle": "re_bis",
-    "followers": 213
-   },
-   "metrics": {
-    "likes": 245,
-    "views": 8696,
-    "comments": 10
-   },
-   "buzz_score": 40.83,
-   "caption": "バンクーバーでマツパの施術を受けてみました👀💞\ni's. Japanese hair salon という、日本人の方が経営されているサロンです✨\n\nレインクーバーの時期はビューラーしてもまつ毛下がってきちゃうので、マツパしとくと楽になるはず！🤣\n海外でまつパってちょっと怖いけど、日本スタイルのお店だから安心して受けられました！施術中目に染みたりもしなかったです👀‼️\n\n今ならオープン記念キャンペーン中なのでお得に施術が受けられるそうです！丁寧に施術してくださって、仕上がりとてもキレイでオススメです🫶\n\nオーナーさんのTikTok⬇️\n@Harry hairstylist Vancouver \n\n📍i's. Japanese Hair salon \n\n#カナダ #バンクーバー #canada #vancouver #まつパ #まつ毛パーマ#マツエク #サロン #美容院 #留学生 #語学学校 #語学留学 #カナダ留学 #eyelush #CapCut ",
-   "hashtags": [
-    "カナダ",
-    "バンクーバー",
-    "canada",
-    "vancouver",
-    "まつパ",
-    "まつ毛パーマ",
-    "マツエク",
-    "サロン",
-    "美容院",
-    "留学生",
-    "語学学校",
-    "語学留学",
-    "カナダ留学",
-    "eyelush",
-    "capcut"
-   ],
-   "thumb": "data/thumbs/tiktok_7284083417640209665.jpg",
-   "posted_at": "2023-09-29T03:23:57.000Z",
    "collected_at": "2026-07-05T21:03:58+09:00",
    "source": "apify"
   },
@@ -4065,34 +3349,6 @@
    "collected_at": "2026-07-05T21:03:58+09:00",
    "source": "apify"
   },
-  "instagram_CqAkBlOgt0j": {
-   "id": "CqAkBlOgt0j",
-   "platform": "instagram",
-   "genre": "business",
-   "url": "https://www.instagram.com/p/CqAkBlOgt0j/",
-   "author": {
-    "handle": "kanki_okada",
-    "followers": 16415
-   },
-   "metrics": {
-    "likes": 145,
-    "views": 8436,
-    "comments": 0
-   },
-   "buzz_score": 0.01,
-   "caption": "知識を商品化して月10万作る方法。\n\n#ビジネス #マーケティング #起業 #コンテンツビジネス \n#コンテンツ販売 \n\n１年で年収1000万、３年で億超えの\n夢中になれるオンライン事業作りませんか？\n\n具体的な方法はLINEへ👍\nLINEはプロフィールの\nURLから登録してね\n▷▷ @kanki_okada",
-   "hashtags": [
-    "ビジネス",
-    "マーケティング",
-    "起業",
-    "コンテンツビジネス",
-    "コンテンツ販売"
-   ],
-   "thumb": "data/thumbs/instagram_CqAkBlOgt0j.jpg",
-   "posted_at": "2023-03-20T11:22:01.000Z",
-   "collected_at": "2026-07-14T18:40:01+09:00",
-   "source": "apify"
-  },
   "instagram_DVpcgtskQzF": {
    "id": "DVpcgtskQzF",
    "platform": "instagram",
@@ -4116,32 +3372,6 @@
    ],
    "thumb": "data/thumbs/instagram_DVpcgtskQzF.jpg",
    "posted_at": "2026-03-09T02:52:59.000Z",
-   "collected_at": "2026-07-14T18:40:01+09:00",
-   "source": "apify"
-  },
-  "instagram_DPqhVvDiaEn": {
-   "id": "DPqhVvDiaEn",
-   "platform": "instagram",
-   "genre": "business",
-   "url": "https://www.instagram.com/p/DPqhVvDiaEn/",
-   "author": {
-    "handle": "omyo1986",
-    "followers": 116441
-   },
-   "metrics": {
-    "likes": 187,
-    "views": 13826,
-    "comments": 1
-   },
-   "buzz_score": 0.0,
-   "caption": "【起業する時のビジネスモデルの決め方】\n#好きを仕事に #好きなことを仕事に #好きなことで生きていく",
-   "hashtags": [
-    "好きを仕事に",
-    "好きなことを仕事に",
-    "好きなことで生きていく"
-   ],
-   "thumb": "data/thumbs/instagram_DPqhVvDiaEn.jpg",
-   "posted_at": "2025-10-11T09:46:03.000Z",
    "collected_at": "2026-07-14T18:40:01+09:00",
    "source": "apify"
   },
@@ -4250,116 +3480,6 @@
    "collected_at": "2026-07-05T21:07:10+09:00",
    "source": "apify"
   },
-  "tiktok_7432799861247986951": {
-   "id": "7432799861247986951",
-   "platform": "tiktok",
-   "genre": "business",
-   "url": "https://www.tiktok.com/@tora_tora01/video/7432799861247986951",
-   "author": {
-    "handle": "tora_tora01",
-    "followers": 1537
-   },
-   "metrics": {
-    "likes": 6267,
-    "views": 337500,
-    "comments": 105
-   },
-   "buzz_score": 219.58,
-   "caption": "【どのくらいど底辺だったの？】\nどれだけどん底でも諦めなければ絶対に大丈夫。\n\n#学生 \n#起業 \n#vlog \n#学生起業 \n#社長 ",
-   "hashtags": [
-    "学生",
-    "起業",
-    "vlog",
-    "学生起業",
-    "社長"
-   ],
-   "thumb": "data/thumbs/tiktok_7432799861247986951.jpg",
-   "posted_at": "2024-11-02T21:39:50.000Z",
-   "collected_at": "2026-07-05T21:07:10+09:00",
-   "source": "apify"
-  },
-  "tiktok_7488336912285994295": {
-   "id": "7488336912285994295",
-   "platform": "tiktok",
-   "genre": "business",
-   "url": "https://www.tiktok.com/@chapi_ao/video/7488336912285994295",
-   "author": {
-    "handle": "chapi_ao",
-    "followers": 59
-   },
-   "metrics": {
-    "likes": 514,
-    "views": 120800,
-    "comments": 3
-   },
-   "buzz_score": 2047.46,
-   "caption": "#ai #chatgpt #副業初心者 ",
-   "hashtags": [
-    "ai",
-    "chatgpt",
-    "副業初心者"
-   ],
-   "thumb": "data/thumbs/tiktok_7488336912285994295.jpg",
-   "posted_at": "2025-04-01T13:31:49.000Z",
-   "collected_at": "2026-07-05T21:07:10+09:00",
-   "source": "apify"
-  },
-  "tiktok_7374760966170381569": {
-   "id": "7374760966170381569",
-   "platform": "tiktok",
-   "genre": "business",
-   "url": "https://www.tiktok.com/@btc4816/video/7374760966170381569",
-   "author": {
-    "handle": "btc4816",
-    "followers": 10400
-   },
-   "metrics": {
-    "likes": 256,
-    "views": 53800,
-    "comments": 35
-   },
-   "buzz_score": 5.17,
-   "caption": "#不動産投資 \n#不労所得 \n#投資 \n#FX \n#副業 \n#副業初心者 \n#fire\n#新宿 \n#",
-   "hashtags": [
-    "不動産投資",
-    "不労所得",
-    "投資",
-    "fx",
-    "副業",
-    "副業初心者",
-    "fire",
-    "新宿"
-   ],
-   "thumb": "data/thumbs/tiktok_7374760966170381569.jpg",
-   "posted_at": "2024-05-30T11:59:09.000Z",
-   "collected_at": "2026-07-05T21:07:10+09:00",
-   "source": "apify"
-  },
-  "tiktok_7062219785576221953": {
-   "id": "7062219785576221953",
-   "platform": "tiktok",
-   "genre": "business",
-   "url": "https://www.tiktok.com/@merukaku/video/7062219785576221953",
-   "author": {
-    "handle": "merukaku",
-    "followers": 3042
-   },
-   "metrics": {
-    "likes": 12,
-    "views": 1587,
-    "comments": 1
-   },
-   "buzz_score": 0.52,
-   "caption": "#メルカリ #副業 #起業",
-   "hashtags": [
-    "副業",
-    "起業"
-   ],
-   "thumb": "data/thumbs/tiktok_7062219785576221953.jpg",
-   "posted_at": "2022-02-08T06:19:40.000Z",
-   "collected_at": "2026-07-05T21:07:10+09:00",
-   "source": "apify"
-  },
   "tiktok_7657085693692349716": {
    "id": "7657085693692349716",
    "platform": "tiktok",
@@ -4441,62 +3561,6 @@
    ],
    "thumb": "data/thumbs/tiktok_7655981318546722055.jpg",
    "posted_at": "2026-06-27T07:57:48.000Z",
-   "collected_at": "2026-07-05T21:07:10+09:00",
-   "source": "apify"
-  },
-  "tiktok_7486041477802511623": {
-   "id": "7486041477802511623",
-   "platform": "tiktok",
-   "genre": "business",
-   "url": "https://www.tiktok.com/@game.love.miho/video/7486041477802511623",
-   "author": {
-    "handle": "game.love.miho",
-    "followers": 4646
-   },
-   "metrics": {
-    "likes": 2018,
-    "views": 115100,
-    "comments": 54
-   },
-   "buzz_score": 24.77,
-   "caption": "今すぐ日本でTTPすれば爆儲けできる可能性が高い海外最新ビジネスアイディア💡LED広告編 #スモールビジネス #海外ビジネス #マーケティング #ビジネス #起業",
-   "hashtags": [
-    "スモールビジネス",
-    "海外ビジネス",
-    "マーケティング",
-    "ビジネス",
-    "起業"
-   ],
-   "thumb": "data/thumbs/tiktok_7486041477802511623.jpg",
-   "posted_at": "2025-03-26T09:04:21.000Z",
-   "collected_at": "2026-07-05T21:07:10+09:00",
-   "source": "apify"
-  },
-  "tiktok_7470469245516778772": {
-   "id": "7470469245516778772",
-   "platform": "tiktok",
-   "genre": "business",
-   "url": "https://www.tiktok.com/@trendbiz.lab/video/7470469245516778772",
-   "author": {
-    "handle": "trendbiz.lab",
-    "followers": 8789
-   },
-   "metrics": {
-    "likes": 394,
-    "views": 65000,
-    "comments": 3
-   },
-   "buzz_score": 7.4,
-   "caption": "【海外のビジネス紹介】\n変幻自在なLED広告\n#起業 #スモールビジネス #海外 #副業 #ビジネス",
-   "hashtags": [
-    "起業",
-    "スモールビジネス",
-    "海外",
-    "副業",
-    "ビジネス"
-   ],
-   "thumb": "data/thumbs/tiktok_7470469245516778772.jpg",
-   "posted_at": "2025-02-12T09:56:12.000Z",
    "collected_at": "2026-07-05T21:07:10+09:00",
    "source": "apify"
   },
@@ -4961,51 +4025,6 @@
    "collected_at": "2026-07-14T18:31:16+09:00",
    "source": "apify"
   },
-  "instagram_CbT7LwsjJeo": {
-   "id": "CbT7LwsjJeo",
-   "platform": "instagram",
-   "genre": "illust",
-   "url": "https://www.instagram.com/p/CbT7LwsjJeo/",
-   "author": {
-    "handle": "mery.jp",
-    "followers": 603410
-   },
-   "metrics": {
-    "likes": 1004,
-    "views": 82665,
-    "comments": 0
-   },
-   "buzz_score": 0.0,
-   "caption": "今、韓国でも人気の #오일파스텔아트 （ #オイルパステルアート ）にチャレンジ🎨\n.\n【用意するもの】\n・画用紙\n・マスキングテープ\n・お好みの #オイルパステル\n.\n【幻想的な空の #描き方 🖼☁️】\n①画用紙の四方にマスキングテープを貼る\n②ピンク、紫、青のパステルを順番に塗っていく\n③青のパステルで雲の輪郭を描く\n④雲の影を紫のパステルでつけていく\n⑤黄色のパステルで光の当たっている部分、月を描く\n⑥白いボールペンで星を描く\n⑦マスキングテープを剥がして完成！\n.\n色を塗っていくときに、綿棒を使ってぼかすと綺麗になじむよ🪄\n.\n今回は #Amazon （ @amazonjapan ）で購入した『 Paul Rubens （ #パウルルーベンス ） @rubens_paul 』のオイルパステル を使用してみたよ！\nそのままはもちろん、ぼかすだけで雰囲気が出るから初心者でもトライしやすく、春から新しい #趣味 が欲しい方にもおすすめです♡🖍\n.\n#お絵描き #風景画 #お絵描き好きな人と繋がりたい #오일파스텔 #일러스트 #풍경화 #illust #illustagram #oilpastel #oilpastelart #oilpastels #croquis #landscapepainting #趣味探し #趣味の時間",
-   "hashtags": [
-    "오일파스텔아트",
-    "オイルパステルアート",
-    "オイルパステル",
-    "描き方",
-    "Amazon",
-    "パウルルーベンス",
-    "趣味",
-    "お絵描き",
-    "風景画",
-    "お絵描き好きな人と繋がりたい",
-    "오일파스텔",
-    "일러스트",
-    "풍경화",
-    "illust",
-    "illustagram",
-    "oilpastel",
-    "oilpastelart",
-    "oilpastels",
-    "croquis",
-    "landscapepainting",
-    "趣味探し",
-    "趣味の時間"
-   ],
-   "thumb": "data/thumbs/instagram_CbT7LwsjJeo.jpg",
-   "posted_at": "2022-03-20T03:56:34.000Z",
-   "collected_at": "2026-07-14T18:31:16+09:00",
-   "source": "apify"
-  },
   "instagram_DZpIi0IRnhE": {
    "id": "DZpIi0IRnhE",
    "platform": "instagram",
@@ -5243,34 +4262,6 @@
    "hashtags": [],
    "thumb": "data/thumbs/tiktok_7661913889080233223.jpg",
    "posted_at": "2026-07-13T07:39:08.000Z",
-   "collected_at": "2026-07-14T18:34:18+09:00",
-   "source": "apify"
-  },
-  "tiktok_7576957741038652692": {
-   "id": "7576957741038652692",
-   "platform": "tiktok",
-   "genre": "illust",
-   "url": "https://www.tiktok.com/@t4_yokai/video/7576957741038652692",
-   "author": {
-    "handle": "t4_yokai",
-    "followers": 777
-   },
-   "metrics": {
-    "likes": 6544,
-    "views": 103900,
-    "comments": 34
-   },
-   "buzz_score": 133.72,
-   "caption": "【絵師必見】激メロい顔の描き方！【イラスト】#イラスト #イラストメイキング #セルフ受肉vtuber #Vtuber #たくわ",
-   "hashtags": [
-    "イラスト",
-    "イラストメイキング",
-    "セルフ受肉vtuber",
-    "vtuber",
-    "たくわ"
-   ],
-   "thumb": "data/thumbs/tiktok_7576957741038652692.jpg",
-   "posted_at": "2025-11-26T09:05:54.000Z",
    "collected_at": "2026-07-14T18:34:18+09:00",
    "source": "apify"
   },
@@ -5723,38 +4714,6 @@
    "collected_at": "2026-07-14T18:34:18+09:00",
    "source": "apify"
   },
-  "tiktok_7516883832637885703": {
-   "id": "7516883832637885703",
-   "platform": "tiktok",
-   "genre": "illust",
-   "url": "https://www.tiktok.com/@rearea_7777/video/7516883832637885703",
-   "author": {
-    "handle": "rearea_7777",
-    "followers": 3632
-   },
-   "metrics": {
-    "likes": 37400,
-    "views": 748400,
-    "comments": 152
-   },
-   "buzz_score": 206.06,
-   "caption": "TikTokはじめました！昔作ったメイキング解説をあげます\n#イラスト #イラストメイキング #イラスト動画 #illustration #miku #hatsunemiku #初音ミク #アイビスペイント #ibispaintx ",
-   "hashtags": [
-    "イラスト",
-    "イラストメイキング",
-    "イラスト動画",
-    "illustration",
-    "miku",
-    "hatsunemiku",
-    "初音ミク",
-    "アイビスペイント",
-    "ibispaintx"
-   ],
-   "thumb": "data/thumbs/tiktok_7516883832637885703.jpg",
-   "posted_at": "2025-06-17T11:48:25.000Z",
-   "collected_at": "2026-07-14T18:34:18+09:00",
-   "source": "apify"
-  },
   "tiktok_7662099347772837138": {
    "id": "7662099347772837138",
    "platform": "tiktok",
@@ -5779,69 +4738,6 @@
    ],
    "thumb": "data/thumbs/tiktok_7662099347772837138.jpg",
    "posted_at": "2026-07-13T19:38:54.000Z",
-   "collected_at": "2026-07-14T18:34:18+09:00",
-   "source": "apify"
-  },
-  "tiktok_7293547986544594183": {
-   "id": "7293547986544594183",
-   "platform": "tiktok",
-   "genre": "illust",
-   "url": "https://www.tiktok.com/@hnkn___ki/video/7293547986544594183",
-   "author": {
-    "handle": "hnkn___ki",
-    "followers": 31200
-   },
-   "metrics": {
-    "likes": 31400,
-    "views": 688300,
-    "comments": 124
-   },
-   "buzz_score": 22.06,
-   "caption": "リクエストがあったので、厚塗り方法の解説動画です！\n解説系を出すのは初めてなので分かりにくいかもしれません〜🥲\n\n#イラスト解説 #イラストメイキング #イラスト描き方 #厚塗りのやり方 #厚塗り #博麗霊夢 #東方project #タイムラプス #digitalart #drawing #illustrationart ",
-   "hashtags": [
-    "イラスト解説",
-    "イラストメイキング",
-    "イラスト描き方",
-    "厚塗りのやり方",
-    "厚塗り",
-    "博麗霊夢",
-    "東方project",
-    "タイムラプス",
-    "digitalart",
-    "drawing",
-    "illustrationart"
-   ],
-   "thumb": "data/thumbs/tiktok_7293547986544594183.jpg",
-   "posted_at": "2023-10-24T15:31:16.000Z",
-   "collected_at": "2026-07-14T18:34:18+09:00",
-   "source": "apify"
-  },
-  "tiktok_6994780644006006017": {
-   "id": "6994780644006006017",
-   "platform": "tiktok",
-   "genre": "illust",
-   "url": "https://www.tiktok.com/@nowatari_pi1/video/6994780644006006017",
-   "author": {
-    "handle": "nowatari_pi1",
-    "followers": 23200
-   },
-   "metrics": {
-    "likes": 44800,
-    "views": 1200000,
-    "comments": 80
-   },
-   "buzz_score": 51.72,
-   "caption": "らくがきアスカ超ざっくりメイキング👀✍ #イラスト #イラストメイキング #厚塗り #メイキング #エヴァンゲリオン #式波アスカ",
-   "hashtags": [
-    "イラスト",
-    "イラストメイキング",
-    "厚塗り",
-    "メイキング",
-    "エヴァンゲリオン",
-    "式波アスカ"
-   ],
-   "thumb": "data/thumbs/tiktok_6994780644006006017.jpg",
-   "posted_at": "2021-08-10T12:41:21.000Z",
    "collected_at": "2026-07-14T18:34:18+09:00",
    "source": "apify"
   },
@@ -5937,28 +4833,6 @@
    "hashtags": [],
    "thumb": "data/thumbs/instagram_DZHtykhvmyj.jpg",
    "posted_at": "2026-06-03T10:39:54.000Z",
-   "collected_at": "2026-07-14T18:35:29+09:00",
-   "source": "apify"
-  },
-  "instagram_DLl-fFyyLko": {
-   "id": "DLl-fFyyLko",
-   "platform": "instagram",
-   "genre": "salon",
-   "url": "https://www.instagram.com/p/DLl-fFyyLko/",
-   "author": {
-    "handle": "hiro.odagiri",
-    "followers": 1315572
-   },
-   "metrics": {
-    "likes": 8552,
-    "views": 641196,
-    "comments": 18
-   },
-   "buzz_score": 0.01,
-   "caption": "2025年\"正統派アイブロウの作り方\"\nそうよ〜♡どんなファッション・メイクでも好印象なアイブロウがあるのよ〜♡",
-   "hashtags": [],
-   "thumb": "data/thumbs/instagram_DLl-fFyyLko.jpg",
-   "posted_at": "2025-07-02T09:03:37.000Z",
    "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
@@ -6059,50 +4933,6 @@
    "hashtags": [],
    "thumb": "data/thumbs/instagram_DZXOo4axk2-.jpg",
    "posted_at": "2026-06-09T11:16:54.000Z",
-   "collected_at": "2026-07-14T18:35:29+09:00",
-   "source": "apify"
-  },
-  "instagram_CyPi9pDPebp": {
-   "id": "CyPi9pDPebp",
-   "platform": "instagram",
-   "genre": "salon",
-   "url": "https://www.instagram.com/p/CyPi9pDPebp/",
-   "author": {
-    "handle": "kyohei_konishi",
-    "followers": 973326
-   },
-   "metrics": {
-    "likes": 6755,
-    "views": 777352,
-    "comments": 25
-   },
-   "buzz_score": 0.01,
-   "caption": "セミロングの簡単巻き髪をアレンジ✨\n\nまず最初はこのやり方から覚えると他のスタイリングもできるようになるので試してみてください！\n\nカラーは、オリーブベージュです✨",
-   "hashtags": [],
-   "thumb": "data/thumbs/instagram_CyPi9pDPebp.jpg",
-   "posted_at": "2023-10-11T03:09:42.000Z",
-   "collected_at": "2026-07-14T18:35:29+09:00",
-   "source": "apify"
-  },
-  "instagram_DEgpRLZPvUf": {
-   "id": "DEgpRLZPvUf",
-   "platform": "instagram",
-   "genre": "salon",
-   "url": "https://www.instagram.com/p/DEgpRLZPvUf/",
-   "author": {
-    "handle": "kyohei_konishi",
-    "followers": 973326
-   },
-   "metrics": {
-    "likes": 27236,
-    "views": 1350088,
-    "comments": 43
-   },
-   "buzz_score": 0.03,
-   "caption": "保存数20万の人気ヘア✂︎✨\n\n入れすぎないナチュラルなブローでレイヤースタイルです✨",
-   "hashtags": [],
-   "thumb": "data/thumbs/instagram_DEgpRLZPvUf.jpg",
-   "posted_at": "2025-01-07T03:57:59.000Z",
    "collected_at": "2026-07-14T18:35:29+09:00",
    "source": "apify"
   },
@@ -6306,33 +5136,6 @@
    "collected_at": "2026-07-14T18:38:53+09:00",
    "source": "apify"
   },
-  "tiktok_7594839716332145940": {
-   "id": "7594839716332145940",
-   "platform": "tiktok",
-   "genre": "salon",
-   "url": "https://www.tiktok.com/@shiro__me/video/7594839716332145940",
-   "author": {
-    "handle": "shiro__me",
-    "followers": 69800
-   },
-   "metrics": {
-    "likes": 2628,
-    "views": 99000,
-    "comments": 9
-   },
-   "buzz_score": 1.42,
-   "caption": "33歳 美容オタクがリアルに通い続けてる\"ご自愛サロン\"まとめ✍️✨\n\n#美容 #アラサー美容 #整体 #よもぎ蒸し",
-   "hashtags": [
-    "美容",
-    "アラサー美容",
-    "整体",
-    "よもぎ蒸し"
-   ],
-   "thumb": "data/thumbs/tiktok_7594839716332145940.jpg",
-   "posted_at": "2026-01-13T13:37:10.000Z",
-   "collected_at": "2026-07-14T18:38:53+09:00",
-   "source": "apify"
-  },
   "tiktok_7661840452328426773": {
    "id": "7661840452328426773",
    "platform": "tiktok",
@@ -6455,33 +5258,6 @@
    ],
    "thumb": "data/thumbs/tiktok_7653777665287081236.jpg",
    "posted_at": "2026-06-21T09:26:28.000Z",
-   "collected_at": "2026-07-14T18:38:53+09:00",
-   "source": "apify"
-  },
-  "tiktok_7583339716242754837": {
-   "id": "7583339716242754837",
-   "platform": "tiktok",
-   "genre": "salon",
-   "url": "https://www.tiktok.com/@hata_misaki/video/7583339716242754837",
-   "author": {
-    "handle": "hata_misaki",
-    "followers": 299600
-   },
-   "metrics": {
-    "likes": 6952,
-    "views": 773900,
-    "comments": 42
-   },
-   "buzz_score": 2.58,
-   "caption": "なんかぜんぶ抜け感のある色で簡単に垢抜けられそう🪄💞垢抜けはまず眉毛からっていうくらいだから大切だよね〜🫧　\nrom&nd\nハンオールブロウカラ\n#垢抜け #垢抜け方法 #眉毛 #アイブロウマスカラ",
-   "hashtags": [
-    "垢抜け",
-    "垢抜け方法",
-    "眉毛",
-    "アイブロウマスカラ"
-   ],
-   "thumb": "data/thumbs/tiktok_7583339716242754837.jpg",
-   "posted_at": "2025-12-13T13:51:16.000Z",
    "collected_at": "2026-07-14T18:38:53+09:00",
    "source": "apify"
   },
@@ -6974,33 +5750,6 @@
    "collected_at": "2026-07-14T18:38:53+09:00",
    "source": "apify"
   },
-  "tiktok_7568766438408752402": {
-   "id": "7568766438408752402",
-   "platform": "tiktok",
-   "genre": "salon",
-   "url": "https://www.tiktok.com/@_amistyle_/video/7568766438408752402",
-   "author": {
-    "handle": "_amistyle_",
-    "followers": 181400
-   },
-   "metrics": {
-    "likes": 309,
-    "views": 19300,
-    "comments": 4
-   },
-   "buzz_score": 0.11,
-   "caption": "金欠大学生が珍しくお仕事した日のvlog🎥💇🏻‍♀️\n#サロンモデル #サロモ #仕事vlog #美容室 ",
-   "hashtags": [
-    "サロンモデル",
-    "サロモ",
-    "仕事vlog",
-    "美容室"
-   ],
-   "thumb": "data/thumbs/tiktok_7568766438408752402.jpg",
-   "posted_at": "2025-11-04T07:19:27.000Z",
-   "collected_at": "2026-07-14T18:38:53+09:00",
-   "source": "apify"
-  },
   "tiktok_7660120178868391188": {
    "id": "7660120178868391188",
    "platform": "tiktok",
@@ -7135,32 +5884,6 @@
    "collected_at": "2026-07-14T18:38:53+09:00",
    "source": "apify"
   },
-  "tiktok_7315023352224124161": {
-   "id": "7315023352224124161",
-   "platform": "tiktok",
-   "genre": "business",
-   "url": "https://www.tiktok.com/@makiyonh/video/7315023352224124161",
-   "author": {
-    "handle": "makiyonh",
-    "followers": 7236
-   },
-   "metrics": {
-    "likes": 1710,
-    "views": 118900,
-    "comments": 44
-   },
-   "buzz_score": 16.43,
-   "caption": "#副業初心者向け#60代副業#50代副業",
-   "hashtags": [
-    "副業初心者向け",
-    "60代副業",
-    "50代副業"
-   ],
-   "thumb": "data/thumbs/tiktok_7315023352224124161.jpg",
-   "posted_at": "2023-12-21T12:26:40.000Z",
-   "collected_at": "2026-07-14T18:41:49+09:00",
-   "source": "apify"
-  },
   "tiktok_7618612598929444116": {
    "id": "7618612598929444116",
    "platform": "tiktok",
@@ -7186,34 +5909,6 @@
    ],
    "thumb": "data/thumbs/tiktok_7618612598929444116.jpg",
    "posted_at": "2026-03-18T15:08:04.000Z",
-   "collected_at": "2026-07-14T18:41:49+09:00",
-   "source": "apify"
-  },
-  "tiktok_7440775361740246280": {
-   "id": "7440775361740246280",
-   "platform": "tiktok",
-   "genre": "business",
-   "url": "https://www.tiktok.com/@seira.yutori/video/7440775361740246280",
-   "author": {
-    "handle": "seira.yutori",
-    "followers": 1690
-   },
-   "metrics": {
-    "likes": 2198,
-    "views": 120000,
-    "comments": 361
-   },
-   "buzz_score": 71.01,
-   "caption": "📕✏️\n\n#副業初心者 #大人の塗り絵#Kindle#Amazon#フリーランス",
-   "hashtags": [
-    "副業初心者",
-    "大人の塗り絵",
-    "kindle",
-    "amazon",
-    "フリーランス"
-   ],
-   "thumb": "data/thumbs/tiktok_7440775361740246280.jpg",
-   "posted_at": "2024-11-24T09:28:41.000Z",
    "collected_at": "2026-07-14T18:41:49+09:00",
    "source": "apify"
   },
@@ -7293,34 +5988,6 @@
    ],
    "thumb": "data/thumbs/tiktok_7642607230671457544.jpg",
    "posted_at": "2026-05-22T06:59:26.000Z",
-   "collected_at": "2026-07-14T18:41:49+09:00",
-   "source": "apify"
-  },
-  "tiktok_7564713808367947028": {
-   "id": "7564713808367947028",
-   "platform": "tiktok",
-   "genre": "business",
-   "url": "https://www.tiktok.com/@business_syoukai/video/7564713808367947028",
-   "author": {
-    "handle": "business_syoukai",
-    "followers": 6013
-   },
-   "metrics": {
-    "likes": 3197,
-    "views": 388500,
-    "comments": 176
-   },
-   "buzz_score": 64.61,
-   "caption": "このビジネスが凄い！✨ No.30 石アート#smallbusiness #businessideas #businesschance #スモールビジネス #ビジネスアイデア ",
-   "hashtags": [
-    "smallbusiness",
-    "businessideas",
-    "businesschance",
-    "スモールビジネス",
-    "ビジネスアイデア"
-   ],
-   "thumb": "data/thumbs/tiktok_7564713808367947028.jpg",
-   "posted_at": "2025-10-24T09:13:12.000Z",
    "collected_at": "2026-07-14T18:41:49+09:00",
    "source": "apify"
   },
@@ -7404,32 +6071,6 @@
    "collected_at": "2026-07-14T18:41:49+09:00",
    "source": "apify"
   },
-  "tiktok_7478295351829499154": {
-   "id": "7478295351829499154",
-   "platform": "tiktok",
-   "genre": "business",
-   "url": "https://www.tiktok.com/@ryo_sns26/video/7478295351829499154",
-   "author": {
-    "handle": "ryo_sns26",
-    "followers": 2171
-   },
-   "metrics": {
-    "likes": 1284,
-    "views": 62000,
-    "comments": 17
-   },
-   "buzz_score": 28.56,
-   "caption": "思考は現実になります！\nこれガチ\n\n#フリーランス \n#フリーランスの日常 \n#自由な生活 ",
-   "hashtags": [
-    "フリーランス",
-    "フリーランスの日常",
-    "自由な生活"
-   ],
-   "thumb": "data/thumbs/tiktok_7478295351829499154.jpg",
-   "posted_at": "2025-03-05T12:05:24.000Z",
-   "collected_at": "2026-07-14T18:41:49+09:00",
-   "source": "apify"
-  },
   "tiktok_7634847394806517012": {
    "id": "7634847394806517012",
    "platform": "tiktok",
@@ -7483,34 +6124,6 @@
    ],
    "thumb": "data/thumbs/tiktok_7648585490328833300.jpg",
    "posted_at": "2026-06-07T10:10:00.000Z",
-   "collected_at": "2026-07-14T18:41:49+09:00",
-   "source": "apify"
-  },
-  "tiktok_7486426763099131154": {
-   "id": "7486426763099131154",
-   "platform": "tiktok",
-   "genre": "business",
-   "url": "https://www.tiktok.com/@asahina_riona/video/7486426763099131154",
-   "author": {
-    "handle": "asahina_riona",
-    "followers": 129300
-   },
-   "metrics": {
-    "likes": 2736,
-    "views": 190100,
-    "comments": 44
-   },
-   "buzz_score": 1.47,
-   "caption": "『旅しながら、収入どうしてるの？』に答えます！  #ノマド #ノマドワーカー #フリーランス #フリーランスの働き方 #フリーランス女子 ",
-   "hashtags": [
-    "ノマド",
-    "ノマドワーカー",
-    "フリーランス",
-    "フリーランスの働き方",
-    "フリーランス女子"
-   ],
-   "thumb": "data/thumbs/tiktok_7486426763099131154.jpg",
-   "posted_at": "2025-03-27T09:59:26.000Z",
    "collected_at": "2026-07-14T18:41:49+09:00",
    "source": "apify"
   },
@@ -8773,33 +7386,6 @@
    "collected_at": "2026-07-14T18:46:24+09:00",
    "source": "apify"
   },
-  "tiktok_7575514009462476039": {
-   "id": "7575514009462476039",
-   "platform": "tiktok",
-   "genre": "fitness",
-   "url": "https://www.tiktok.com/@sakidori_/video/7575514009462476039",
-   "author": {
-    "handle": "sakidori_",
-    "followers": 1535
-   },
-   "metrics": {
-    "likes": 22,
-    "views": 2298,
-    "comments": 0
-   },
-   "buzz_score": 1.5,
-   "caption": "宅トレしてる人は必見！\n\n#ランキング #商品紹介 #トレーニング #宅トレ ",
-   "hashtags": [
-    "ランキング",
-    "商品紹介",
-    "トレーニング",
-    "宅トレ"
-   ],
-   "thumb": "data/thumbs/tiktok_7575514009462476039.jpg",
-   "posted_at": "2025-11-22T11:43:28.000Z",
-   "collected_at": "2026-07-14T18:46:24+09:00",
-   "source": "apify"
-  },
   "tiktok_7659700973811551495": {
    "id": "7659700973811551495",
    "platform": "tiktok",
@@ -9012,58 +7598,6 @@
    "hashtags": [],
    "thumb": "data/thumbs/tiktok_7598275560225164566.jpg",
    "posted_at": "2026-01-22T19:49:53.000Z",
-   "collected_at": "2026-07-14T18:46:24+09:00",
-   "source": "apify"
-  },
-  "tiktok_7141558901584989442": {
-   "id": "7141558901584989442",
-   "platform": "tiktok",
-   "genre": "fitness",
-   "url": "https://www.tiktok.com/@ekuro_diet/video/7141558901584989442",
-   "author": {
-    "handle": "ekuro_diet",
-    "followers": 5357
-   },
-   "metrics": {
-    "likes": 56,
-    "views": 4620,
-    "comments": 0
-   },
-   "buzz_score": 0.86,
-   "caption": "毎日お家トレ投稿してます🏠#家トレ #宅トレ ",
-   "hashtags": [
-    "家トレ",
-    "宅トレ"
-   ],
-   "thumb": "data/thumbs/tiktok_7141558901584989442.jpg",
-   "posted_at": "2022-09-10T01:36:07.000Z",
-   "collected_at": "2026-07-14T18:46:24+09:00",
-   "source": "apify"
-  },
-  "tiktok_7325398238649928961": {
-   "id": "7325398238649928961",
-   "platform": "tiktok",
-   "genre": "fitness",
-   "url": "https://www.tiktok.com/@sho_lil/video/7325398238649928961",
-   "author": {
-    "handle": "sho_lil",
-    "followers": 34900
-   },
-   "metrics": {
-    "likes": 926,
-    "views": 44900,
-    "comments": 11
-   },
-   "buzz_score": 1.29,
-   "caption": "ベンチよりこれをやれ！\n\n師匠　@tomomo_fitness 様\nインスパイアさせていただいております\n\n#筋トレ  \n#宅トレ先生 \n#宅トレ  \n#1分宅トレ",
-   "hashtags": [
-    "筋トレ",
-    "宅トレ先生",
-    "宅トレ",
-    "1分宅トレ"
-   ],
-   "thumb": "data/thumbs/tiktok_7325398238649928961.jpg",
-   "posted_at": "2024-01-18T11:27:21.000Z",
    "collected_at": "2026-07-14T18:46:24+09:00",
    "source": "apify"
   },
@@ -9293,33 +7827,6 @@
    "collected_at": "2026-07-14T18:46:24+09:00",
    "source": "apify"
   },
-  "tiktok_7338375220719357185": {
-   "id": "7338375220719357185",
-   "platform": "tiktok",
-   "genre": "fitness",
-   "url": "https://www.tiktok.com/@sho_imakoga/video/7338375220719357185",
-   "author": {
-    "handle": "sho_imakoga",
-    "followers": 198800
-   },
-   "metrics": {
-    "likes": 85200,
-    "views": 2500000,
-    "comments": 623
-   },
-   "buzz_score": 12.58,
-   "caption": "正しいラットプルダウン4つのポイント\n#筋トレ #フィットネス #広背筋 #背中 ",
-   "hashtags": [
-    "筋トレ",
-    "フィットネス",
-    "広背筋",
-    "背中"
-   ],
-   "thumb": "data/thumbs/tiktok_7338375220719357185.jpg",
-   "posted_at": "2024-02-22T10:43:58.000Z",
-   "collected_at": "2026-07-14T18:46:24+09:00",
-   "source": "apify"
-  },
   "tiktok_7661434479432568086": {
    "id": "7661434479432568086",
    "platform": "tiktok",
@@ -9537,60 +8044,6 @@
    "collected_at": "2026-07-14T18:46:24+09:00",
    "source": "apify"
   },
-  "tiktok_7228125410284801281": {
-   "id": "7228125410284801281",
-   "platform": "tiktok",
-   "genre": "fitness",
-   "url": "https://www.tiktok.com/@i_am_kyana/video/7228125410284801281",
-   "author": {
-    "handle": "i_am_kyana",
-    "followers": 25800
-   },
-   "metrics": {
-    "likes": 58500,
-    "views": 1400000,
-    "comments": 122
-   },
-   "buzz_score": 54.26,
-   "caption": "ブルガリアンスクワットって脚の位置困らない？#筋トレ女子 #ダイエット #ジムトレーニング #筋トレ初心者 #フィットネス ",
-   "hashtags": [
-    "筋トレ女子",
-    "ダイエット",
-    "ジムトレーニング",
-    "筋トレ初心者",
-    "フィットネス"
-   ],
-   "thumb": "data/thumbs/tiktok_7228125410284801281.jpg",
-   "posted_at": "2023-05-01T08:18:18.000Z",
-   "collected_at": "2026-07-14T18:46:24+09:00",
-   "source": "apify"
-  },
-  "tiktok_7580218348722457864": {
-   "id": "7580218348722457864",
-   "platform": "tiktok",
-   "genre": "fitness",
-   "url": "https://www.tiktok.com/@lifefit_okayamatoyonari/video/7580218348722457864",
-   "author": {
-    "handle": "lifefit_okayamatoyonari",
-    "followers": 1397
-   },
-   "metrics": {
-    "likes": 694,
-    "views": 37100,
-    "comments": 4
-   },
-   "buzz_score": 26.56,
-   "caption": "バーベルヒップリフトのやり方🍑\nお尻にとても効きます🤣💦❤️‍🔥\nみんなで田中みな実さまになりましょう♡！\n\n #24時間ジム #トレーニング #ダイエット フィットネスジム 筋トレ女子 岡山ジム lifefit ライフフィット lifefit岡山豊成 筋トレ",
-   "hashtags": [
-    "24時間ジム",
-    "トレーニング",
-    "ダイエット"
-   ],
-   "thumb": "data/thumbs/tiktok_7580218348722457864.jpg",
-   "posted_at": "2025-12-05T03:58:41.000Z",
-   "collected_at": "2026-07-14T18:46:24+09:00",
-   "source": "apify"
-  },
   "tiktok_7645953153942293767": {
    "id": "7645953153942293767",
    "platform": "tiktok",
@@ -9670,32 +8123,6 @@
    ],
    "thumb": "data/thumbs/tiktok_7640692319477419272.jpg",
    "posted_at": "2026-05-17T03:08:43.000Z",
-   "collected_at": "2026-07-14T18:46:24+09:00",
-   "source": "apify"
-  },
-  "tiktok_7248258306366508290": {
-   "id": "7248258306366508290",
-   "platform": "tiktok",
-   "genre": "fitness",
-   "url": "https://www.tiktok.com/@i_am_kyana/video/7248258306366508290",
-   "author": {
-    "handle": "i_am_kyana",
-    "followers": 25800
-   },
-   "metrics": {
-    "likes": 583,
-    "views": 38400,
-    "comments": 21
-   },
-   "buzz_score": 1.49,
-   "caption": "私はフィットネスが大好きです！#筋トレ女子 #フィットネス #ストレッチ ",
-   "hashtags": [
-    "筋トレ女子",
-    "フィットネス",
-    "ストレッチ"
-   ],
-   "thumb": "data/thumbs/tiktok_7248258306366508290.jpg",
-   "posted_at": "2023-06-24T14:24:10.000Z",
    "collected_at": "2026-07-14T18:46:24+09:00",
    "source": "apify"
   }
